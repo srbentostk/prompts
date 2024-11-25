@@ -1,0 +1,11 @@
+{
+    "filename": "analyze_data_breach_implications.md",
+    "nome": "Analisar Implicações de Violação de Dados",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_data_breach_implications.md",
+    "descricao": "Este prompt solicita uma análise detalhada das implicações de uma violação de dados, abordando causas, consequências e medidas de segurança. O objetivo é identificar pontos-chave sobre proteção de dados, discutir exemplos de incidentes e oferecer recomendações para prevenção e mitigação de violações, além de considerar aspectos legais e desafios específicos do setor.",
+    "tags": [
+        "Cybersegurança",
+        "Análise de Dados",
+        "Gestão de Problemas"
+    ]
+}

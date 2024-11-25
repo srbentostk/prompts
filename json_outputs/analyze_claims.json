@@ -1,0 +1,11 @@
+{
+    "filename": "analyze_claims.md",
+    "nome": "Analisar Reivindicações",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_claims.md",
+    "descricao": "O prompt orienta o desenvolvimento de uma solução baseada em IA para analisar o conteúdo das redes sociais, visando identificar inconsistências em alegações de lesões pessoais. Ele aborda objetivos, viabilidade, casos de uso no campo jurídico, soluções existentes e considerações técnicas, propondo uma estratégia de implementação detalhada.",
+    "tags": [
+        "Tecnologia",
+        "Análise de Texto",
+        "Jurídico"
+    ]
+}

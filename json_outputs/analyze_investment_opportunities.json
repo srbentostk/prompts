@@ -1,0 +1,11 @@
+{
+    "filename": "analyze_investment_opportunities.md",
+    "nome": "Analisar Oportunidades de Investimento",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_investment_opportunities.md",
+    "descricao": "Este prompt solicita a criação de um sistema para analisar ações, ativos digitais e criptomoedas, incluindo uma comparação de tendências de mercado, volatilidade e riscos. Além disso, pede a configuração de notificações automatizadas para mudanças relevantes em cada categoria, com a inclusão de uma isenção de responsabilidade sobre a natureza das informações fornecidas.",
+    "tags": [
+        "Análise Financeira",
+        "Criptomoedas",
+        "Automação"
+    ]
+}

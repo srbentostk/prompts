@@ -1,0 +1,10 @@
+{
+    "filename": "provide_guidance.md",
+    "nome": "Fornecer Orientação",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/provide_guidance.md",
+    "descricao": "Este prompt orienta a criação de um assistente virtual que fornece aconselhamento jurídico, substituindo a necessidade de um advogado. A tarefa envolve identificar questões legais, oferecer soluções em etapas claras, utilizar uma linguagem acessível e garantir a precisão das informações, complementando com pesquisas online e referências respeitáveis.",
+    "tags": [
+        "Jurídico",
+        "Pesquisa"
+    ]
+}

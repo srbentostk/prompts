@@ -1,0 +1,11 @@
+{
+    "filename": "summarize_paper.md",
+    "nome": "Resumir Artigo",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/summarize_paper.md",
+    "descricao": "Este prompt orienta um revisor de artigos acadêmicos a realizar a sumarização de um artigo baseado em seu texto completo. Ele fornece uma estrutura clara para extrair informações essenciais, como título, autores, objetivo da pesquisa, metodologia, características distintivas, resultados e análise das vantagens e limitações do estudo. A intenção é facilitar a compreensão e a apresentação concisa da",
+    "tags": [
+        "Análise de Texto",
+        "Ciência de Dados",
+        "Escrita Criativa"
+    ]
+}

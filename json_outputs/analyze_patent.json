@@ -1,0 +1,11 @@
+{
+    "filename": "analyze_patent.md",
+    "nome": "Analisar Patente",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_patent.md",
+    "descricao": "Este prompt orienta um examinador de patentes a seguir um processo detalhado para avaliar a novidade e o passo inventivo de uma patente. O examinador deve identificar o campo da tecnologia, o problema que a patente resolve, a solução proposta, suas vantagens, e determinar se a patente é nova e inventiva, apresentando tudo isso em um formato estruturado.",
+    "tags": [
+        "Ciência de Dados",
+        "Análise de Texto",
+        "Desenvolvimento de Produto"
+    ]
+}

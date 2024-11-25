@@ -1,0 +1,11 @@
+{
+    "filename": "extract_questions.md",
+    "nome": "Extrair Perguntas",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/extract_questions.md",
+    "descricao": "Este arquivo contém um prompt para uma IA que se especializa em extrair perguntas de um conteúdo e analisar o que as torna eficazes. O objetivo é listar as perguntas extraídas, analisar suas qualidades e oferecer recomendações para entrevistadores sobre como formular perguntas impactantes.",
+    "tags": [
+        "Análise de Texto",
+        "Criação de Conteúdo",
+        "Entrevista de Emprego"
+    ]
+}

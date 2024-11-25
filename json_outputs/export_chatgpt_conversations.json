@@ -1,0 +1,11 @@
+{
+    "filename": "export_chatgpt_conversations.md",
+    "nome": "Exportar Conversas do ChatGPT",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/export_chatgpt_conversations.md",
+    "descricao": "Este guia detalha o processo de exportação de conversas do ChatGPT, incluindo instruções passo a passo para diferentes formatos de exportação, organização do conteúdo, importação em bancos de dados e dicas para manter a integridade dos dados. Também recomenda ferramentas úteis e oferece conselhos para automatizar o fluxo de trabalho.",
+    "tags": [
+        "Tecnologia",
+        "Extração de Dados",
+        "Desenvolvimento de Produto"
+    ]
+}

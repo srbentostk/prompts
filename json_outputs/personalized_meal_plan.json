@@ -1,0 +1,10 @@
+{
+    "filename": "personalized_meal_plan.md",
+    "nome": "Plano de Refeições Personalizado",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/personalized_meal_plan.md",
+    "descricao": "Este prompt orienta a criação de um plano de refeições adaptado às necessidades individuais de um cliente, levando em consideração dados como peso, altura, nível de atividade física e preferências alimentares. O resultado deve incluir um cardápio semanal detalhado, com informações sobre ingredientes, calorias, tipos de alimentos e custos, apresentado de forma organizada.",
+    "tags": [
+        "Criação de Conteúdo",
+        "Saúde"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "filename": "summarize_lecture.md",
+    "nome": "Resumir Palestra",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/summarize_lecture.md",
+    "descricao": "O arquivo orienta como extrair e estruturar os principais tópicos de uma transcrição de palestra, organizando-os em listas e incluindo timestamps. O objetivo é criar um resumo claro e conciso, destacando definições, ferramentas mencionadas e lições aprendidas.",
+    "tags": [
+        "Criação de Conteúdo",
+        "Ensino",
+        "Comunicação"
+    ]
+}

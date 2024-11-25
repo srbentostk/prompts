@@ -1,0 +1,11 @@
+{
+    "filename": "create_quiz.md",
+    "nome": "Criar Questionário",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_quiz.md",
+    "descricao": "Este prompt tem como finalidade gerar perguntas de revisão para estudantes que desejam revisar conceitos de aprendizagem específicos. As perguntas devem ser adaptadas ao nível do estudante, que pode variar de universitário sênior a profissional da indústria, e devem desafiar o conhecimento do aluno com base nos objetivos de aprendizagem fornecidos.",
+    "tags": [
+        "Ensino",
+        "Criatividade",
+        "Educação"
+    ]
+}

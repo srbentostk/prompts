@@ -1,0 +1,10 @@
+{
+    "filename": "get_youtube_rss.md",
+    "nome": "Obter RSS do YouTube",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/get_youtube_rss.md",
+    "descricao": "Este documento descreve um especialista em infraestrutura do YouTube que é responsável por retornar URLs de RSS de canais do YouTube. Ele recebe entradas como IDs de canais ou URLs completas e fornece a URL RSS correspondente. O conteúdo também inclui instruções sobre como extrair o ID do canal e construir a URL RSS apropriada.",
+    "tags": [
+        "Tecnologia",
+        "Extração de Dados"
+    ]
+}

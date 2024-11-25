@@ -1,0 +1,11 @@
+{
+    "filename": "humanize_ai_text.md",
+    "nome": "Humanizar Texto de IA",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/humanize_ai_text.md",
+    "descricao": "Este prompt orienta a transformação de um texto gerado por inteligência artificial em um formato mais humano e natural, visando evitar a detecção por ferramentas de análise de IA. O foco é manter um tom profissional e garantir que o resultado final pareça autêntico e não uma produção automatizada.",
+    "tags": [
+        "AI",
+        "Criação de Conteúdo",
+        "Comunicação"
+    ]
+}

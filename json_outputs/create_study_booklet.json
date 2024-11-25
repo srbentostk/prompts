@@ -1,0 +1,11 @@
+{
+    "filename": "create_study_booklet.md",
+    "nome": "Criar Caderno de Estudos",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_study_booklet.md",
+    "descricao": "Este prompt orienta a criação de um caderno de estudos abrangente sobre um tema específico. O caderno deve incluir seções detalhadas e questões de múltipla escolha para avaliar a compreensão do aluno. As etapas incluem a seleção do tema, desenvolvimento de conteúdo, elaboração de questões, formatação e revisão final para garantir um material eficaz e organizado.",
+    "tags": [
+        "Ensino",
+        "Guias de Estudo",
+        "Criação de Conteúdo"
+    ]
+}

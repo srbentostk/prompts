@@ -1,0 +1,11 @@
+{
+    "filename": "summarize_study_material.md",
+    "nome": "Resumir Material de Estudo",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/summarize_study_material.md",
+    "descricao": "O prompt orienta a criação de anotações de estudo detalhadas para preparação de exames, abordando a identificação de tópicos chave, resumos concisos do conteúdo, destaque de informações importantes, sugestões de auxílios visuais, criação de questões práticas, dicas de revisão, planejamento de tempo e recursos adicionais. O objetivo é facilitar o aprendizado e a retenção do material estudado.",
+    "tags": [
+        "Estudantes",
+        "Ensino",
+        "Guias de Estudo"
+    ]
+}

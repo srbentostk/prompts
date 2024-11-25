@@ -1,0 +1,11 @@
+{
+    "filename": "create_api_specification.md",
+    "nome": "Criar Especificação de API",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_api_specification.md",
+    "descricao": "Este documento orienta sobre como criar uma especificação de API para um recurso de escalonamento de risco de segurança. Inclui etapas para familiarização com procedimentos de gerenciamento de vulnerabilidades, definição de endpoints, métodos HTTP, estrutura de payloads de requisição e resposta, além de tratamento de erros e revisão da documentação.",
+    "tags": [
+        "Desenvolvimento de Produto",
+        "Tecnologia",
+        "API"
+    ]
+}

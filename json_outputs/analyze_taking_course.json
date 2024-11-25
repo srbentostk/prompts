@@ -1,0 +1,11 @@
+{
+    "filename": "analyze_taking_course.md",
+    "nome": "Analisar a Realização de um Curso",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_taking_course.md",
+    "descricao": "O prompt tem a intenção de auxiliar um usuário na decisão de pagar ou não por um curso específico. Ele orienta a análise de detalhes do curso e do contexto do usuário, considerando fatores como relevância, qualidade, custo e alternativas gratuitas. O objetivo final é fornecer uma recomendação fundamentada sobre a viabilidade do investimento no curso.",
+    "tags": [
+        "Educação",
+        "Análise de Dados",
+        "Desenvolvimento Pessoal"
+    ]
+}

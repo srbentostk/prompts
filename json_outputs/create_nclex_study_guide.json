@@ -1,0 +1,11 @@
+{
+    "filename": "create_nclex_study_guide.md",
+    "nome": "Criar Guia de Estudos NCLEX",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_nclex_study_guide.md",
+    "descricao": "Este documento orienta a criação de um guia de estudos para o exame NCLEX, incluindo questões de múltipla escolha, questões alternativas e estudos de caso. O guia deve ser organizado por tópicos relevantes, apresentar explicações detalhadas para cada questão e fornecer dicas de estudo para auxiliar na compreensão e retenção do conteúdo, facilitando a preparação dos candidatos.",
+    "tags": [
+        "Ensino",
+        "Saúde",
+        "Enfermagem"
+    ]
+}

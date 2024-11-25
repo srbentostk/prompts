@@ -1,0 +1,11 @@
+{
+    "filename": "extract_poc.md",
+    "nome": "Extrair Prova de Conceito",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/extract_poc.md",
+    "descricao": "Este documento orienta um sistema de IA especializado em cibersegurança a extrair URLs de provas de conceito e métodos de validação de vulnerabilidades a partir de relatórios de segurança. O sistema deve retornar a URL executável que valida a vulnerabilidade, juntamente com o comando para sua execução.",
+    "tags": [
+        "Cybersegurança",
+        "Extração de Dados",
+        "Tecnologia"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "filename": "write_semgrep_rule.md",
+    "nome": "Escrever Regra Semgrep",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/write_semgrep_rule.md",
+    "descricao": "Este prompt orienta o usuário a criar regras Semgrep de forma eficaz e funcional, fornecendo passos e detalhes sobre a sintaxe necessária. O objetivo é ajudar na escrita de regras que identifiquem padrões específicos no código, promovendo uma melhor prática na utilização da ferramenta Semgrep.",
+    "tags": [
+        "Código",
+        "Software",
+        "AI"
+    ]
+}

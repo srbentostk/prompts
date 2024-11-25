@@ -1,0 +1,11 @@
+{
+    "filename": "create_command.md",
+    "nome": "Criar Comando",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_command.md",
+    "descricao": "O arquivo orienta um testador de penetração a gerar comandos de linha de comando (CLI) com base na documentação fornecida. O foco está em analisar cuidadosamente as instruções para garantir que os comandos sejam executados corretamente, utilizando apenas opções e parâmetros explicitamente listados. A ênfase é na precisão e na fidelidade às informações da documentação.",
+    "tags": [
+        "Cybersegurança",
+        "Software",
+        "Automação"
+    ]
+}

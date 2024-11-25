@@ -1,0 +1,11 @@
+{
+    "filename": "summarize_git_changes.md",
+    "nome": "Resumir Mudanças no Git",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/summarize_git_changes.md",
+    "descricao": "Este prompt orienta um especialista em gerenciamento de projetos a criar atualizações claras sobre as mudanças em um projeto no GitHub nos últimos sete dias. O objetivo é destacar as principais atualizações e melhorias de forma concisa e animada, utilizando uma estrutura de bullets e uma frase introdutória.",
+    "tags": [
+        "Gestão de Projetos",
+        "Desenvolvimento de Produto",
+        "Análise de Dados"
+    ]
+}

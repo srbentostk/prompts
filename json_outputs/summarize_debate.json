@@ -1,0 +1,11 @@
+{
+    "filename": "summarize_debate.md",
+    "nome": "Resumir Debate",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/summarize_debate.md",
+    "descricao": "O prompt tem a intenção de guiar uma ASI na análise e resumo de debates, identificando desacordos principais, argumentos apresentados e evidências que poderiam mudar as opiniões dos participantes. O objetivo é produzir um resumo conciso e estruturado, facilitando a compreensão das posições e argumentos de cada lado na discussão.",
+    "tags": [
+        "Análise de Texto",
+        "Criação de Conteúdo",
+        "Comunicação"
+    ]
+}

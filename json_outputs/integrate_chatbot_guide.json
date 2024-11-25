@@ -1,0 +1,11 @@
+{
+    "filename": "integrate_chatbot_guide.md",
+    "nome": "Integrar Chatbot Guia",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/integrate_chatbot_guide.md",
+    "descricao": "Este arquivo contém um guia detalhado para a integração de um chatbot personalizado, semelhante ao GPT, em um site. Ele aborda ferramentas e plataformas adequadas, fornece instruções passo a passo, orientações sobre treinamento de modelos, requisitos técnicos, dicas para manter o chatbot atualizado e desafios a serem considerados. O objetivo é facilitar a implementação eficaz de chatbots em sites.",
+    "tags": [
+        "Tecnologia",
+        "AI",
+        "Desenvolvimento de Produto"
+    ]
+}

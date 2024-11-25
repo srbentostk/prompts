@@ -1,0 +1,11 @@
+{
+    "filename": "explain_terms.md",
+    "nome": "Explicar Termos",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/explain_terms.md",
+    "descricao": "O prompt orienta a criação de um glossário que explica termos complexos encontrados em um determinado conteúdo. O objetivo é identificar e definir esses termos de maneira acessível, utilizando analogias para facilitar a compreensão, permitindo que quem lê entenda melhor o material em questão.",
+    "tags": [
+        "Análise de Texto",
+        "Criação de Conteúdo",
+        "Educação"
+    ]
+}

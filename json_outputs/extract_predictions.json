@@ -1,0 +1,11 @@
+{
+    "filename": "extract_predictions.md",
+    "nome": "Extrair Previsões",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/extract_predictions.md",
+    "descricao": "Este prompt orienta a extração de previsões de um conteúdo, incluindo detalhes como a previsão específica, data, nível de confiança e critérios de verificação, organizados em uma lista e tabela em formato Markdown.",
+    "tags": [
+        "Extração de Dados",
+        "Análise de Texto",
+        "Ciência de Dados"
+    ]
+}

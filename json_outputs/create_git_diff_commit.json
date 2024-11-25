@@ -1,0 +1,10 @@
+{
+    "filename": "create_git_diff_commit.md",
+    "nome": "Criar Commit de Diferença do Git",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_git_diff_commit.md",
+    "descricao": "Este arquivo orienta gerentes de projetos e desenvolvedores sobre como criar atualizações claras e concisas para commits no Git, destacando mudanças e atualizações. O processo inclui a leitura das alterações, a criação dos comandos git necessários e a utilização de mensagens de commit convencionais. O objetivo é garantir que as atualizações sejam bem documentadas e compreensíveis.",
+    "tags": [
+        "Desenvolvimento de Produto",
+        "Gestão de Projetos"
+    ]
+}

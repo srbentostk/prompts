@@ -1,0 +1,11 @@
+{
+    "filename": "create_5_sentence_summary.md",
+    "nome": "Criar Resumo em 5 Sentenças",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_5_sentence_summary.md",
+    "descricao": "Este prompt orienta uma IA a criar resumos concisos de entradas variando em cinco níveis de profundidade. A IA deve compreender a entrada, refletir sobre seu significado e elaborar um resumo que capture a essência do conteúdo em diferentes comprimentos, de cinco palavras até uma única palavra, apresentando as respostas de forma estruturada.",
+    "tags": [
+        "AI",
+        "Análise de Texto",
+        "Criação de Conteúdo"
+    ]
+}

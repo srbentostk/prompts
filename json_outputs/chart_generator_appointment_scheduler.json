@@ -1,0 +1,11 @@
+{
+    "filename": "chart_generator_appointment_scheduler.md",
+    "nome": "Gerador de Gráficos e Agendador de Compromissos",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/chart_generator_appointment_scheduler.md",
+    "descricao": "Este arquivo contém um prompt para a criação de um Gerador de Gráficos e Assistente de Agendamento de Compromissos, destinado a usuários que desejam desenvolver Agentes de IA e sistemas de automação. O prompt abrange funcionalidades como visualização de dados com diferentes tipos de gráficos e agendamento de compromissos com integração a calendários, além de oferecer personalização e interatividad",
+    "tags": [
+        "Tecnologia",
+        "AI",
+        "Desenvolvimento de Produto"
+    ]
+}

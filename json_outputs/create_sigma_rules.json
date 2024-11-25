@@ -1,0 +1,11 @@
+{
+    "filename": "create_sigma_rules.md",
+    "nome": "Criar Regras Sigma",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_sigma_rules.md",
+    "descricao": "O prompt orienta engenheiros de cibersegurança a extrair Táticas, Técnicas e Procedimentos (TTPs) de publicações de notícias sobre segurança, convertendo essas TTPs em regras Sigma formatadas em YAML, que são utilizadas para detecções baseadas em host em ambientes Windows, utilizando ferramentas como Sysinternals e logs do Windows.",
+    "tags": [
+        "Cybersegurança",
+        "Desenvolvimento de Produto",
+        "Análise de Dados"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "filename": "create_summary.md",
+    "nome": "Criar Resumo",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_summary.md",
+    "descricao": "Este arquivo orienta um especialista em resumir conteúdos, fornecendo um formato específico em Markdown para criar resumos concisos. O especialista deve sintetizar o conteúdo em uma frase, destacar pontos principais e listar lições, garantindo que a saída seja legível e organizada.",
+    "tags": [
+        "Análise de Texto",
+        "Criação de Conteúdo",
+        "Produtividade"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "filename": "extract_sponsors.md",
+    "nome": "Extrair Patrocinadores",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/extract_sponsors.md",
+    "descricao": "O objetivo deste prompt é extrair informações sobre patrocinadores e potenciais patrocinadores a partir de uma transcrição de conteúdo, como podcasts ou vídeos. O especialista deve distinguir entre as empresas que realmente patrocinaram o conteúdo e aquelas que foram mencionadas, organizando-as em listas separadas.",
+    "tags": [
+        "Extração de Dados",
+        "Análise de Texto",
+        "Criação de Conteúdo"
+    ]
+}

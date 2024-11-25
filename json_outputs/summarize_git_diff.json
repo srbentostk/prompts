@@ -1,0 +1,10 @@
+{
+    "filename": "summarize_git_diff.md",
+    "nome": "Resumir Diferenças do Git",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/summarize_git_diff.md",
+    "descricao": "Este documento orienta gerentes de projetos e desenvolvedores a criar atualizações claras e concisas sobre as alterações realizadas em um Git diff. O foco está em identificar as principais mudanças, apresentá-las em formato de bullet points e utilizar convenções de commit para facilitar a compreensão das modificações.",
+    "tags": [
+        "Gestão de Projetos",
+        "Documentação"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "filename": "analyze_funding_solicitation.md",
+    "nome": "Analisar Solicitação de Financiamento",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_funding_solicitation.md",
+    "descricao": "O prompt orienta a análise de um documento PDF sobre oportunidades de financiamento do SBIR e STTR do Departamento de Defesa (DoD) para pequenas empresas. O objetivo é identificar o problema central da solicitação, as tecnologias em busca de desenvolvimento, oportunidades para negócios, tendências críticas e os riscos envolvidos na implementação das soluções propostas.",
+    "tags": [
+        "Análise de Dados",
+        "Empreendedor",
+        "Financiamento"
+    ]
+}

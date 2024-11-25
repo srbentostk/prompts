@@ -1,0 +1,11 @@
+{
+    "filename": "extract_book_recommendations.md",
+    "nome": "Extrair Recomendações de Livros",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/extract_book_recommendations.md",
+    "descricao": "Este prompt orienta o usuário a inserir o nome de um livro e gerar um resumo completo, destacando de 50 a 100 recomendações práticas extraídas do conteúdo do livro. O objetivo é apresentar as recomendações de forma clara e organizada, seguindo instruções específicas para garantir a qualidade e a relevância das informações.",
+    "tags": [
+        "Criação de Conteúdo",
+        "Escrita",
+        "Livros"
+    ]
+}

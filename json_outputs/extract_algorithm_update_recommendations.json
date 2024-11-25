@@ -1,0 +1,11 @@
+{
+    "filename": "extract_algorithm_update_recommendations.md",
+    "nome": "Extrair Recomendações de Atualização de Algoritmo",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/extract_algorithm_update_recommendations.md",
+    "descricao": "Este documento fornece diretrizes para interpretar algoritmos e gerar recomendações práticas de atualização. O objetivo é extrair sugestões concisas que melhorem processos com base em entradas fornecidas, limitando cada recomendação a um máximo de 15 palavras.",
+    "tags": [
+        "Análise de Dados",
+        "Desenvolvimento de Produto",
+        "Tecnologia"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "filename": "DocumentOrganizationApp.md",
+    "nome": "Aplicativo de Organização de Documentos",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/DocumentOrganizationApp.md",
+    "descricao": "O prompt descreve o desenvolvimento de um aplicativo que auxilia os usuários na organização de uma biblioteca de documentos em seus computadores. O aplicativo deve escanear diferentes tipos de arquivos, permitir a seleção de pastas, classificar documentos por tipo e tema, identificar duplicatas e criar um índice pesquisável. O usuário é solicitado a elaborar um plano detalhado para a implementação",
+    "tags": [
+        "Software",
+        "Criação de Conteúdo",
+        "Desenvolvimento de Produto"
+    ]
+}

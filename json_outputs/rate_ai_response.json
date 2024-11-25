@@ -1,0 +1,11 @@
+{
+    "filename": "rate_ai_response.md",
+    "nome": "Avaliar Resposta de IA",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/rate_ai_response.md",
+    "descricao": "Este arquivo contém diretrizes para um especialista avaliar a qualidade das respostas geradas por sistemas de IA em comparação com especialistas humanos. O avaliador deve entender as instruções dadas à IA, analisar a resposta gerada, classificar sua qualidade em um sistema de notas e fornecer uma explicação detalhada para a pontuação atribuída.",
+    "tags": [
+        "AI",
+        "Feedback",
+        "Análise de Texto"
+    ]
+}

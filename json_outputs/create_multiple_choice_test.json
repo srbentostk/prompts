@@ -1,0 +1,11 @@
+{
+    "filename": "create_multiple_choice_test.md",
+    "nome": "Criar Teste de Múltipla Escolha",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_multiple_choice_test.md",
+    "descricao": "O prompt solicita a criação de um teste de múltipla escolha com base no livro \"Frankenstein\" de Gris Grimly, direcionado a alunos da oitava série. O teste deve incluir 40 perguntas variadas que abordem a trama, personagens, temas e ilustrações do livro, com quatro opções de resposta para cada pergunta. Um gabarito deve ser fornecido ao final, e a linguagem deve ser apropriada para a faixa etária.",
+    "tags": [
+        "Educação",
+        "Criatividade",
+        "Ensino"
+    ]
+}

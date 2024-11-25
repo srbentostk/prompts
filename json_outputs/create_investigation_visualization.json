@@ -1,0 +1,11 @@
+{
+    "filename": "create_investigation_visualization.md",
+    "nome": "Criar Visualização de Investigação",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_investigation_visualization.md",
+    "descricao": "O prompt orienta a criação de visualizações detalhadas utilizando GraphViz, focando na organização e representação de dados de investigações de inteligência. O especialista deve compreender completamente os dados recebidos e apresentá-los de forma clara, utilizando formas e cores distintas, além de incluir análises e conclusões sobre as informações discutidas.",
+    "tags": [
+        "Visualizações",
+        "Análise de Dados",
+        "Tecnologia"
+    ]
+}

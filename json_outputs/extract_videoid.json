@@ -1,0 +1,11 @@
+{
+    "filename": "extract_videoid.md",
+    "nome": "Extrair ID de Vídeo",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/extract_videoid.md",
+    "descricao": "O prompt orienta um especialista a extrair a identificação de vídeo de qualquer URL, com o objetivo de facilitar o envio dessa informação para outros aplicativos. As instruções detalham um processo passo a passo para identificar e isolar o ID do vídeo, enfatizando a simplicidade na saída dos dados.",
+    "tags": [
+        "Extração de Dados",
+        "Software",
+        "Análise de Texto"
+    ]
+}

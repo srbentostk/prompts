@@ -1,0 +1,11 @@
+{
+    "filename": "chart_and_schedule_assistant.md",
+    "nome": "Assistente de Gráficos e Agendamento",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/chart_and_schedule_assistant.md",
+    "descricao": "O prompt visa criar um assistente de IA que ajude usuários a gerar gráficos a partir de dados e a agendar compromissos de forma eficiente. O sistema deve permitir a visualização de dados em diferentes formatos de gráfico e integrar-se com calendários para gerenciar compromissos, enviando lembretes e lidando com alterações.",
+    "tags": [
+        "AI",
+        "Software",
+        "Automação"
+    ]
+}

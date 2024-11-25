@@ -1,0 +1,10 @@
+{
+    "filename": "create_timetable_for_training.md",
+    "nome": "Criar Cronograma para Treinamento",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_timetable_for_training.md",
+    "descricao": "O objetivo deste prompt é elaborar um cronograma para sessões de treinamento pessoal em uma clínica de fisioterapia, utilizando dados não estruturados sobre a disponibilidade dos clientes. O cronograma deve incluir detalhes como dia, hora e participantes, priorizando sessões cheias e minimizando conflitos de agendamento. Instruções adicionais pedem flexibilidade e identificação de padrões nas disp",
+    "tags": [
+        "Treinamento",
+        "Saúde"
+    ]
+}

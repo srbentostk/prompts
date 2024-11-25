@@ -1,0 +1,11 @@
+{
+    "filename": "extract_article_wisdom.md",
+    "nome": "Extrair Sabedoria de Artigos",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/extract_article_wisdom.md",
+    "descricao": "Este prompt orienta sobre como extrair informações relevantes de um texto, incluindo resumos, ideias, citações e referências. As etapas detalhadas visam garantir uma coleta organizada e rica em insights, evitando repetições e seguindo um formato específico de saída em Markdown.",
+    "tags": [
+        "Extração de Dados",
+        "Análise de Texto",
+        "Criação de Conteúdo"
+    ]
+}

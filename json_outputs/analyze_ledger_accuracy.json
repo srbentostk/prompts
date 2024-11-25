@@ -1,0 +1,11 @@
+{
+    "filename": "analyze_ledger_accuracy.md",
+    "nome": "Analisar Precisão do Livro Razão",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_ledger_accuracy.md",
+    "descricao": "Este prompt orienta a revisão de um livro razão, focando na consistência dos códigos de ICMS, identificação de valores anormais e necessidade de controle rigoroso em transações. O usuário é encorajado a adotar uma abordagem metódica, garantindo precisão e clareza na apresentação das descobertas, com a possibilidade de trabalhar com formatos Excel ou PDF.",
+    "tags": [
+        "Análise de Dados",
+        "Contabilidade",
+        "Finanças"
+    ]
+}

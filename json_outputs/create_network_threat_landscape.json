@@ -1,0 +1,11 @@
+{
+    "filename": "create_network_threat_landscape.md",
+    "nome": "Criar Paisagem de Ameaças de Rede",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_network_threat_landscape.md",
+    "descricao": "O documento orienta um consultor de segurança de rede a elaborar um relatório sobre ameaças, analisando portas abertas e serviços. O objetivo é extrair informações valiosas, incluindo descrições, riscos, recomendações, tendências e citações, de forma clara e concisa, para enriquecer um relatório de segurança formal.",
+    "tags": [
+        "Cybersegurança",
+        "Análise de Dados",
+        "Documentação"
+    ]
+}

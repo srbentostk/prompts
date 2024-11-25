@@ -1,0 +1,11 @@
+{
+    "filename": "filter_job_opportunities.md",
+    "nome": "Filtrar Oportunidades de Emprego",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/filter_job_opportunities.md",
+    "descricao": "Este prompt solicita assistência para filtrar oportunidades de emprego no LinkedIn, excluindo localidades específicas, como os Estados Unidos e Cingapura. O objetivo é criar um método ou solução alternativa para evitar que essas regiões apareçam nos resultados de busca, facilitando a identificação de vagas abertas a trabalhadores remotos ou em locais onde a obtenção de visto é mais viável.",
+    "tags": [
+        "Procura de Emprego",
+        "Tecnologia",
+        "Automação"
+    ]
+}

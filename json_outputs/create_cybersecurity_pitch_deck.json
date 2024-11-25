@@ -1,0 +1,10 @@
+{
+    "filename": "create_cybersecurity_pitch_deck.md",
+    "nome": "Criar Pitch Deck de Cibersegurança",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_cybersecurity_pitch_deck.md",
+    "descricao": "Este prompt orienta a criação de um pitch deck persuasivo e detalhado para apresentar serviços de cibersegurança voltados para Tecnologia Operacional (OT) a um CEO e outros tomadores de decisão. O deck deve conter no máximo 6 slides, abordando introdução, análise de lacunas, roteiro estratégico, plano de ação, benefícios e conclusão, sempre focando em clareza e relevância para o cliente.",
+    "tags": [
+        "Apresentação",
+        "Tecnologia"
+    ]
+}
