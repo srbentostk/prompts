@@ -140,16 +140,24 @@ Conteúdo do arquivo:
         url = url_prefix + filename
         print(f"Processando {filename}... URL: {url} - Nome: {nome_traduzido} - Tags: {tags} - Descricao: {descricao}")
         # Adicionar ao data_list
-        data_list.append({
+        data ={
             "filename": filename,
             "nome": nome_traduzido,
             "url": url,
             "descricao": descricao[:400],
             "tags": tags
-        })
+        }
+        data_list.append(data)
+        # Definir o caminho do arquivo JSON de saída
+        json_output_path = os.path.join(json_output_dir, f"{os.path.splitext(filename)[0]}.json")
+        # Salvar o resultado em um arquivo JSON individual
+        with open(json_output_path, 'w', encoding='utf-8') as json_file:
+            json.dump(data, json_file, ensure_ascii=False, indent=4)
+            print(f"Arquivo JSON criado com sucesso: {json_output_path}")
 
     except Exception as e:
         print(f"Erro ao processar {filename}: {e}")
+    
 
 # Salvar o resultado em um arquivo JSON
 with open('output.json', 'w', encoding='utf-8') as f:
