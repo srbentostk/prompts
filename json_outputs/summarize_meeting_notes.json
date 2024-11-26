@@ -1,0 +1,11 @@
+{
+    "filename": "summarize_meeting_notes.md",
+    "nome": "Resumir Notas de Reunião",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/summarize_meeting_notes.md",
+    "descricao": "Este prompt tem a intenção de solicitar a um assistente de IA que resuma as notas de uma reunião, destacando os principais pontos discutidos, decisões tomadas e itens de ação atribuídos. Além disso, pede a elaboração de um e-mail resumo que inclua os próximos passos e responsabilidades, visando uma comunicação clara entre os participantes.",
+    "tags": [
+        "Comunicação",
+        "Gestão de Projetos",
+        "Produtividade"
+    ]
+}

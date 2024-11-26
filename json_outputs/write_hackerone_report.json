@@ -1,0 +1,11 @@
+{
+    "filename": "write_hackerone_report.md",
+    "nome": "Escrever Relatório do HackerOne",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/write_hackerone_report.md",
+    "descricao": "O objetivo deste documento é guiar caçadores de bugs na criação de relatórios eficazes para vulnerabilidades encontradas, com ênfase em clareza e concisão. Ele descreve a estrutura do relatório, incluindo a importância de fornecer informações detalhadas sobre a vulnerabilidade, passos para reproduzir o problema e o impacto da exploração. O foco é garantir que os triadores possam entender e reprodu",
+    "tags": [
+        "Cybersegurança",
+        "Análise de Texto",
+        "Desenvolvimento de Produto"
+    ]
+}

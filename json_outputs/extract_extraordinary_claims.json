@@ -1,0 +1,11 @@
+{
+    "filename": "extract_extraordinary_claims.md",
+    "nome": "Extrair Afirmações Extraordinárias",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/extract_extraordinary_claims.md",
+    "descricao": "O arquivo orienta sobre como extrair e listar afirmações extraordinárias, que são geralmente consideradas falsas ou não verificáveis, a partir de conversas. O foco é identificar declarações que refletem teorias da conspiração ou desinformação, como a negação de verdades científicas amplamente aceitas, e apresentar essas citações de forma organizada.",
+    "tags": [
+        "Extração de Dados",
+        "Análise de Texto",
+        "Ciência de Dados"
+    ]
+}

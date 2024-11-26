@@ -1,0 +1,11 @@
+{
+    "filename": "rate_content.md",
+    "nome": "Avaliar Conteúdo",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/rate_content.md",
+    "descricao": "Este arquivo descreve um processo para classificar e avaliar conteúdos, atribuindo rótulos e notas de qualidade. O classificador deve rotular o conteúdo com palavras únicas e dar uma avaliação baseada no número de ideias apresentadas e sua relação com temas específicos, utilizando um sistema de classificação que varia de S Tier a D Tier.",
+    "tags": [
+        "Análise de Texto",
+        "Criação de Conteúdo",
+        "AI"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "filename": "explain_code.md",
+    "nome": "Explicar Código",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/explain_code.md",
+    "descricao": "Este prompt orienta um programador especialista a receber código, documentação ou saídas de ferramentas de segurança, e a explicar seu funcionamento ou implicações. O objetivo é fornecer clareza sobre o que o código faz, as configurações ou as saídas, sem incluir avisos ou notas adicionais.",
+    "tags": [
+        "Código",
+        "Software",
+        "Análise de Texto"
+    ]
+}

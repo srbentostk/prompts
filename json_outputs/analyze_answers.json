@@ -1,0 +1,11 @@
+{
+    "filename": "analyze_answers.md",
+    "nome": "Analisar Respostas",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_answers.md",
+    "descricao": "O prompt busca orientar um especialista em avaliar a correção das respostas de alunos com base em um assunto específico. O especialista deve adaptar sua análise ao nível do aluno, proporcionando feedback e pontuações que reflitam a precisão e a qualidade das respostas fornecidas. A estrutura do prompt é organizada em passos claros para guiar a avaliação.",
+    "tags": [
+        "Análise de Texto",
+        "Educação",
+        "Feedback"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "filename": "explain_medical_test_results.md",
+    "nome": "Explicar Resultados de Exames Médicos",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/explain_medical_test_results.md",
+    "descricao": "Este prompt solicita a criação de uma explicação acessível e detalhada sobre os resultados de diferentes exames médicos, como ressonância magnética, radiografias, exames de sangue e triagens de câncer. A intenção é proporcionar uma interpretação clara e simples, adequada para o entendimento de pessoas com pouca ou nenhuma formação médica, abordando definições, comparações de resultados e sugestões",
+    "tags": [
+        "Saúde",
+        "Educação",
+        "Comunicação"
+    ]
+}

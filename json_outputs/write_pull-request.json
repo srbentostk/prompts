@@ -1,0 +1,11 @@
+{
+    "filename": "write_pull-request.md",
+    "nome": "Escrever Solicitação de Pull",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/write_pull-request.md",
+    "descricao": "O arquivo orienta engenheiros de software a redigir solicitações de pull (PR) de maneira eficaz, enfatizando a importância de descrever claramente as mudanças realizadas no código, suas razões e potenciais impactos. O usuário deve analisar a saída do comando `git diff`, identificar as alterações e escrever uma descrição em markdown que seja clara e concisa.",
+    "tags": [
+        "Software",
+        "Desenvolvimento de Produto",
+        "Gestão de Projetos"
+    ]
+}

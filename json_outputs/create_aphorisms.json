@@ -1,0 +1,11 @@
+{
+    "filename": "create_aphorisms.md",
+    "nome": "Criar Aforismos",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_aphorisms.md",
+    "descricao": "O arquivo orienta a criação de uma lista de 20 provérbios relacionados a tópicos fornecidos, com a atribuição correta aos autores. O objetivo é gerar conteúdo que reflita a sabedoria popular de maneira estruturada e legível, evitando repetições e utilizando uma formatação adequada em Markdown.",
+    "tags": [
+        "Criação de Conteúdo",
+        "Escrita",
+        "Literatura"
+    ]
+}

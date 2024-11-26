@@ -1,0 +1,11 @@
+{
+    "filename": "business_directory_investigation.md",
+    "nome": "Investigação de Diretório de Negócios",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/business_directory_investigation.md",
+    "descricao": "O prompt orienta a investigação da presença de um hotel em 314 diretórios comerciais, focando em identificar listagens existentes, incluindo versões anteriores do nome do hotel. O objetivo é documentar essas informações em uma planilha e sugerir melhorias nas listagens, além de identificar lacunas onde o hotel não está listado ou as informações estão incorretas.",
+    "tags": [
+        "Pesquisa",
+        "Análise de Dados",
+        "Negócios"
+    ]
+}

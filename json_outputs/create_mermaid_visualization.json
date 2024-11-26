@@ -1,0 +1,11 @@
+{
+    "filename": "create_mermaid_visualization.md",
+    "nome": "Criar Visualização Mermaid",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_mermaid_visualization.md",
+    "descricao": "Este prompt orienta a criação de visualizações de dados e conceitos utilizando a sintaxe Mermaid. O especialista deve transformar entradas complexas em diagramas claros e autônomos, que representem as relações entre os dados e conceitos. O objetivo é garantir que a visualização e a explicação escrita correspondam perfeitamente, permitindo uma compreensão intuitiva das informações apresentadas.",
+    "tags": [
+        "Visualizações",
+        "Análise de Dados",
+        "Criação de Conteúdo"
+    ]
+}

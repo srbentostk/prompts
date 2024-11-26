@@ -1,0 +1,11 @@
+{
+    "filename": "analyze_paper.md",
+    "nome": "Analisar Artigo",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_paper.md",
+    "descricao": "O prompt orienta sobre como elaborar um resumo detalhado de um artigo científico. Inclui passos para citar o artigo, oferecer um esboço das principais descobertas e metodologia, realizar uma análise crítica das forças e fraquezas do estudo, e integrar dados visuais. Além disso, fornece instruções para o upload de arquivos PDF e recomendações para leituras adicionais.",
+    "tags": [
+        "Análise de Texto",
+        "Ciência de Dados",
+        "Pesquisa"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "filename": "agility_story.md",
+    "nome": "História de Agilidade",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/agility_story.md",
+    "descricao": "O arquivo orienta um especialista em metodologia Ágil a criar histórias de usuário e critérios de aceitação com base em um tópico fornecido. Ele descreve um formato de saída em JSON para apresentar as informações, facilitando a compreensão e a aplicação de conceitos ágeis em projetos.",
+    "tags": [
+        "Agile",
+        "Desenvolvimento de Produto",
+        "Criação de Conteúdo"
+    ]
+}

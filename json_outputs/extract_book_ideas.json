@@ -1,0 +1,11 @@
+{
+    "filename": "extract_book_ideas.md",
+    "nome": "Extrair Ideias de Livros",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/extract_book_ideas.md",
+    "descricao": "O prompt orienta o usuário a fornecer o nome de um livro, com o objetivo de extrair um resumo com as ideias mais importantes e surpreendentes contidas na obra. O usuário deve seguir passos específicos para garantir uma coleta abrangente e organizada de informações, apresentando-as em formato Markdown.",
+    "tags": [
+        "Criação de Conteúdo",
+        "Escrita",
+        "Literatura"
+    ]
+}

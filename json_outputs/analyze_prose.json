@@ -1,0 +1,11 @@
+{
+    "filename": "analyze_prose.md",
+    "nome": "Analisar Prosa",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_prose.md",
+    "descricao": "Este prompt orienta a análise de uma linha do tempo de eventos em ordem cronológica reversa, focando na identificação e correção de erros gramaticais, além de inconsistências de estilo. O objetivo é melhorar a clareza do texto original sem alterar seu tom. A resposta deve incluir versões original e editada da linha do tempo em um formato que facilite a comparação.",
+    "tags": [
+        "Análise de Texto",
+        "Checar Gramática",
+        "Criação de Conteúdo"
+    ]
+}

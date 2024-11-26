@@ -1,0 +1,11 @@
+{
+    "filename": "ask_secure_by_design_questions.md",
+    "nome": "Perguntas sobre Segurança por Design",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/ask_secure_by_design_questions.md",
+    "descricao": "Este documento orienta a criação de um conjunto de perguntas focadas em garantir a segurança no design de sistemas e componentes. A IA deve entender as intenções do projeto e elaborar questões que abordem aspectos críticos de segurança, organizadas por temas. A intenção é assegurar que todas as considerações de segurança sejam avaliadas antes da implementação.",
+    "tags": [
+        "Segurança",
+        "Desenvolvimento de Produto",
+        "Tecnologia"
+    ]
+}

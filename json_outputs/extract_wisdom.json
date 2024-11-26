@@ -1,0 +1,11 @@
+{
+    "filename": "extract_wisdom.md",
+    "nome": "Extrair Sabedoria",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/extract_wisdom.md",
+    "descricao": "O prompt pede a análise de uma conversa exportada em markdown com o ChatGPT, onde diversas ideias, melhorias e insights sobre o desenvolvimento de um plano de negócios estão presentes. A tarefa é extrair e organizar essas informações em uma lista clara e concisa, facilitando a revisão e servindo como recurso para treinar outra IA. A precisão e completude são fundamentais para a extração.",
+    "tags": [
+        "Análise de Texto",
+        "Desenvolvimento de Negócios",
+        "AI"
+    ]
+}

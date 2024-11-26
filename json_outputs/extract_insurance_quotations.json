@@ -1,0 +1,11 @@
+{
+    "filename": "extract_insurance_quotations.md",
+    "nome": "Extração de Cotações de Seguros",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/extract_insurance_quotations.md",
+    "descricao": "O prompt orienta o uso do ChatGPT para extrair dados de cotações de seguros a partir de arquivos PDF, organizá-los em planilhas Excel e gerar relatórios comparativos. O processo inclui a extração de dados, estruturação das informações em planilhas, análise comparativa e a criação de relatórios acessíveis para corretores de seguros, assegurando que os dados sejam apresentados de forma clara e organ",
+    "tags": [
+        "Extração de Dados",
+        "Análise de Dados",
+        "Finanças"
+    ]
+}

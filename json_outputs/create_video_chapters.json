@@ -1,0 +1,10 @@
+{
+    "filename": "create_video_chapters.md",
+    "nome": "Criar Capítulos de Vídeo",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_video_chapters.md",
+    "descricao": "O arquivo orienta sobre como extrair tópicos e marcações de tempo a partir de uma transcrição de vídeo, permitindo a criação de capítulos que destacam os momentos mais interessantes discutidos. O processo envolve a análise da transcrição como se estivesse assistindo ao vídeo, seguido pela identificação e nomeação dos tópicos relevantes, formatando as marcações de tempo de saída de maneira sequenci",
+    "tags": [
+        "Criação de Conteúdo",
+        "Vídeo"
+    ]
+}

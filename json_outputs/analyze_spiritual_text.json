@@ -1,0 +1,11 @@
+{
+    "filename": "analyze_spiritual_text.md",
+    "nome": "Analisar Texto Espiritual",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_spiritual_text.md",
+    "descricao": "Este prompt orienta um analista especializado em textos espirituais a comparar e contrastar afirmações e princípios encontrados em um texto específico com os da Bíblia Almeida. Através de bullets, o analista deve descrever as afirmações surpreendentes do texto e destacar as diferenças em relação à Bíblia, apresentando exemplos diretos para evidenciar essas contrastes.",
+    "tags": [
+        "Análise de Texto",
+        "Ciência de Dados",
+        "Filosofia"
+    ]
+}

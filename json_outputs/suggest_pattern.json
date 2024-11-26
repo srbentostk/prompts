@@ -1,0 +1,11 @@
+{
+    "filename": "suggest_pattern.md",
+    "nome": "Sugerir Padrão",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/suggest_pattern.md",
+    "descricao": "O arquivo apresenta um prompt para um assistente de IA que deve desenvolver um recurso para uma ferramenta de linha de comando de tecido. A tarefa envolve analisar a entrada do usuário e sugerir comandos ou padrões de tecido adequados, proporcionando explicações e múltiplas opções para facilitar a compreensão e uso da ferramenta.",
+    "tags": [
+        "Tecnologia",
+        "Desenvolvimento de Produto",
+        "AI"
+    ]
+}

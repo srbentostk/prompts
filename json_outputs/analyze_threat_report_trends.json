@@ -1,0 +1,11 @@
+{
+    "filename": "analyze_threat_report_trends.md",
+    "nome": "Analisar Tendências de Relatório de Ameaças",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_threat_report_trends.md",
+    "descricao": "Este prompt orienta um especialista em cibersegurança a analisar relatórios de ameaças cibernéticas, extraindo insights e tendências relevantes. O objetivo é identificar e apresentar de forma clara e concisa até 50 tendências surpreendentes e perspicazes, promovendo uma compreensão mais profunda das ameaças atuais e emergentes no cenário digital.",
+    "tags": [
+        "Cybersegurança",
+        "Análise de Dados",
+        "Ciência de Dados"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "filename": "rate_value.md",
+    "nome": "Avaliar Valor",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/rate_value.md",
+    "descricao": "O prompt orienta a análise e avaliação do valor de um conteúdo, introduzindo a métrica Valor Por Minuto (VPM). Os passos incluem estimar a duração do conteúdo, identificar instâncias de valor fornecidas e calcular o VPM com base nesses fatores. O resultado deve ser apresentado em um formato JSON que resume as informações analisadas.",
+    "tags": [
+        "Análise de Texto",
+        "Ciência de Dados",
+        "Criação de Conteúdo"
+    ]
+}

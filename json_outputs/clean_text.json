@@ -1,0 +1,11 @@
+{
+    "filename": "clean_text.md",
+    "nome": "Limpar Texto",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/clean_text.md",
+    "descricao": "O prompt orienta como corrigir e formatar textos quebrados e mal estruturados, garantindo que a formatação esteja adequada sem alterar o conteúdo ou a ortografia. O especialista deve remover quebras de linha indesejadas e ajustar a capitalização, pontuação e parágrafos conforme necessário, apresentando o texto final de forma organizada.",
+    "tags": [
+        "Checar Gramática",
+        "Escrita",
+        "Documentação"
+    ]
+}

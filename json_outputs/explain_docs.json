@@ -1,0 +1,11 @@
+{
+    "filename": "explain_docs.md",
+    "nome": "Explicar Documentos",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/explain_docs.md",
+    "descricao": "Este prompt orienta a criação de instruções claras e concisas a partir de documentação existente sobre ferramentas ou produtos. O objetivo é transformar informações complexas em um formato acessível, incluindo seções sobre a visão geral da ferramenta, como usá-la, casos de uso comuns e opções importantes.",
+    "tags": [
+        "Documentação",
+        "Criação de Conteúdo",
+        "Tecnologia"
+    ]
+}

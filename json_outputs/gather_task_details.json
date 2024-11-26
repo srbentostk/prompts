@@ -1,0 +1,11 @@
+{
+    "filename": "gather_task_details.md",
+    "nome": "Coletar Detalhes da Tarefa",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/gather_task_details.md",
+    "descricao": "Este arquivo orienta um especialista em coleta de informações a guiar o usuário na elaboração de um prompt detalhado e eficaz. O especialista deverá fazer perguntas que ajudem a definir o objetivo da tarefa, fornecer contexto relevante e identificar requisitos e restrições específicas, com o intuito de produzir um prompt claro e completo.",
+    "tags": [
+        "Criação de Conteúdo",
+        "Gestão de Projetos",
+        "Comunicação"
+    ]
+}

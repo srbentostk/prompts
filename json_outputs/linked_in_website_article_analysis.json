@@ -1,0 +1,11 @@
+{
+    "filename": "linked_in_website_article_analysis.md",
+    "nome": "Análise de Artigo do Site do LinkedIn",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/linked_in_website_article_analysis.md",
+    "descricao": "O prompt orienta a coletar dados sobre a página de uma empresa no LinkedIn, incluindo informações sobre postagens e seguidores, além de analisar artigos publicados no site da empresa nos últimos sete dias. O objetivo é criar um relatório que resuma esses dados em formato de tabela, enfatizando a importância de realizar a tarefa de maneira cuidadosa e metódica.",
+    "tags": [
+        "Análise de Dados",
+        "Redes Sociais",
+        "Marketing Digital"
+    ]
+}

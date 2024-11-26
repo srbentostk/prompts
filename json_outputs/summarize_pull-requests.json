@@ -1,0 +1,10 @@
+{
+    "filename": "summarize_pull-requests.md",
+    "nome": "Resumir Pull Requests",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/summarize_pull-requests.md",
+    "descricao": "Este prompt orienta o usuário a resumir pull requests de um projeto de codificação, criando um resumo conciso e destacando os principais pull requests de forma clara e legível. O objetivo é facilitar a compreensão das mudanças propostas e melhorar a documentação do repositório.",
+    "tags": [
+        "Código",
+        "Documentação"
+    ]
+}

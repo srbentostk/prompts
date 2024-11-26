@@ -1,0 +1,11 @@
+{
+    "filename": "data_extraction.md",
+    "nome": "Extração de Dados",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/data_extraction.md",
+    "descricao": "O prompt solicita a extração de uma tabela específica de uma página da web, abrangendo todas as suas colunas e linhas. O resultado deve ser organizado em um arquivo CSV, com formatação específica, incluindo separadores, aspas e cabeçalho. O ChatGPT é orientado a fazer perguntas para garantir que compreendeu a tarefa antes de executá-la.",
+    "tags": [
+        "Extração de Dados",
+        "Tecnologia",
+        "Análise de Dados"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "filename": "recommend_artists.md",
+    "nome": "Recomendar Artistas",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/recommend_artists.md",
+    "descricao": "O arquivo contém instruções para um especialista em EDM que deve recomendar artistas de música eletrônica com base nas preferências pessoais do usuário, incluindo estilos e artistas favoritos. O objetivo é criar um cronograma de apresentações em um festival, otimizando a seleção para maximizar a satisfação do usuário.",
+    "tags": [
+        "Música",
+        "Criação de Conteúdo"
+    ]
+}

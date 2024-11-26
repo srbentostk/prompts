@@ -1,0 +1,11 @@
+{
+    "filename": "extract_recommendations.md",
+    "nome": "Extrair Recomendações",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/extract_recommendations.md",
+    "descricao": "O arquivo orienta um intérprete a extrair recomendações práticas de um conteúdo, apresentando uma lista concisa com até 20 sugestões, cada uma contendo no máximo 15 palavras.",
+    "tags": [
+        "Extração de Dados",
+        "Criação de Conteúdo",
+        "Análise de Texto"
+    ]
+}

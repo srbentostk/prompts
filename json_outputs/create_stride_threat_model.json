@@ -1,0 +1,10 @@
+{
+    "filename": "create_stride_threat_model.md",
+    "nome": "Criar Modelo de Ameaça STRIDE",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_stride_threat_model.md",
+    "descricao": "Este arquivo orienta especialistas em gerenciamento de riscos a desenvolver um modelo de ameaças utilizando a metodologia STRIDE. O objetivo é analisar um sistema específico, identificando ativos, limites de confiança e fluxos de dados, além de listar e priorizar ameaças potenciais, considerando suas probabilidades e impactos. O resultado é uma tabela que ajuda a entender os riscos reais e as medi",
+    "tags": [
+        "Cybersegurança",
+        "Análise de Dados"
+    ]
+}

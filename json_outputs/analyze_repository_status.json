@@ -1,0 +1,10 @@
+{
+    "filename": "analyze_repository_status.md",
+    "nome": "Analisar o Status do Repositório",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_repository_status.md",
+    "descricao": "Este prompt solicita a criação de um resumo detalhado sobre o estado atual de um repositório de código-fonte. Os principais pontos a serem abordados incluem a análise do status atual, as tecnologias utilizadas, a arquitetura do projeto e a identificação de discrepâncias entre a documentação e a implementação real. O objetivo é oferecer uma visão clara e abrangente do repositório.",
+    "tags": [
+        "Análise de Dados",
+        "Gestão de Projetos"
+    ]
+}

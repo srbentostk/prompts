@@ -1,0 +1,11 @@
+{
+    "filename": "improve_report_finding.md",
+    "nome": "Melhorar Relatório de Descoberta",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/improve_report_finding.md",
+    "descricao": "O documento analisa vulnerabilidades críticas em uma API, identificando falhas de segurança que podem ser exploradas por atacantes, como falta de autenticação e controles de segurança inadequados. Apresenta recomendações para mitigar esses riscos, como implementar autenticação forte, validação de entrada rigorosa e registros de auditoria, visando proteger dados sensíveis e garantir a integridade d",
+    "tags": [
+        "Cybersegurança",
+        "API",
+        "Segurança"
+    ]
+}

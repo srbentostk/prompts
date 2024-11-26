@@ -1,0 +1,11 @@
+{
+    "filename": "analyze_prose_json.md",
+    "nome": "Analisar Prosa em JSON",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_prose_json.md",
+    "descricao": "Este prompt avalia a qualidade da prosa em um texto, atribuindo notas a aspectos como novidade, clareza e estilo. Ele fornece explicações para cada avaliação e recomendações para melhorar a clareza. A intenção é oferecer uma análise crítica que ajude a aprimorar a comunicação escrita.",
+    "tags": [
+        "Análise de Texto",
+        "Escrita",
+        "Feedback"
+    ]
+}

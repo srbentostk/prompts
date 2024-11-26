@@ -1,0 +1,11 @@
+{
+    "filename": "analyze_data_breaches.md",
+    "nome": "Analisar Violações de Dados",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_data_breaches.md",
+    "descricao": "O prompt solicita assistência na verificação de um endereço de e-mail em relação a violações de dados públicas. O objetivo é listar as violações associadas, detalhar a natureza, data e tipo de dados expostos, além de explicar os riscos e fornecer recomendações para proteger a conta de e-mail. O usuário é incentivado a fazer perguntas para garantir que a tarefa seja realizada com precisão.",
+    "tags": [
+        "Cybersegurança",
+        "Análise de Dados",
+        "Segurança"
+    ]
+}

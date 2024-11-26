@@ -1,0 +1,11 @@
+{
+    "filename": "analyze_incident.md",
+    "nome": "Analisar Incidente",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_incident.md",
+    "descricao": "Este prompt tem como objetivo orientar a extração e organização de informações específicas de artigos sobre violações de cibersegurança. Ele busca coletar dados essenciais de forma concisa e ordenada, abordando aspectos como detalhes do ataque, informações sobre o alvo e recomendações de remediação.",
+    "tags": [
+        "Cybersegurança",
+        "Extração de Dados",
+        "Análise de Dados"
+    ]
+}

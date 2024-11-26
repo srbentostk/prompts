@@ -1,0 +1,11 @@
+{
+    "filename": "create_tags.md",
+    "nome": "Criar Tags",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_tags.md",
+    "descricao": "O objetivo deste prompt é identificar e criar tags a partir do conteúdo de texto, que podem ser usadas em ferramentas de mapeamento mental. O usuário deve considerar os tópicos e ideias contidas no texto, garantindo que pelo menos cinco tags relevantes sejam geradas, seguindo instruções específicas sobre formatação e exclusão de repetições.",
+    "tags": [
+        "Criação de Conteúdo",
+        "Análise de Texto",
+        "Produtividade"
+    ]
+}

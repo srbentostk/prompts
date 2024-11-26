@@ -1,0 +1,11 @@
+{
+    "filename": "write_nuclei_template_rule.md",
+    "nome": "Criar Regra de Template Nuclei",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/write_nuclei_template_rule.md",
+    "descricao": "O arquivo fornece diretrizes para especialistas na criação de templates YAML para a ferramenta Nuclei, utilizada em cibersegurança. Ele orienta como escrever templates que identificam vulnerabilidades comuns, utilizando matchers e extractors de forma eficaz. O foco é na produção de um arquivo YAML funcional que permita varreduras precisas e rápidas de protocolos, minimizando falsos positivos.",
+    "tags": [
+        "Cybersegurança",
+        "Software",
+        "Desenvolvimento de Produto"
+    ]
+}

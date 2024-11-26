@@ -1,0 +1,11 @@
+{
+    "filename": "create_excel_ticket_sales_form.md",
+    "nome": "Criar Formulário de Vendas de Ingressos no Excel",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/create_excel_ticket_sales_form.md",
+    "descricao": "O prompt orienta a criação de um guia detalhado para elaborar um formulário no Excel 2016 que permita a inserção e pesquisa de dados relacionados às vendas de ingressos para um evento específico. O guia aborda desde a configuração inicial da planilha até a personalização da ferramenta de formulário e técnicas de validação de dados para garantir a integridade das informações.",
+    "tags": [
+        "Excel",
+        "Criação de Conteúdo",
+        "Desenvolvimento de Produto"
+    ]
+}

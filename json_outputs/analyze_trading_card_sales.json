@@ -1,0 +1,11 @@
+{
+    "filename": "analyze_trading_card_sales.md",
+    "nome": "Analisar Vendas de Cartas de Trading",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_trading_card_sales.md",
+    "descricao": "Este prompt solicita uma análise detalhada das vendas de cartas de Pokémon, com ênfase nas Elite Trainer Boxes (ETBs) e nas cartas individuais. A análise deve identificar tendências de preços, especialmente da ETB \"Chilling Reign\", e avaliar o movimento de preços das 10 principais cartas de cada coleção. Também são solicitadas estratégias de compra e venda com base nas informações coletadas.",
+    "tags": [
+        "Análise de Dados",
+        "Pesquisa",
+        "Negócios"
+    ]
+}

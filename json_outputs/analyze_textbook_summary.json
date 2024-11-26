@@ -1,0 +1,11 @@
+{
+    "filename": "analyze_textbook_summary.md",
+    "nome": "Analisar Resumo de Livro Didático",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_textbook_summary.md",
+    "descricao": "O prompt tem como objetivo analisar e resumir o livro didático \"Fundamentos Teóricos da Enfermagem\", enfatizando a decomposição do texto por capítulos e, se possível, por páginas. A intenção é fornecer um resumo claro e abrangente que destaque os pontos críticos, permitindo que se utilize como base para discussões em aulas virtuais, economizando tempo na leitura detalhada.",
+    "tags": [
+        "Análise de Texto",
+        "Educação",
+        "Ensino"
+    ]
+}

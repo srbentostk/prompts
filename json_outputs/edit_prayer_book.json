@@ -1,0 +1,11 @@
+{
+    "filename": "edit_prayer_book.md",
+    "nome": "Editar Livro de Orações",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/edit_prayer_book.md",
+    "descricao": "O prompt tem como objetivo solicitar a edição de um livro de orações voltado para o público brasileiro, escrito por uma autora de Uganda. A intenção é corrigir erros gramaticais e evitar traduções diretas que possam confundir os leitores, garantindo que as citações bíblicas sejam consistentes com versões em inglês convencional, mantendo o tom espiritual do texto.",
+    "tags": [
+        "Checar Gramática",
+        "Escrita",
+        "Desenvolvimento Pessoal"
+    ]
+}

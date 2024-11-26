@@ -1,0 +1,11 @@
+{
+    "filename": "analyze_logs.md",
+    "nome": "Analisar Logs",
+    "url": "https://github.com/srbentostk/prompts/blob/main/arquivos_traduzidos/analyze_logs.md",
+    "descricao": "O prompt orienta um administrador de sistemas a analisar um arquivo de log proveniente de um servidor de uma grande empresa de tecnologia. O objetivo é identificar padrões e anomalias que possam indicar problemas de confiabilidade e desempenho, além de fornecer recomendações para melhorias. O profissional deve basear suas conclusões apenas nos dados do log, evitando informações irrelevantes e opin",
+    "tags": [
+        "Análise de Dados",
+        "Software",
+        "Solução de Problemas"
+    ]
+}
