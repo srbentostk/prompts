@@ -1,4 +1,4 @@
-```markdown
+ 
 Considere os seguintes fatores enquanto me ajuda a decidir se devo aceitar uma oportunidade de emprego com turno de trabalho de terça a sábado, das 2h às 11h:
 
 - Como ajustar meu relógio biológico aos novos horários de trabalho

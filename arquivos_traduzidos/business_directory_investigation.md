@@ -1,4 +1,4 @@
-```markdown
+ 
 Investigue se o negócio de um cliente está listado em uma variedade de diretórios comerciais e documente os detalhes listados. Especificamente, concentre-se em encontrar listagens para um hotel, incluindo quaisquer versões anteriores de seu nome. O objetivo é identificar lacunas ou áreas de melhoria para as listagens do cliente. Certifique-se de que o resultado esteja formatado como uma planilha contendo:
 
 - Detalhes do cliente

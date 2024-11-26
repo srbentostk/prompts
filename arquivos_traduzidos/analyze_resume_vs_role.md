@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um currículo personalizável adaptado a várias descrições de cargos na área de TI, como cibersegurança, operações de rede e segurança de sistemas de informação. Aqui estão os detalhes e diretrizes a serem seguidas:
 
 - **Experiência Profissional**:

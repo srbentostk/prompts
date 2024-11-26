@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um documento de justificativa para apoio a uma ONG que foca no desenvolvimento sustentável, meio ambiente, conservação da biodiversidade e mudanças climáticas, com um foco específico na região da Chapada dos Guimarães no Brasil. Esta ONG promove o ecoturismo como uma alternativa de subsistência para os residentes da comunidade. O empreendimento de ecoturismo é insuficiente para financiar os esforços mais amplos da organização em conservação ambiental e adaptação às mudanças climáticas.
 
 Para ajudar na elaboração do seu documento, por favor, aborde os seguintes aspectos:

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado sobre como desenvolver um plano de negócios abrangente. Sua resposta deve abranger os seguintes componentes principais:
 
 - **Resumo Executivo:** Explique sua importância e o que deve incluir, como o conceito do negócio, a declaração de missão e informações básicas sobre produtos ou serviços.

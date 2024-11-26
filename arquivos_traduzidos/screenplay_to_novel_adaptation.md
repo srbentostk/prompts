@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um esboço abrangente para transformar um roteiro em um romance. Aborde os seguintes aspectos:
 
 - **Adaptação de Estrutura**: Delineie como ajustar a estrutura de um roteiro, que geralmente é focado em diálogos e descrições de cena, para o formato mais narrativo de um romance. Discuta como incorporar elementos de prosa, como pensamentos internos, detalhes de cenário e desenvolvimento de personagens.

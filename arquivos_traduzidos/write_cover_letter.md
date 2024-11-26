@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um prompt detalhado e abrangente para o ChatGPT que ajude com as seguintes tarefas:
 
 - Forneça estratégias para brainstorm e elaboração de uma carta de apresentação envolvente e personalizada para a escola de Teatro, focando na narrativa, destacando experiências únicas e demonstrando paixão pelo teatro.

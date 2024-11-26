@@ -1,4 +1,4 @@
-```markdown
+ 
 Forneça uma visão abrangente de estratégias de motivação eficazes adaptadas especificamente para diferentes faixas etárias. Cubra os seguintes aspectos chave para cada faixa etária:
 
 1. **Divisão por Faixa Etária**:

@@ -1,4 +1,4 @@
-```markdown
+ 
 - Escreva um artigo abrangente para um site com pelo menos 1.000 palavras. 
 - O artigo deve ser informativo, envolvente e bem estruturado.
 - Escolha um tópico interessante e relevante, adequado para um público amplo.

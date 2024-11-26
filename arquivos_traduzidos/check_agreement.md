@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um prompt para o ChatGPT voltado à análise e elaboração de contratos legais com foco em turismo e financiamento bancário no Brasil:
 
 - Forneça uma análise detalhada de um contrato legal apresentado, com ênfase na identificação de potenciais problemas, como erros e inconsistências, especialmente no contexto do direito comercial relacionado ao turismo ou financiamento bancário.

@@ -1,4 +1,4 @@
-```markdown
+ 
 - Desenvolva um modelo abrangente de programa de auditoria interna para qualquer processo específico dentro de bancos, cooperativas de crédito ou empresas de fintech. O modelo deve incluir os seguintes componentes:
   - Controle de Risco
   - Risco Inerente

@@ -1,4 +1,4 @@
-```markdown
+ 
 Preciso da sua orientação sobre automações de IA para um serviço de atendimento global na indústria de marketing digital. Minha equipe atua em 49 mercados e trabalha com a plataforma Meta, tanto diretamente com clientes quanto com representantes da Meta. Nosso objetivo é reduzir o tempo de resolução de problemas e de resposta. Aqui estão os pontos específicos a considerar:
 
 - Identificar ótimas ferramentas e tecnologias de automação de IA que podem ser implementadas em um ambiente de atendimento ao cliente.

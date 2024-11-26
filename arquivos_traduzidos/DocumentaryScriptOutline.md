@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um esboço de roteiro de documentário em tópicos, com explicações breves (1-2 frases cada), estruturado para auxiliar na redação de um roteiro de 2000 palavras com base nesses esboços. Certifique-se de que o esboço se encaixe em um limite de duas páginas. Seu esboço deve:
 
 - Começar com um título provisório para o documentário.

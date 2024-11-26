@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um artigo detalhado explorando a influência de Marcus Garvey na música Reggae. Seu artigo deve abordar as seguintes sub-tarefas:
 
 - Forneça uma breve biografia de Marcus Garvey, destacando suas principais contribuições para o Pan-Africanismo e movimentos sociais.

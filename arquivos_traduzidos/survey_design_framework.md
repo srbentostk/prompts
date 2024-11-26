@@ -1,4 +1,4 @@
-```markdown
+ 
 Desenvolva um estudo de pesquisa por survey abrangente focando nas seguintes categorias: hábitos e usos, conscientização, imagem da marca e trabalho de segmentação. Para cada categoria, inclua os seguintes elementos:
 
 ### Hábitos e Usos

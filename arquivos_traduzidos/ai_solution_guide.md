@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para a construção de uma solução de IA dentro do Centro de Excelência em IA (CoE) de uma empresa de serviços profissionais. Foque em desenvolver um documento detalhado que abranja todo o processo, desde a concepção até a implementação. Considere os seguintes aspectos:
 
 - **Entendendo o Problema**: 

@@ -1,4 +1,4 @@
-```markdown
+ 
 Discuta em detalhes as circunstâncias nas quais o princípio da personalidade jurídica separada, que afirma que uma empresa é uma entidade legal distinta de seus proprietários e diretores, pode ser desconsiderado. Em sua resposta, aborde os seguintes pontos:
 
 - Explique o conceito de "desconsideração da personalidade jurídica" e quando ele pode ser aplicável.

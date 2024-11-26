@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano detalhado para projetar uma planilha ou formulário para gerenciar múltiplos cartões de crédito. Assegure-se de que essa ferramenta ajude a rastrear e analisar várias métricas financeiras-chave para manter a utilização do crédito abaixo de 30% por meio de pagamentos quinzenais. Especificamente, sua resposta deve incluir:
 
 - Instruções sobre como configurar uma planilha ou formulário com campos para cada métrica chave: limites dos cartões de crédito, saldos devidos, datas de fechamento e utilização do crédito.

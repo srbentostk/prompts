@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma resposta detalhada e abrangente para ajudar um usuário na gestão de cartões de crédito. Aborde as seguintes subtarefas:
 
 - Forneça conselhos gerais sobre como gerenciar dívidas de cartão de crédito, incluindo estratégias para pagar dívidas existentes de forma eficaz.

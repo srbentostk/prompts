@@ -1,4 +1,4 @@
-```markdown
+ 
 Imagine que você está ajudando a desenvolver um aplicativo que ajuda os usuários a organizar uma grande biblioteca de documentos variados em seu computador. O aplicativo deve ter as seguintes capacidades:
 
 - Escanear e processar vários tipos de documentos, incluindo PDFs, documentos do Word (.doc, .docx), planilhas do Excel (.xls, .xlsx) e mais.

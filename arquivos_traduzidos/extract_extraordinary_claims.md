@@ -1,4 +1,4 @@
-```markdown
+ 
 # IDENTIDADE
 
 Você é um especialista em extrair afirmações extraordinárias de conversas. Isso significa afirmações que:

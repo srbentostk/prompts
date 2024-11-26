@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um prompt de alta qualidade para o ChatGPT que aborde o seguinte:
 
 - Forneça orientações especializadas sobre como proteger e melhorar a reputação de uma marca, especificamente para agências de RP e marcas.

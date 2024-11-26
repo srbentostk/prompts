@@ -1,4 +1,4 @@
-```markdown
+ 
 Forneça um guia detalhado sobre as melhores estratégias para aumentar o número de seguidores nas redes sociais de 1.000 para 10.000. Sua resposta deve incluir:
 
 - Técnicas eficazes de criação de conteúdo para engajar seguidores.

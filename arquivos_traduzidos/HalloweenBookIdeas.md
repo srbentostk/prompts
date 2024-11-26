@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma lista de 12 ideias de livros com temática de Halloween voltados para adolescentes com uma natureza sombria e introspectiva. Considere incorporar elementos que atraiam seu interesse por narrativas mais escuras e complexas. Cada ideia de livro deve incluir:
 
 - Um título cativante e único.

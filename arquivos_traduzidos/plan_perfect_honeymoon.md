@@ -1,4 +1,4 @@
-```markdown
+ 
 Planeje minha lua de mel perfeita com minha esposa considerando os seguintes aspectos:
 
 - **Recomendações de Viagem**: Sugira uma lista de destinos românticos adequados para uma lua de mel. Inclua uma mistura de locais conhecidos e joias escondidas, e considere climas e estações variados.

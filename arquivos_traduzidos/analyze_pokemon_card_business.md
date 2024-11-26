@@ -1,4 +1,4 @@
-```markdown
+ 
 Eu administro um negócio de cartas Pokémon focado na venda de Caixas de Treinador Elite (ETBs) seladas do Pokémon Center e caixas de boosters, principalmente através do TCG Player e eBay. Preciso de ajuda para desenvolver uma estratégia que maximize o sucesso do meu negócio, incluindo a compreensão das tendências do mercado para determinar os melhores momentos de compra e venda. Além disso, tenho uma quantidade substancial de cartas em lote que preciso vender. Estou disposto a investir até R$ 15.000 para melhorar minhas operações comerciais. Por favor, me ajude com o seguinte:
 
 - Forneça orientações sobre como analisar as tendências no mercado de cartas Pokémon, especificamente para ETBs e caixas de boosters. Sugira ferramentas e recursos que possam ajudar a acompanhar essas tendências de forma eficaz.

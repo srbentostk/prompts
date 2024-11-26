@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um prompt detalhado para o ChatGPT que aborde a seguinte tarefa:
 
 - Recrie uma história ou esboço de "vida dos sonhos" do TikTok que foi compartilhada anteriormente.

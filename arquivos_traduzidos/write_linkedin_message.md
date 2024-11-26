@@ -1,4 +1,4 @@
-```markdown
+ 
 Ajude-me a escrever uma mensagem no LinkedIn para o presidente de uma fundação corporativa.
 
 - Comece com uma saudação educada e uma menção ao apoio e à conexão recente no LinkedIn.

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um resumo para um perfil do LinkedIn que capture a atenção de recrutadores e outros profissionais. Certifique-se de que o resumo destaque os seguintes componentes:
 
 - **Histórico Profissional**: Inclua indústrias-chave, funções e experiências.

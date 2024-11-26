@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma ideia que possa ser aplicada em várias categorias, incluindo negócios, tecnologia, contexto, natureza, cultura e religião, indústria, questões sociais e estilo de vida. Para cada categoria, descreva:
 
 - Como a ideia pode ser adaptada ou ajustada para atender às necessidades e características específicas dessa categoria.

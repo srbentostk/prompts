@@ -1,4 +1,4 @@
-```markdown
+ 
 Estou encarregado de criar um prompt para o ChatGPT com fins educacionais. Por favor, desenvolva uma atividade educacional envolvente ou um plano de aula que possa ser utilizado em uma sala de aula ou ambiente de aprendizagem. Considere o seguinte:
 
 - Defina claramente o tópico educacional ou área de conhecimento.

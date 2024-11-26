@@ -1,4 +1,4 @@
-```markdown
+ 
 **Prompt do ChatGPT:**
 
 Analise uma linha do tempo de eventos apresentada em ordem cronológica reversa, com horários. Sua tarefa é:

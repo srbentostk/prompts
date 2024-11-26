@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para construir e ranquear sites de nicho com foco no uso de ferramentas de IA. Aqui estão as tarefas específicas a serem abordadas:
 
 - Esboce um processo passo a passo para construir um site de nicho completo. Inclua:

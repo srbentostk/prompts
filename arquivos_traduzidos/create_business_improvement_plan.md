@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano abrangente para alcançar os seguintes objetivos para o meu negócio:
 
 - **Automatizar a Coordenação:**

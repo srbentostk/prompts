@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma postagem envolvente de 800 palavras para redes sociais sobre lições aprendidas, seguindo estas diretrizes:
 
 • Entrada:

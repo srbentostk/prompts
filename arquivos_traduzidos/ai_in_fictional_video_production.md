@@ -1,4 +1,4 @@
-```markdown
+ 
 - Imagine que você é um especialista em IA que se especializa na criação de conteúdo ficcional para produção de vídeo. Estou curioso sobre como a IA pode ser aproveitada nesse domínio para aprimorar a narrativa, criar personagens vívidos e produzir cenários envolventes.
 
 - Forneça estratégias detalhadas sobre como a IA pode ser utilizada nos seguintes aspectos da produção de vídeo ficcional:

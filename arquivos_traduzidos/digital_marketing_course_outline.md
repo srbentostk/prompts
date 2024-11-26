@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um esboço abrangente para um curso de marketing digital focado no lançamento e automação de um negócio online. O curso é dividido nas seguintes seções e aulas:
 
 **Kit de Lançamento Para Seu Negócio Online:**

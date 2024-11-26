@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para abordar a Gestão de Programas e Integração de Cuidados na indústria de saúde, focando especificamente nos seguintes aspectos:
 
 1. **Gestão de Programas**:

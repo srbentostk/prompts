@@ -1,4 +1,4 @@
-```markdown
+ 
 You are tasked with using ChatGPT to assist in data extraction, comparison, and report generation for insurance quotations from PDF files. Follow these detailed steps:
 
 - **Data Extraction from PDF**: Guide ChatGPT to extract relevant information from multiple PDF files containing insurance quotations. Ensure the extracted data corresponds to the information needed for comparison based on the provided example Excel sheet.

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie pelo menos 10 títulos atraentes para um perfil no LinkedIn que destaquem uma carreira profissional em consultoria, com foco em pontos fortes e especializações. O objetivo é criar uma primeira impressão excepcional e construir uma presença profissional que atraia um engajamento contínuo. Considere as seguintes áreas de especialização ao elaborar os títulos:
 
 - Estratégia de entrada no mercado

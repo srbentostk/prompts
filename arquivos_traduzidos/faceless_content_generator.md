@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um gerador de conteúdo sem rosto que:
 
 - Aceite prompts de entrada do usuário para gerar conteúdo com base em tópicos ou temas especificados.

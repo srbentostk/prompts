@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para definir uma nova marca de negócio e criar um kit de marca coeso. Inclua descrições detalhadas e exemplos para os seguintes componentes:
 
 1. **Visão**: 

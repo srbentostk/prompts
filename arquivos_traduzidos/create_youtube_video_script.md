@@ -1,4 +1,4 @@
-```markdown
+ 
 # CONTEXTO
 
 Inferir o tema a partir das fontes fornecidas.

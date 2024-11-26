@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um currículo e uma carta de apresentação adaptados para uma transição de carreira de um profissional de finanças para um gerente de contas na indústria de suporte em tecnologia da informação. Considere as seguintes subtarefas e requisitos:
 
 - **Identificar Habilidades Transferíveis:**

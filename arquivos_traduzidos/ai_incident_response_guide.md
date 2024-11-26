@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente sobre a implementação de IA para Resposta a Incidentes em uma organização. Inclua os seguintes elementos:
 
 - **Introdução à IA na Resposta a Incidentes**

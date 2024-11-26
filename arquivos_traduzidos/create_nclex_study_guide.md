@@ -1,4 +1,4 @@
-```markdown
+ 
 - Crie um guia de estudos baseado em questões no estilo NCLEX usando os arquivos fornecidos.
 - Certifique-se de que o guia de estudos esteja em um nível de compreensão onde os usuários possam entender o material de forma eficaz.
 - Inclua uma variedade de tipos de questões comumente encontradas em exames NCLEX, como múltipla escolha, questões de formato alternativo e estudos de caso.

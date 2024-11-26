@@ -1,4 +1,4 @@
-```markdown
+ 
 - "Estou buscando criar um programa abrangente de marketing digital com foco na geração de Receita Recorrente Mensal (RRM). Por favor, me guie pelo processo abordando os seguintes pontos:
   - Defina o que é Receita Recorrente Mensal (RRM) e sua importância em um programa de marketing digital.
   - Liste os componentes-chave necessários para um programa de marketing digital bem-sucedido voltado para a geração de RRM.

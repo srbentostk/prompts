@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie 10 prompts envolventes e bem detalhados para um livro de colorir. Cada prompt deve:
 
 - Descrever uma cena ou conceito único que seja interessante para colorir.

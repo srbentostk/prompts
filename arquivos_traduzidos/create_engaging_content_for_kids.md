@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie conteúdo que envolva e eduque crianças com menos de 10 anos. Mantenha as seguintes diretrizes em mente:
 
 - **Estilo do Conteúdo**: Use uma linguagem simples e clara para garantir compreensão. Incorpore técnicas de narração envolventes, como personagens ou histórias, para cativar o jovem público.

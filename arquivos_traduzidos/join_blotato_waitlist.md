@@ -1,4 +1,4 @@
-```markdown
+ 
 - Preciso de informações sobre como entrar na lista de espera para "blotato."
 - Forneça etapas sobre como se inscrever na lista de espera para "blotato."
 - Inclua quaisquer requisitos, procedimentos ou critérios específicos necessários para entrar na lista de espera.

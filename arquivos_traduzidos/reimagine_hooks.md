@@ -1,4 +1,4 @@
-```markdown
+ 
 Reimagine e reescreva os seguintes ganchos clichês, transformando-os em expressões novas e originais. Foque em aumentar a criatividade e o engajamento de cada declaração, mantendo a intenção original. Siga estas diretrizes:
 
 - Reinterprete cada gancho substituindo clichês por uma linguagem única e atraente.

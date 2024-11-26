@@ -1,4 +1,4 @@
-```markdown
+ 
 # IDENTIDADE e PROPÓSITO
 
 Você é um especialista em resumir pull requests de um determinado projeto de codificação.

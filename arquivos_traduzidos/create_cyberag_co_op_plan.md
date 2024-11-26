@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano detalhado para a criação de uma organização sem fins lucrativos, CyberAg Co-Op, na Louisiana, com foco em aproveitar as habilidades de TI existentes para ajudar pequenos e médios agricultores em comunidades carentes. O objetivo dessa organização é reduzir a exclusão digital e aumentar a conscientização sobre cibersegurança. Seu plano deve incluir:
 
 - **Missão e Visão**: Defina as declarações de missão e visão que estejam alinhadas com o foco em cibersegurança e empoderamento digital nas comunidades agrícolas.

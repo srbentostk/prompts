@@ -1,4 +1,4 @@
-```markdown
+ 
 Desenvolva uma estratégia de marketing abrangente para uma nova empresa de saúde e bem-estar que está lançando peptídeos inovadores não injetáveis. O objetivo é atingir indivíduos conscientes da saúde que priorizam exercícios e alimentação saudável, mas que buscam benefícios adicionais para a saúde. A estratégia deve focar nos seguintes aspectos-chave:
 
 - **Benefícios do Produto:**

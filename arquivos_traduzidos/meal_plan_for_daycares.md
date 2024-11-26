@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano de refeições para cuidadores de crianças em creches que esteja em conformidade com as diretrizes do Programa de Alimentação Infantil e Adulto (CACFP) nos Estados Unidos.
 
 **Por favor, inclua os seguintes detalhes:**

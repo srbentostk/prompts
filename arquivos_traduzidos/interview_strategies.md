@@ -1,4 +1,4 @@
-```markdown
+ 
 - Você está se preparando para se encontrar com o diretor da World Seas Shipping Services para conquistar uma oportunidade de emprego. Por favor, ajude-me com estratégias para essa reunião.
 - Forneça dicas sobre como pesquisar e entender os objetivos da empresa, sua cultura e as tendências do setor de transporte marítimo que podem ser relevantes para a reunião.
 - Ofereça orientações sobre como articular e apresentar minhas habilidades e experiências de uma maneira que se alinhe com as necessidades da empresa.

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado sobre como exportar as conversas do ChatGPT para documentos ou bancos de dados, preservando o conteúdo valioso. Por favor, inclua:
 
 - Instruções passo a passo para exportar as conversas do ChatGPT em diferentes formatos (por exemplo, arquivos de texto, PDF, documentos do Word).

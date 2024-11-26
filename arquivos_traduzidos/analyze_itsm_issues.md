@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma análise detalhada para identificar e gerenciar problemas comuns de gerenciamento de serviços de TI (ITSM) em uma organização de serviços profissionais. Foque no gerenciamento de problemas e siga estes passos para guiar sua resposta:
 
 - Descreva os problemas comuns normalmente encontrados nos processos de ITSM dentro de empresas de serviços profissionais.

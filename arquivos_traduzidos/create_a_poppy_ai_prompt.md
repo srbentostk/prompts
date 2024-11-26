@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um prompt de IA que funcione como o Poppy AI:
 
 - Descreva o que é o Poppy AI e quais são suas principais funcionalidades.

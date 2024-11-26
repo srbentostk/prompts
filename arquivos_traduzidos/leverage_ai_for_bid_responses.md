@@ -1,4 +1,4 @@
-```markdown
+ 
 
 Crie uma resposta abrangente para uma pequena empresa que busca aproveitar ferramentas de IA para aprimorar sua resposta a licitações para serviços de emprego para pessoas com deficiência do governo. Aborde as seguintes subtarefas:
 

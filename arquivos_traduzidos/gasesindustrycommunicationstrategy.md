@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma estratégia de comunicação abrangente para uma empresa do setor de gases. Sua estratégia deve abordar os seguintes pontos:
 
 - **Identificação de Objetivos**: Comece definindo os principais objetivos da estratégia de comunicação. O que a empresa pretende alcançar com suas comunicações (por exemplo, reconhecimento de marca, engajamento do cliente, gestão de reputação)?

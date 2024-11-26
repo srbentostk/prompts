@@ -1,4 +1,4 @@
-```markdown
+ 
 Conte-me mais sobre o jogo Blotto, também conhecido como o jogo do Coronel Blotto. Por favor, inclua os seguintes detalhes:
 
 - Uma breve visão geral sobre o que é Blotto.

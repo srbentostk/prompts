@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente sobre como revisar políticas e procedimentos de TIC. O guia deve incluir:
 
 - Etapas para revisar as políticas e procedimentos de TIC existentes.

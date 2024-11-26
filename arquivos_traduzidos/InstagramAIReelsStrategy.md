@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma estratégia detalhada para usar a IA na geração de reels no Instagram focados em ajudar indivíduos a ficarem em forma e aumentarem a confiança corporal. Considere os seguintes aspectos:
 
 - **Ideias de Conteúdo**: Gere uma lista de tópicos envolventes e informativos para reels no Instagram que se alinhem com temas de fitness e confiança corporal. Considere incorporar treinos, dicas de nutrição e segmentos de motivação.

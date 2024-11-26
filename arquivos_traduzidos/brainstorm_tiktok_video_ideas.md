@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma lista de ideias únicas e criativas para um vídeo no TikTok. Considere os seguintes elementos para tornar as ideias o mais inovadoras e envolventes possível:
 
 - **Tendências**: Revise as tendências atuais do TikTok e pense em reviravoltas excêntricas ou inesperadas que você poderia incorporar.

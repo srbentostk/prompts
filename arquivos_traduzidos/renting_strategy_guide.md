@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma estratégia abrangente para alugar meu apartamento tanto para períodos de longo prazo quanto de curto prazo. Aborde as seguintes subtarefas em sua orientação:
 
 - **Atrações e Destaques**: Desenvolva anúncios atrativos e destaque os pontos de venda únicos do apartamento para atrair potenciais locatários. Considere atributos como a localização do apartamento, comodidades, atrações nas proximidades e quaisquer benefícios adicionais ou características únicas.

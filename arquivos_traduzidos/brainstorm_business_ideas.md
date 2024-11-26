@@ -1,4 +1,4 @@
-```markdown
+ 
 Estou em busca de ideias para um negócio em casa que se alinhe com meus interesses, tenha uma base de clientes grande o suficiente para o produto ou serviço e enfrente competição baixa o bastante para se tornar a única fonte de renda para minha família.
 
 Para a resposta, por favor, inclua:

@@ -1,4 +1,4 @@
-```markdown
+ 
 ### Prompt do ChatGPT:
 
 Preciso da sua ajuda para criar um modelo abrangente para a contratação de um Assistente Virtual (AV) / Gerente de Negócios Online (GNO). O modelo deve abranger os seguintes componentes:

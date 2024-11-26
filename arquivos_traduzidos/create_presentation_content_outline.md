@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um esboço abrangente e profissional de conteúdo para apresentação utilizando as seguintes diretrizes:
 
 - **Documentos de Entrada**: Incorpore informações de múltiplos documentos, incluindo:

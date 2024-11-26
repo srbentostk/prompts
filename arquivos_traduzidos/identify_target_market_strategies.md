@@ -1,4 +1,4 @@
-```markdown
+ 
 - Estou buscando promover produtos digitais que permitam aos usuários ganhar dinheiro remotamente, mesmo que tenham um emprego em tempo integral.
 - Preciso de ajuda para identificar um mercado-alvo específico dentro do mercado maior de pessoas interessadas em liberdade financeira.
 - Uma vez que um mercado-alvo específico seja identificado, preciso de orientações sobre como adaptar o conteúdo para atender às suas necessidades e requisitos únicos, visando aumentar a eficácia na geração de vendas.

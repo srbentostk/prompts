@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente ou simulação para o setor bancário e financeiro. Isso pode incluir explicações, cenários ou diálogos de exemplo. Certifique-se de abordar as seguintes áreas-chave:
 
 - **Conceitos Básicos**:

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma especificação de API para um recurso de escalonamento de risco de segurança, incluindo:
 
 - **Familiarização com Procedimentos e Design:**

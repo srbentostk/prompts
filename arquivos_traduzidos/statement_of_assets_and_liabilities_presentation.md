@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma apresentação detalhada e informativa sobre o tema "Declaração de Ativos e Passivos." A apresentação deve incluir:
 
 - Uma introdução sobre o que é uma Declaração de Ativos e Passivos.

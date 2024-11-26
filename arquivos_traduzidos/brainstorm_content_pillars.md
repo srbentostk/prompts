@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano abrangente para desenvolver 15 pilares de conteúdo adequados para clipes de 1 minuto no TikTok. Esses clipes devem estar alinhados com as estratégias modernas de marketing e branding voltadas para pequenos empreendedores no Brasil. Os objetivos são educar sobre marketing e branding, abordar dores comuns nos negócios, inspirar com histórias de sucesso e direcionar tráfego para a conta do TikTok youbrandexpert, a fim de construir confiança e aumentar o número de seguidores. Siga estes passos detalhados:
 
 - Identifique os principais pontos de dor e desafios enfrentados por pequenas e médias empresas (PMEs) no Brasil relacionados à estratégia de marketing e branding.

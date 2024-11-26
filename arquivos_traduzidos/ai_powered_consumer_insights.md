@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um esboço detalhado de conteúdo para um artigo sobre "Insights de consumidor impulsionados por IA: Como os líderes de FMCG podem se manter à frente da concorrência." Inclua os seguintes aspectos-chave:
 
 - Defina insights de consumidor impulsionados por IA e explique sua importância no setor de Bens de Consumo de Rápido Movimento (FMCG).

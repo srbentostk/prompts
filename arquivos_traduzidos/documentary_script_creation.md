@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um roteiro para um documentário com uma contagem de palavras entre 1000 e 2000 palavras, utilizando o conteúdo dos documentos fornecidos. Siga estas diretrizes:
 
 - **Estrutura**: Delimite o roteiro com uma introdução clara, corpo e conclusão. Cada seção deve ter uma transição suave para a próxima.

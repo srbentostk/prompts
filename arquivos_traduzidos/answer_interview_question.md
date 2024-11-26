@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado para se preparar para entrevistas, abordando duas áreas principais: perguntas de entrevista e "elevator pitches". Siga estas instruções:
 
 - **Perguntas de Entrevista:**

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma base de conhecimento abrangente para um curso de aprendizado em Gestão de Projetos como uma alternativa a aulas tradicionais caras. Esta base de conhecimento deve cobrir as últimas estruturas e abordagens para gerenciar projetos de qualquer tamanho ou escala, tanto em indústrias tecnológicas quanto não tecnológicas. Certifique-se de que o conteúdo inclua:
 
 1. Uma visão geral das estruturas e metodologias modernas de gestão de projetos para indústrias tecnológicas e não tecnológicas.

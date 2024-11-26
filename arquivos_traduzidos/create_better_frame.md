@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um prompt de estrutura para designers de interiores que os ajude a gerar os melhores conceitos de design possíveis, permitindo que preencham informações detalhadas sobre o design, fotografia e iluminação. A estrutura deve cobrir todos os componentes essenciais para criar um prompt de design abrangente. Utilize o seguinte formato e estrutura para guiar os designers:
 
 **Prompt de Estrutura:**

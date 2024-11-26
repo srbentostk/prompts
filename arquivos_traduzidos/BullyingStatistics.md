@@ -1,4 +1,4 @@
-```markdown
+ 
 - "Estou trabalhando em um movimento centrado em torno do combate ao bullying e gerenciamento de estresse. Preciso de informações estatísticas detalhadas sobre incidentes de bullying tanto em ambientes educacionais (como escolas) quanto no ambiente de trabalho, em escala nacional e global. Por favor, ajude-me a identificar estatísticas atuais, como a frequência de incidentes de bullying entre estudantes e funcionários, incluindo quaisquer tendências ou variações em diferentes regiões ou demografias ao redor do mundo.
 
 - Forneça:

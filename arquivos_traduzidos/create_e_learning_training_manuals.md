@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie manuais de treinamento abrangentes e protocolos de coaching para cursos de e-learning. Aborde os seguintes componentes em detalhes:
 
 - **Objetivos e Resultados do Curso**: Defina claramente os objetivos e resultados de aprendizagem para cada curso. Certifique-se de que sejam SMART (Específicos, Mensuráveis, Alcançáveis, Relevantes, com Prazo definido).

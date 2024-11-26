@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma estratégia vencedora para uma temporada de fantasy football e forneça alguns nomes criativos de times que se destaquem. Certifique-se de que a estratégia seja detalhada e aborde todos os aspectos-chave da gestão de fantasy football, incluindo seleção de jogadores, técnicas de draft, estratégias de waivers e dicas de trocas. Além disso, proponha alguns nomes de times divertidos e inteligentes.
 
 Aqui está a divisão passo a passo:

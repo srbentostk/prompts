@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um calendário de conteúdo para redes sociais de 30 dias focado em educar os usuários sobre como ganhar dinheiro online usando IA. Garanta que o conteúdo seja envolvente e de apoio, fornecendo dicas práticas e inspiração. Inclua uma mistura de tipos de conteúdo, como vídeos, infográficos, links de blogs e citações. Siga estes passos para criar o calendário:
 
 - **Tema do Conteúdo**: Gere ideias para o conteúdo de cada dia centrado em vários aspectos de ganhar dinheiro online através da IA, como oportunidades de freelancer, ferramentas de IA para empreendedores, produtos digitais e funções de trabalho relacionadas à IA.

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um cronograma para sessões de treinamento pessoal em uma clínica de fisioterapia. Use as seguintes diretrizes para organizar a agenda:
 
 - Entrada: Dados não estruturados contendo a disponibilidade dos clientes.

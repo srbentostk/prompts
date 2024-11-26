@@ -1,4 +1,4 @@
-```markdown
+ 
 - Ajude-me a gerar uma lista de estratégias de branding nas redes sociais que novos proprietários de pequenas empresas costumam adotar para aumentar a conscientização da marca e atrair clientes. Inclua exemplos específicos que você possa encontrar de diversos empreendedores online.
 
 - Analise e avalie a eficácia de diferentes estratégias de branding nas redes sociais para aumentar o engajamento do cliente e impulsionar o crescimento dos negócios. Considere métricas como aumento nas vendas, níveis de interação com clientes e visibilidade da marca.

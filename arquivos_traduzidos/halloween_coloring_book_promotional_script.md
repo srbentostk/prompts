@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um roteiro detalhado e envolvente para um vídeo voltado a promover um livro de colorir temático de Halloween. O roteiro deve incluir 12 seções distintas ou "páginas" dentro do vídeo, cada uma alinhada com o tema do Halloween. Use as seguintes diretrizes para desenvolver o roteiro:
 
 - **Introdução**: Elabore um segmento de abertura envolvente que introduza o conceito do livro de colorir temático de Halloween.

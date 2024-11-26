@@ -1,4 +1,4 @@
-```markdown
+ 
 Analise a seguinte descrição de cargo (que você deve inserir abaixo) e considere aonde quero chegar na minha carreira, especificamente em gestão de pessoas. Com base nessas informações, forneça metas detalhadas e acionáveis que eu deva almejar ao longo do próximo ano para me ajudar a alcançar meu objetivo profissional. Essas metas serão inseridas no meu plano de desenvolvimento pessoal.
 
 - Revise a descrição de cargo atual minuciosamente.

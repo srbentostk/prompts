@@ -1,4 +1,4 @@
-```markdown
+ 
 Desenvolva um plano de negócios abrangente e uma ideia para um restaurante combinado com um jardim de plantas/floras, conhecido como "Restaurante Jardim". Por favor, inclua os seguintes componentes em sua resposta:
 
 - **Desenvolvimento do Conceito:**

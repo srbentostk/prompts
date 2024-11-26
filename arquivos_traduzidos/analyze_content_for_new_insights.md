@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um fluxo de trabalho detalhado de "agente" usando o ChatGPT para gerar e refinar novos conteúdos com base em dados de análise de conteúdo. Sua tarefa é facilitar um processo que envolve analisar o conteúdo existente, identificar dados-chave e gerar novos conteúdos adaptados a essas informações. Siga estas etapas de perto para alcançar esse objetivo:
 
 - Analise o conteúdo existente e extraia dados-chave relevantes para as tendências atuais, engajamento do público e métricas de desempenho do conteúdo.

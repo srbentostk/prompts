@@ -1,4 +1,4 @@
-```markdown
+ 
 Certamente! Aqui está o prompt do ChatGPT:
 
 - Elabore uma descrição detalhada de como um professor universitário pode apresentar efetivamente suas contribuições em um dossiê de mérito. Isso inclui:

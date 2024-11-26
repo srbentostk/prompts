@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma lista de verificação detalhada para construir um negócio de criação de conteúdo e monetização como influenciador no TikTok e Instagram, focando em escapadas românticas de luxo. A lista de verificação deve abranger as seguintes áreas:
 
 1. **Criação de Conteúdo**:

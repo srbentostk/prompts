@@ -1,4 +1,4 @@
-```markdown
+ 
 - Realize uma análise abrangente do conceito de "teste".
 - Discuta os diferentes tipos de teste em várias áreas, como testes de software, testes médicos e testes educacionais.
 - Explique os propósitos e benefícios de cada tipo de teste.

@@ -1,4 +1,4 @@
-```markdown
+ 
 Claro, aqui está o prompt de alta qualidade do ChatGPT:
 
 ---

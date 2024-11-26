@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para a criação de vídeos de microstock de alta qualidade sobre diversos temas. Sua resposta deve incluir o seguinte:
 
 - **Entendendo o Mercado de Vídeos de Microstock**: Forneça uma visão geral do que são vídeos de microstock e como eles são utilizados na indústria. Explique os requisitos e padrões típicos para que os vídeos sejam aceitos nas plataformas de microstock.

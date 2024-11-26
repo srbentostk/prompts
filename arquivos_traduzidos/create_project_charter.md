@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um termo de abertura de projeto detalhado, fornecendo orientações abrangentes sobre os seguintes elementos:
 
 - **Visão Geral do Projeto**: Descreva o contexto do projeto, seu propósito e justificativa. Explique por que este projeto é necessário e seu impacto esperado.

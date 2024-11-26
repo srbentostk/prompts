@@ -1,4 +1,4 @@
-```markdown
+ 
 Certamente! Aqui está o prompt de alta qualidade do ChatGPT baseado no pedido fornecido:
 
 ---

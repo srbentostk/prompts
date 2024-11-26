@@ -1,4 +1,4 @@
-```markdown
+ 
 Prompt para o ChatGPT:
 
 - Preciso de ajuda para escrever um currículo adaptado para candidaturas de emprego no Indeed.

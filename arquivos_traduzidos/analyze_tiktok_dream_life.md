@@ -1,4 +1,4 @@
-```markdown
+ 
 - Analise o conceito de "vida dos sonhos" como é visto no TikTok.
 - Compare e contraste esse conceito com similares encontrados em outros lugares, como em sites ou outras redes sociais.
 - Explique por que pode haver uma disparidade entre o conteúdo disponível no TikTok e o de um site.

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie 30 dias de conteúdo para o Instagram direcionado a profissionais ocupados que estão passando pela perimenopausa/menopausa, com o objetivo de abordar seus pontos de dor e fornecer dicas e recursos. O conteúdo de cada dia deve consistir no seguinte:
 
 - Uma legenda curta e envolvente (100-150 palavras) que identifique um ponto de dor comum relacionado à perimenopausa/menopausa.

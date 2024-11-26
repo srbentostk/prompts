@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para ajudar alguém a retornar à indústria de tecnologia após uma pausa. Cubra os seguintes aspectos:
 
 - **Entendendo o cenário atual da tecnologia**:

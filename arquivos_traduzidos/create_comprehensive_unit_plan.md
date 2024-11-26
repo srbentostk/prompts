@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano de unidade abrangente para qualquer disciplina, destinado a educadores, garantindo que inclua planos de aula detalhados. Aborde os seguintes componentes em sua resposta:
 
 - **Visão Geral do Plano de Unidade:**

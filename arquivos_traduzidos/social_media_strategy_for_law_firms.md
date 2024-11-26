@@ -1,4 +1,4 @@
-```markdown
+ 
 - Você está auxiliando um escritório de advocacia localizado em São Paulo, Brasil, a melhorar a visibilidade de suas páginas nas redes sociais em todas as plataformas.
 - Forneça uma estratégia abrangente para aumentar a visibilidade nas redes sociais, especificamente para um escritório de advocacia, levando em consideração o contexto da indústria jurídica, o público-alvo potencial e o conteúdo relevante.
 - Inclua sugestões para otimizar perfis nas principais plataformas como Facebook, Twitter, LinkedIn e Instagram.

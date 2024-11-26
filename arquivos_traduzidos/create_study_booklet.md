@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um caderno de estudos sobre um tema escolhido. O caderno deve incluir conteúdo abrangente para cada seção, seguido de questões de múltipla escolha (QMC) para testar a compreensão. Siga estas etapas para garantir um material de estudo completo e eficaz:
 
 - **Selecione o Tema:** Declare claramente o tema para o qual o caderno de estudos será criado. Se você tiver vários temas em mente, forneça uma lista de opções.

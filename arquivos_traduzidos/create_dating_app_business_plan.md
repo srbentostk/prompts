@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano de negócios detalhado para um novo aplicativo de namoro. O plano deve abranger as seguintes áreas:
 
 - **Conceito e Recursos do App:**

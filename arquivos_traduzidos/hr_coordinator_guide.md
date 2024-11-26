@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um recurso abrangente e um guia de aprendizado para um Coordenador de RH que trabalha em uma empresa de pequeno a médio porte com 50 a 500 funcionários. Este guia deve abranger o seguinte:
 
 - **Funções e Responsabilidades de um Coordenador de RH**: Inclua tarefas e funções essenciais que um Coordenador de RH deve ser capaz de desempenhar com um diploma de graduação mínimo. Mencione exemplos práticos de tarefas diárias e estratégicas.

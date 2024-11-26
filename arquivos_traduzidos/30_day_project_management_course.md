@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um curso abrangente de 30 dias sobre Gestão de Projetos para iniciantes que têm pouco ou nenhum conhecimento prévio. O curso deve guiar os participantes desde conceitos fundamentais até tópicos mais avançados de forma sistemática. Certifique-se de que cada etapa seja clara e detalhada. Divida o conteúdo em lições diárias que se complementem gradualmente. Incorpore exercícios, exemplos práticos e avaliações para reforçar o aprendizado. Preste atenção a:
 
 - **Introdução à Gestão de Projetos**: Explique os termos e princípios básicos.

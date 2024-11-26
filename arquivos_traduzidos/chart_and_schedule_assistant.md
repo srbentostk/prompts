@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um prompt de Sistema para um Gerador de Gráficos e Assistente de Agendamento de Compromissos projetado para usuários interessados em construir Agentes de IA, Sistemas e Automação. O sistema deve ser capaz de:
 
 - Gerar vários tipos de gráficos com base nos dados fornecidos pelo usuário.

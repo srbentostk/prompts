@@ -1,4 +1,4 @@
-```markdown
+ 
 Aqui está o prompt do ChatGPT baseado na análise do pedido:
 
 ---

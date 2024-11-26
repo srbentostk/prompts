@@ -1,4 +1,4 @@
-```markdown
+ 
 Revise o documento anexado de maneira formal, profissional e especializada, utilizando o recurso de controle de alterações, assim como uma ferramenta como o Grammarly faria.
 
 - Verifique cuidadosamente e corrija erros gramaticais, falhas de pontuação e quaisquer problemas de sintaxe.

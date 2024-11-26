@@ -1,4 +1,4 @@
-```markdown
+ 
 - Crie uma lista de 100 frases de autoajuda que têm mais comentários e compartilhamentos no TikTok ou Instagram.
 - Desenvolva um método para converter automaticamente cada frase em um vídeo usando Inteligência Artificial.
 - Salve os vídeos criados em uma pasta designada no disco rígido local.

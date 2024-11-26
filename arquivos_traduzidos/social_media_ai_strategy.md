@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma estratégia para usar a IA na geração de conteúdo para redes sociais com o objetivo de promover uma nova clínica de hematologia. O conteúdo deve ser educacional, informativo e projetado para incentivar potenciais pacientes a visitarem a clínica em vez de enviarem perguntas por mensagens diretas. Aborde as seguintes subtarefas:
 
 - Identifique os tipos de conteúdo educacional e informativo que podem demonstrar expertise em hematologia e atrair potenciais pacientes.

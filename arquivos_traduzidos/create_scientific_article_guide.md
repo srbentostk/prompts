@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado para a redação de artigos científicos destinados à publicação em uma revista de cibersegurança voltada para Tecnologia Operacional (OT). Aborde os seguintes pontos:
 
 - **Estrutura e Organização:**

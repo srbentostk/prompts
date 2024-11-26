@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um framework detalhado para o lançamento de um programa de marketing digital especificamente dentro do nicho "ganhar dinheiro online". O objetivo é ajudar indivíduos a gerar renda por meio de canais online. Forneça orientações abrangentes sobre cada elemento listado abaixo:
 
 - **Identificação do Público-Alvo**: Determine as características e necessidades do público potencial interessado em ganhar dinheiro online. Como esse público pode ser segmentado para esforços de marketing mais direcionados?

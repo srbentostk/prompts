@@ -1,4 +1,4 @@
-```markdown
+ 
 - Crie 12 páginas distintas para um livro de colorir em preto e branco.
 - Cada página deve ser adequada para o formato de um livro de colorir.
 - Assegure variedade nos designs, incorporando diferentes temas ou assuntos como natureza, padrões abstratos, animais, mandalas ou elementos de fantasia.

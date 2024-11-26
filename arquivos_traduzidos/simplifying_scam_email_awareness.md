@@ -1,4 +1,4 @@
-```markdown
+ 
 Revise o texto abaixo para tornar a informação mais compreensível para pessoas com deficiência intelectual, garantindo que o significado seja mantido e claro. Siga estes passos cuidadosamente:
 
 1. Simplifique a linguagem, mantendo a intenção original da informação.

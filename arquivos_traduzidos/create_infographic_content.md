@@ -1,4 +1,4 @@
-```markdown
+ 
 - Olá ChatGPT, preciso de ajuda com duas tarefas relacionadas a artigos de blog e infográficos para minhas clínicas de fisioterapia em São Paulo.
 
 Tarefa 1: Adicionando Citações Inline a Artigos de Blog

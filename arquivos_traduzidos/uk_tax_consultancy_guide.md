@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para a configuração de um serviço de consultoria tributária baseado no Brasil usando um modelo personalizado do ChatGPT. Inclua os seguintes elementos:
 
 - **Orientações para configurar um modelo especializado do ChatGPT:**

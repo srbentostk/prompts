@@ -1,4 +1,4 @@
-```markdown
+ 
 Como um coach de vida especializado, preciso que você crie um plano de produtividade abrangente e personalizado para mim. Aqui está o que eu preciso:
 
 • Contexto: [Forneça uma descrição detalhada da sua situação atual, incluindo quaisquer desafios, restrições ou circunstâncias específicas que estão impactando sua produtividade]

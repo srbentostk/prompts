@@ -1,4 +1,4 @@
-```markdown
+ 
 - Revise o artigo fornecido intitulado "Estratégias para Potencializar a Liderança de Pensamento no LinkedIn em 2025."
 - Avalie o artigo quanto ao profissionalismo, garantindo que ele reflita um conteúdo de alta qualidade típico de um escritor de pesquisa profissional. Foque na linguagem, tom, estrutura e clareza.
 - Compare a qualidade e os padrões do artigo com os de escritores e publicações renomadas, como a Rock Content. Determine se o artigo está alinhado com tais publicações em termos de percepções, profundidade de pesquisa e apresentação geral.

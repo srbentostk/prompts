@@ -1,4 +1,4 @@
-```markdown
+ 
 ### Prompt do ChatGPT:
 
 Você tem três tarefas distintas de redação legal e criativa para abordar usando IA. Para cada tarefa, siga as orientações detalhadas fornecidas abaixo:

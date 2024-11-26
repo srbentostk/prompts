@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano de refeições personalizado para um cliente com base nas informações do perfil dele. Aqui está o que você precisa fazer:
 
 1. Recupere as seguintes informações do perfil na base de dados do cliente:

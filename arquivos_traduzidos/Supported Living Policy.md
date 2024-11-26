@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma política detalhada e abrangente para moradia assistida no Brasil. A política deve estar em conformidade com todas as regulamentações e normas relevantes. Utilize a seguinte estrutura e diretrizes:
 
 - **Introdução**: Explique brevemente o que é moradia assistida e sua importância dentro do sistema de saúde e assistência social no Brasil.

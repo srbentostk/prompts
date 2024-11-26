@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um pitch deck abrangente para captação de recursos para uma empresa de saúde e bem-estar. Certifique-se de que o pitch deck aborde efetivamente os seguintes aspectos-chave:
 
 - **Visão Geral da Empresa:**

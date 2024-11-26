@@ -1,4 +1,4 @@
-```markdown
+ 
 Para o pedido "sem rosto", crie um prompt do ChatGPT da seguinte forma:
 
 "Ajude-me a entender o conceito de 'sem rosto' conforme se aplica a diferentes contextos, como:

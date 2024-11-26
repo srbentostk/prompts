@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um curso abrangente, passo a passo, sobre Investimentos voltado para o público brasileiro, garantindo que tanto iniciantes quanto alunos avançados o encontrem acessível e valioso. O curso deve seguir este esboço estruturado:
 
 - **Estrutura do Curso**: Desenvolva uma progressão passo a passo do conteúdo do curso, começando por tópicos básicos até avançados sobre investimentos.

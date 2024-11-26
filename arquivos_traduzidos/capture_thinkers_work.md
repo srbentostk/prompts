@@ -1,4 +1,4 @@
-```markdown
+ 
 Desenvolva um guia abrangente para criar um banco de dados de estatísticas de branding pessoal focado em liderança de pensamento no LinkedIn. Siga os passos estruturados abaixo:
 
 - **Defina o Escopo:**

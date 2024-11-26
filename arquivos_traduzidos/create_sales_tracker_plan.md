@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano abrangente de rastreamento de vendas adaptado para uma equipe de consultoria de investimentos focada em ativos financeiros, como títulos do Tesouro e diversos fundos de investimento. O objetivo deste rastreador de vendas é monitorar o desempenho e a eficiência de vendas entre os diferentes membros da equipe e classes de ativos. Certifique-se de que o rastreador inclua os seguintes componentes:
 
 - **Rastreamento de Vendas:**

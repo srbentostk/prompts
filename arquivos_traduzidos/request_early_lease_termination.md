@@ -1,4 +1,4 @@
-```markdown
+ 
 Componha um e-mail para seus proprietários solicitando a rescisão antecipada do seu contrato de locação, visando um resultado mutuamente benéfico para ambas as partes. Incorpore os seguintes detalhes e instruções no e-mail:
 
 - Use um tom caloroso e envolvente ao longo do e-mail, refletindo sua voz pessoal.

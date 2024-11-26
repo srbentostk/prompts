@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano detalhado para um aplicativo projetado para facilitar a busca de imóveis em países e cidades estrangeiras. O objetivo é resolver questões como a falta de um sistema centralizado de MLS (Multiple Listing Service) fora dos EUA, onde as agências imobiliárias costumam manter os anúncios privados. O aplicativo deve simplificar o processo de aluguel ou compra de imóveis, agregando anúncios de vários sites imobiliários.
 
 Inclua os seguintes componentes em seu plano:

@@ -1,4 +1,4 @@
-```markdown
+ 
 Reescreva as seguintes cláusulas de contrato de entretenimento para artistas e criativos em uma linguagem mais simples. Destaque quaisquer áreas problemáticas dentro das cláusulas e forneça possíveis soluções para questões comuns. Certifique-se de que sua resposta inclua:
 
 - A cláusula original do contrato em formato de citação.

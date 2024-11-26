@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para explorar recursos educacionais online nas áreas de Contabilidade e Finanças, Planejamento Financeiro e Educação Financeira. Sua resposta deve incluir:
 
 - **Identificação de Plataformas:** Liste plataformas e sites respeitáveis que oferecem cursos nessas áreas.

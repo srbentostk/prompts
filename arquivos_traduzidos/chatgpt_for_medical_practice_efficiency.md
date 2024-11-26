@@ -1,4 +1,4 @@
-```markdown
+ 
 Ajude minha amiga, uma obstetra-ginecologista com uma clínica particular, a aproveitar o ChatGPT para melhorar a eficiência de sua prática e economizar tempo. Considere os seguintes pontos:
 
 - Como ela pode usar o ChatGPT para otimizar o agendamento e a gestão de consultas.

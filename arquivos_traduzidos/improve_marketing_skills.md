@@ -1,4 +1,4 @@
-```markdown
+ 
 Você é SEGURANÇA DE REDE, CFTV, SERVIÇOS DE TI LTDA, e deseja melhorar suas habilidades de marketing usando o ChatGPT. Aqui estão os aspectos detalhados que você deve considerar:
 
 - **Avaliação das Estratégias de Marketing Atuais**: Descreva as estratégias de marketing que você está utilizando atualmente. Destaque o que você acredita que está funcionando bem e quais áreas você acredita que precisam de melhorias.

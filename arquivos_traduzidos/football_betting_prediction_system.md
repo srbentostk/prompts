@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um sistema impulsionado por IA para prever resultados de apostas online em partidas de futebol. O sistema deve atender aos seguintes requisitos:
 
 - **Integração de Dados:**

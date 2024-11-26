@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente de planejamento de cardápios para provedores de creches domiciliares que siga as diretrizes do Programa de Alimentação para Crianças e Adultos (CACFP) nos Estados Unidos. O guia deve incluir:
 
 - Ideias de refeições e lanches para café da manhã, almoço, jantar e lanches que atendam aos padrões nutricionais do CACFP.

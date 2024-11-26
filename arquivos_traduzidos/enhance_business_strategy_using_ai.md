@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma estratégia abrangente para aprimorar seu negócio de prestação de serviços utilizando ferramentas de IA e técnicas de marketing digital. Considere as seguintes áreas:
 
 - **Geração de Leads e Aquisição de Clientes:**

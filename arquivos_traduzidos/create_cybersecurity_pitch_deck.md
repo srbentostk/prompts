@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um conteúdo detalhado e persuasivo para um pitch deck para uma reunião com um CEO e tomadores de decisão na área de cibersegurança de Tecnologia Operacional (OT). O pitch deck deve consistir em no máximo 6 slides e precisa alcançar os seguintes objetivos:
 
 - **Slide de Introdução:** Apresente uma breve visão geral dos seus serviços de cibersegurança OT e sua relevância no Brasil. Destaque sua experiência e a importância de proteger os sistemas de tecnologia operacional.

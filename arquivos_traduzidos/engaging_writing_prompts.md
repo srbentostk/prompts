@@ -1,4 +1,4 @@
-```markdown
+ 
 Sou professor e autor de livros que escreve obras para alunos do ensino fundamental e médio, além de romances. Uso muitas ilustrações e crio minhas próprias capas de livros para reduzir custos. Preciso da sua ajuda para criar prompts eficazes e envolventes para o ChatGPT. Aqui estão as áreas específicas em que preciso de assistência:
 
 - **Gerando Prompts de Escrita:**

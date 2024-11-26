@@ -1,4 +1,4 @@
-```markdown
+ 
 - Gere uma ampla gama de prompts criativos, envolventes e informativos adequados para uso no ChatGPT.
 - Inclua prompts que atendam a várias categorias, como iniciadores de conversa, educação, entretenimento, resolução de problemas, aprendizado de novas habilidades e desenvolvimento profissional.
 - Certifique-se de que os prompts estejam estruturados para incentivar respostas detalhadas e abrangentes do ChatGPT.

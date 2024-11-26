@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para pais e professores sobre como encontrar livros adequados para suas crianças:
 
 - Identifique os pontos comuns de dificuldade enfrentados por pais e professores na busca por livros infantis, como:

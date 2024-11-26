@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um post atraente e informativo para redes sociais sobre os principais erros que as pessoas cometem ao tentar [OBJETIVO] para [PÚBLICO]. Siga estas diretrizes:
 
 • Comece com um título chamativo: "Os [NÚMERO] Maiores Erros que [PÚBLICO] Comete ao Tentar [OBJETIVO] (E Como Superá-los)"

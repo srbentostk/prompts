@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente sobre como aprender e dominar o marketing no Pinterest do zero. O guia deve abordar:
 
 - **Introdução ao Pinterest:**

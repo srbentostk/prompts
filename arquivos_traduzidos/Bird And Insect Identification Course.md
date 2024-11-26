@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um esboço detalhado de plano de aula para um curso online de identificação de aves e insetos, projetado para conectar os alunos com a fauna local, despertar a curiosidade e desenvolver habilidades de observação. Seu esboço deve abranger as seguintes áreas:
 
 - **Estrutura do Curso:**

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um rascunho de e-mail para um corretor de imóveis residencial em São Paulo, Brasil, para enviar ao seu banco de dados de contatos dentro de um sistema CRM. O e-mail deve anunciar a recente queda na taxa de juros e discutir seu impacto potencial no mercado imobiliário.
 
 - Comece o e-mail com uma saudação profissional e envolvente para captar a atenção do destinatário.

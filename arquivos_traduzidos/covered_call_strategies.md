@@ -1,4 +1,4 @@
-```markdown
+ 
 Estou tentando entender estratégias de opções de ações como iniciante. Por favor, me ajude com o seguinte:
 
 - Explique a estratégia de "Covered Call" em detalhes. Como funciona, e quais são os riscos e benefícios potenciais?

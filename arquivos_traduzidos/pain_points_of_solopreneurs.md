@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma análise dos pontos de dor enfrentados por empreendedores individuais que estão começando sua jornada empreendedora. Foque em identificar os desafios e obstáculos comuns que eles encontram e forneça insights sobre como entender esses problemas profundamente. Sua análise deve abordar os seguintes pontos:
 
 - Identifique os desafios típicos enfrentados por empreendedores individuais no início de sua jornada, como gestão financeira, gestão do tempo, falta de rede de contatos e sobrecarga.

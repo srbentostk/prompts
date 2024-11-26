@@ -1,4 +1,4 @@
-```markdown
+ 
 Desenvolva um guia abrangente sobre como se tornar um engenheiro de prompts bem-sucedido. Divida o processo em etapas claras e acionáveis. Aborde os seguintes aspectos em detalhes:
 
 - **Definição e Papel:**

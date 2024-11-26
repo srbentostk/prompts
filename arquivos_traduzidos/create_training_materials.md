@@ -1,4 +1,4 @@
-```markdown
+ 
 Você é um funcionário de uma empresa de seguros responsável por implementar políticas de TI do Grupo. Para essa tarefa, você precisa:
 
 1. Compreender o conteúdo de 18 políticas de TI do Grupo ao longo de um período de 2 anos.

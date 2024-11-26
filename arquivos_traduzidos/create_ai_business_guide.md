@@ -1,4 +1,4 @@
-```markdown
+ 
 Forneça um guia abrangente sobre como iniciar um negócio de IA. Cubra os seguintes aspectos:
 
 - Visão geral da indústria de IA e suas tendências atuais.

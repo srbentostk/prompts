@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um conceito detalhado e criativo para um livro de colorir para adultos que siga as seguintes diretrizes:
 
 - **Nível de Dificuldade**: Assegure-se de que os desenhos sejam fáceis de colorir, adequados para adultos que preferem simplicidade.

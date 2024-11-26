@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para um projeto baseado na indústria de gestão de recursos humanos. Sua resposta deve incluir, mas não se limitar a, as seguintes seções:
 
 - **Escopo e Objetivos do Projeto:**

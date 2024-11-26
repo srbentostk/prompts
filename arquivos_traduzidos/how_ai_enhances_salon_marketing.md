@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para proprietários de salões de beleza no Brasil sobre como a IA pode ajudá-los a crescer nas redes sociais e gerenciar o marketing do salão. Além disso, explique como meus modelos digitais podem facilitar a manutenção de uma presença online constante. O guia deve incluir:
 
 - Uma introdução aos benefícios da IA nas redes sociais e no marketing de salões de beleza.

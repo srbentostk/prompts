@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente sobre como configurar e otimizar uma Loja TikTok. Sua resposta deve incluir:
 
 - **Introdução à Loja TikTok:**

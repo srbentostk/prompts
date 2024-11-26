@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um prompt abrangente para o ChatGPT voltado para um redator de conteúdo de saúde e bem-estar, visando públicos que gerenciam doenças crônicas, entusiastas do bem-estar, pessoas com traumas em um processo de cura, pessoas com problemas de sono, aqueles que amam viver de forma holística e populações mais jovens que desejam manter-se saudáveis. Desenhe o prompt para gerar informações úteis, práticas e fáceis de seguir.
 
 ---

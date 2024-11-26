@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um boletim informativo quinzenal voltado para um agente de crédito que busca construir e fortalecer relacionamentos com corretores de imóveis para aumentar as referências de negócios. O objetivo é fechar mais empréstimos ao desenvolver o fator "conhecer, gostar e confiar" com os corretores por meio de conteúdo de e-mail envolvente e valioso. O conteúdo do e-mail deve diferenciar o agente de crédito dos concorrentes e posicioná-lo como um parceiro de confiança. Por favor, aborde os seguintes componentes:
 
 - Desenvolva um tema ou foco para cada boletim que seja relevante e benéfico para os corretores de imóveis.

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma Política de Privacidade abrangente e profissional para novos sites construídos para clientes. A Política de Privacidade deve cobrir os seguintes aspectos em detalhes:
 
 - **Coleta de Informações:** Explique os tipos de informações pessoais coletadas dos usuários, como são coletadas (por exemplo, formulários, cookies) e a finalidade da coleta.

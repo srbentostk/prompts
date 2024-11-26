@@ -1,4 +1,4 @@
-```markdown
+ 
 Preciso de ajuda para melhorar meus relatórios de observação de jogadores de futebol para um clube inglês, focando em atletas da América do Sul. Por favor, forneça uma variedade de frases e terminologias para as seguintes seções do relatório:
 
 - **Atributos Físicos**

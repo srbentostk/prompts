@@ -1,4 +1,4 @@
-```markdown
+ 
 Aqui está o prompt elaborado para o ChatGPT:
 
 ---

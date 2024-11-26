@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um prompt abrangente do ChatGPT que atenda às necessidades de alguém que deseja tornar o marketing de rede para criptomoedas mais acessível, direcionado a indivíduos que podem ter reservas tanto em relação ao marketing de rede quanto às criptomoedas. Destaque que essa é uma decisão de longo prazo e evite sugerir que se trata de um esquema para enriquecer rapidamente. Enfatize os ganhos consistentes potenciais e o conceito de capitalização ao longo do tempo. Certifique-se de transmitir o objetivo de ajudar as pessoas a realizarem seus sonhos, como possibilitar que 100.000 famílias ganhem um adicional de R$ 2.500.
 
 ---

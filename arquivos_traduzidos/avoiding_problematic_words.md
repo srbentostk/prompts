@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma lista abrangente de palavras que devem ser evitadas ao criar conteúdo. Sua resposta deve incluir:
 
 - Palavras que são geralmente consideradas excessivamente complexas ou jargões que podem confundir o público.

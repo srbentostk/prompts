@@ -1,4 +1,4 @@
-```markdown
+ 
 - "Imagine que você é um estudante universitário que precisa responder a uma pergunta de trabalho acadêmico de maneira precisa e detalhada. Considere as seguintes diretrizes:
   - Identifique a pergunta principal do trabalho. Qual é o tema central ou problema que você precisa abordar?
   - Utilize o pensamento crítico para analisar a pergunta e dividi-la em partes menores e gerenciáveis.

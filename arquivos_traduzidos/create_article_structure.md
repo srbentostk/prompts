@@ -1,4 +1,4 @@
-```markdown
+ 
 - Por favor, escreva um artigo detalhado e envolvente sobre o tema selecionado.
 - Inclua uma introdução que forneça uma visão geral e contexto.
 - Desenvolva o corpo principal com seções claras e bem organizadas.

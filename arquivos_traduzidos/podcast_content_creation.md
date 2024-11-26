@@ -1,4 +1,4 @@
-```markdown
+ 
 Por favor, crie uma série de prompts de conteúdo especificamente voltados para a criação de podcasts como parte de um plano de conteúdo mais amplo e uma estratégia de mídia. Os prompts devem incluir:
 
 - **Ideias de Conteúdo**: Sugira tópicos diversificados para podcasts que sejam envolventes e relevantes para o público-alvo.

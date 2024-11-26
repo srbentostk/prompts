@@ -1,4 +1,4 @@
-```markdown
+ 
 **Prompt do ChatGPT:**
 
 - Por favor, otimize um roteiro com foco em aprimorar os diálogos no estilo de roteiristas renomados como Aaron Sorkin e Woody Allen. 

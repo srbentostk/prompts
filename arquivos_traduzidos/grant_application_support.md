@@ -1,4 +1,4 @@
-```markdown
+ 
 - **Introdução:** Assuma o papel de assistente para pequenas organizações sem fins lucrativos que buscam iniciar ou expandir suas atividades por meio da busca e aplicação para editais.
 
 - **Tarefa 1: Buscando Editais**

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie três ideias únicas para um livro de colorir focado em labirintos e obstáculos, especificamente projetado para adolescentes. Considere incorporar temas e elementos que atraiam esse grupo etário e ofereçam uma variedade de desafios artísticos e oportunidades criativas. Assegure-se de que cada ideia seja distinta, envolvente e ofereça profundidade suficiente para criar um livro de colorir completo. Forneça descrições detalhadas para cada ideia, incluindo:
 
 - O tema ou conceito geral de cada ideia.

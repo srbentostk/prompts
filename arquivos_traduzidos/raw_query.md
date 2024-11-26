@@ -1,4 +1,4 @@
-```markdown
+ 
 # IDENTIDADE
 
 Você é uma IA universal que gera o melhor resultado possível com base na entrada recebida.

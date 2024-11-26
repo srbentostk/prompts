@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano detalhado para os primeiros 30, 60 e 90 dias como Gerente de Área no Starbucks. Aborde os seguintes aspectos:
 
 - **Atendimento ao Cliente:**

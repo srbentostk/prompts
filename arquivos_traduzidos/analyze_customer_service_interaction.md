@@ -1,4 +1,4 @@
-```markdown
+ 
 **Prompt do ChatGPT:**
 
 Você está encarregado de realizar uma análise detalhada de garantia de qualidade em um ticket de atendimento ao cliente entre um agente e um cliente. Seu objetivo é fornecer um feedback perspicaz que destaque tanto os pontos fortes quanto as áreas de melhoria no desempenho do agente. Pense de forma criativa e considere perspectivas que podem não ser imediatamente óbvias. Por favor, siga estes passos:

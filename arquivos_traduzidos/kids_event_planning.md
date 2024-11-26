@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano abrangente para organizar um dia divertido e envolvente na AGBU em Toronto para crianças de 5 a 12 anos. O evento deve durar duas horas e ocorrer de 1 a 2 vezes por mês. Certifique-se de que o plano inclua o seguinte:
 
 - **Ideias de Atividades:**

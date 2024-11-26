@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma seção 'Sobre' otimizada para um perfil do LinkedIn especializado em tecnologia, consultoria, eCommerce, vendas, parcerias e desenvolvimento estratégico/negócios. A seção deve ser envolvente e profissional, alinhando-se ao foco de carreira e expertise do usuário. Siga estas diretrizes:
 
 - **Introdução**: Comece com uma frase cativante sobre quem eles são e o que os move. Destaque sua natureza dinâmica e abordagem empreendedora.

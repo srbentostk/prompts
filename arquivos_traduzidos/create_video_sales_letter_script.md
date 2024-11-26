@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um roteiro abrangente para uma Carta de Vendas em Vídeo (VSL) com o objetivo de promover um novo produto disponível em [WEBSITE].
 A VSL deve:
 

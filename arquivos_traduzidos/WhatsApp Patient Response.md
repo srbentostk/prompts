@@ -1,4 +1,4 @@
-```markdown
+ 
 - **Contexto:** Sou um praticante de Ayurveda, e muitos dos meus pacientes me contatam pelo WhatsApp com diversas perguntas relacionadas à sua jornada de cura. Cada paciente está em uma fase diferente de seu tratamento e requer respostas personalizadas.
 
 - **Objetivo:** Quero treinar um software ou API para imitar meu estilo de comunicação, de modo que ele possa responder aos meus pacientes em tempo real pelo WhatsApp, como se eu estivesse respondendo pessoalmente.

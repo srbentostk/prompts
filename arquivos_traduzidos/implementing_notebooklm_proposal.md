@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma proposta detalhada para a implementação da ferramenta Google NotebookLM como um hub de conhecimento impulsionado por IA. A proposta deve abordar os seguintes aspectos:
 
 - Destaque que o Google NotebookLM é gratuito e acessível a qualquer pessoa com uma conta do Google.

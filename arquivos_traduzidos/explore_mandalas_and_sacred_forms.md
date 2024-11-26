@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente de 6 páginas que explore Mandalas e formas sagradas. Por favor, inclua os seguintes componentes em detalhe:
 
 - **Introdução às Mandalas**: Forneça uma visão geral do que são as Mandalas, incluindo sua importância histórica e cultural. Discuta suas origens em diferentes culturas e religiões.

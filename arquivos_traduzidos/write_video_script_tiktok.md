@@ -1,4 +1,4 @@
-```markdown
+ 
 - Leia o artigo fornecido e identifique as ideias principais, pontos-chave e quaisquer citações impactantes.
 - Resuma o artigo em um formato conciso, focando nos elementos mais envolventes e compartilháveis que seriam adequados para um público do TikTok.
 - Desenvolva um roteiro para um vídeo do TikTok que comunique efetivamente a essência do artigo:

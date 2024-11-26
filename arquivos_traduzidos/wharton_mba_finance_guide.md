@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para obter um MBA em finanças na Wharton School. Aborde as seguintes áreas:
 
 - **Requisitos de Admissão:**

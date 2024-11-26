@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para iniciar, administrar e expandir uma organização sem fins lucrativos com foco no apoio a comunidades carentes na América do Sul (especificamente Brasil e outros países da região), Oriente Médio e África. O escopo deve incluir desenvolvimento, educação e saúde da mulher. Aborde os seguintes aspectos:
 
 - **Iniciando a Organização:**

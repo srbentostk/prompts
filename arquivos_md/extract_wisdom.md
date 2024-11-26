@@ -1,4 +1,4 @@
-```markdown
+ 
 I've exported a lengthy conversation with ChatGPT as markdown, containing various ideas, improvements, and insights related to developing a business plan. Your task is to analyze this markdown document and extract the following:
 
 - **List of Ideas**: Identify all distinct business ideas mentioned throughout the conversation.

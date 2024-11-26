@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma descrição de cargo para uma posição de cibersegurança de nível iniciante. Considere os seguintes elementos e personalize-os conforme necessário para as necessidades da sua empresa:
 
 - **Título do Cargo**: Especialista em Cibersegurança Júnior

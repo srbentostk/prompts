@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente sobre como aprimorar a competência cultural como uma habilidade de liderança inclusiva no setor de tecnologia. Aborde os seguintes pontos:
 
 - Defina competência cultural e explique sua importância no contexto da liderança inclusiva.

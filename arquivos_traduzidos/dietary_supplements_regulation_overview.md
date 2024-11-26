@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um documento abrangente para o público sobre suplementos dietéticos. Inclua os seguintes componentes:
 
 - **Regulação de Suplementos pela ANVISA:**

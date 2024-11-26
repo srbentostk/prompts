@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para o lançamento de uma campanha de mídia social para promover uma nova marca de café. O café é da variedade Robusta, proveniente de Uganda. Inclua estratégias para utilizar o ChatGPT e outras ferramentas de IA recomendadas para fins de marketing. O objetivo é maximizar a exposição da marca e o engajamento nas plataformas de mídia social. Considere os seguintes aspectos em sua resposta:
 
 - **Identificação do Público-Alvo**: Forneça uma abordagem para identificar e definir o público-alvo da marca de café. Inclua fatores demográficos e psicográficos que são relevantes para os consumidores de café.

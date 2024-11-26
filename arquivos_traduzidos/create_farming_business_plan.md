@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano de negócios abrangente para empreender na agricultura no Brasil, visando garantir financiamento do Banco Nacional de Desenvolvimento Econômico e Social (BNDES). O plano de negócios deve incluir:
 
 1. **Resumo Executivo**:

@@ -1,4 +1,4 @@
-```markdown
+ 
 Aqui está um prompt de alta qualidade para o ChatGPT com base na solicitação fornecida:
 
 "Eu tenho um salário bruto mensal de R$ 250.000. Meu objetivo é limitar minhas despesas mensais a R$ 50.000 e economizar e investir o restante da minha renda disponível. Ajude-me a elaborar uma divisão do orçamento para alcançar meus objetivos financeiros.

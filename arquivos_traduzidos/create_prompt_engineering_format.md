@@ -1,4 +1,4 @@
-```markdown
+ 
 - Crie um formato detalhado semelhante ao RISEN que possa ser usado de forma consistente para gerar prompts.
 - Certifique-se de que o formato inclua elementos essenciais para a criação de prompts de alta qualidade que orientem o ChatGPT de maneira eficaz.
 - Inclua diretrizes para consistência, clareza e especificidade dos prompts.

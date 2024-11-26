@@ -1,4 +1,4 @@
-```markdown
+ 
 Desenhe um abrangente Espaço de Artes e Cultura para Tully, garantindo que o projeto esteja alinhado com a visão e os objetivos delineados. Por favor, incorpore os seguintes elementos-chave:
 
 - Visão e Objetivos:

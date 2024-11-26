@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para fornecer atualizações aos meus clientes e facilitar o acesso a serviços de viagem de luxo. Especificamente, aborde os seguintes componentes:
 
 - Identifique estratégias para compartilhar informações atualizadas sobre produtos e novidades de vendas de fornecedores de cruzeiros e hotéis de luxo de forma eficaz. Considere vários canais, como newsletters, e-mails personalizados ou uma plataforma online dedicada.

@@ -1,4 +1,4 @@
-```markdown
+ 
 Desenvolva um plano detalhado para criar um aplicativo focado em recomendações de vitaminas. Aborde os seguintes componentes na funcionalidade e na experiência do usuário do aplicativo:
 
 - **Interface de Entrada do Usuário**: 

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um roteiro detalhado para TikTok baseado no meu manuscrito de um livro sobre Marcus Garvey. Seu objetivo é produzir um roteiro educativo e envolvente que informe os espectadores sobre Marcus Garvey e os incentive a comprar o livro. Siga estas diretrizes:
 
 - **Objetivo**: O roteiro do TikTok deve educar os espectadores sobre aspectos-chave da vida e conquistas de Marcus Garvey, ao mesmo tempo em que promove o livro.

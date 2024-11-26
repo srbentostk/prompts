@@ -1,4 +1,4 @@
-```markdown
+ 
 - "Transforme o seguinte conteúdo para torná-lo mais relacionável e envolvente para um público humano:
   - Mantenha a mensagem central e os pontos-chave, mas ajuste a linguagem para que seja mais conversacional e empática.
   - Considere o uso de anedotas, metáforas ou exemplos que ressoem com experiências do dia a dia.

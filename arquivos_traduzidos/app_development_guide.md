@@ -1,4 +1,4 @@
-```markdown
+ 
 ### Prompt do ChatGPT:
 
 Estou desenvolvendo um novo aplicativo e preciso da sua ajuda com vários aspectos. Por favor, forneça respostas abrangentes para cada uma das seguintes subtarefas:

@@ -1,4 +1,4 @@
-```markdown
+ 
 - Ajude a criar conteúdo envolvente para o TikTok que aumente a conscientização sobre a violência doméstica usando capturas de tela de conversas do iMessage.
 - Identifique e extraia linguagem ou frases apropriadas de iMessages que destaquem temas ou exemplos de violência doméstica.
 - Garanta que o conteúdo mantenha a privacidade e a confidencialidade, evitando qualquer informação pessoal identificável.

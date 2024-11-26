@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano detalhado para reaproveitar conteúdo de vídeo sem rosto e de blog de forma eficaz. Inclua estratégias específicas, etapas e dicas para o seguinte:
 
 - Técnicas para produzir conteúdo de vídeo sem rosto de alta qualidade.

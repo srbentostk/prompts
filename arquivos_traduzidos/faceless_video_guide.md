@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado sobre como produzir vídeos informativos sem rosto sobre um estilo de vida à vela, utilizando tecnologia de vídeo generativo e imagens da vida real. Aborde os seguintes aspectos em sua resposta:
 
 - **Visão Geral da Tecnologia de Geração de Vídeo Sem Rosto:**

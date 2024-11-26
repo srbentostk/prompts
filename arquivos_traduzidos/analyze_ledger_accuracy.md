@@ -1,4 +1,4 @@
-```markdown
+ 
 Claro, aqui está um prompt do ChatGPT cuidadosamente elaborado com base no pedido:
 
 "Por favor, ajude a revisar um livro razão com as seguintes tarefas:

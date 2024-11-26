@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um esboço de artigo otimizado para SEO e um plano de conteúdo abrangente:
 
 1. Gere uma lista extensa de palavras-chave LSI e NLP relacionadas a [TÓPICO]. Inclua sinônimos, termos relacionados e jargões específicos da indústria.

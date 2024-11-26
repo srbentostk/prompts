@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um esboço de conteúdo para um texto. O esboço deve incluir os seguintes componentes:
 
 - **Título/Título Provisório**: Um título envolvente, claro e conciso que reflita o tema e o escopo do conteúdo.

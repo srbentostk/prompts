@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um roteiro para TikTok que explore a influência de Marcus Garvey no desenvolvimento da música Reggae. Sua resposta deve incluir:
 
 - Uma introdução que explique brevemente quem foi Marcus Garvey, enfatizando suas crenças principais e contribuições como líder nos movimentos Nacionalista Negro e Pan-Africano.

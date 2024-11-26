@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um artigo de 1000 palavras abordando crenças limitantes que impedem os indivíduos de alcançar a identidade desejada. Siga estas diretrizes:
 
 • Público-alvo: [Especificar público-alvo]

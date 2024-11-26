@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma proposta detalhada para um serviço baseado em IA que possa substituir os serviços de recolocação profissional atualmente oferecidos por empresas como parte de um pacote de desligamento. O serviço de IA deve ajudar os indivíduos a reingressar no mercado de trabalho e encontrar novas oportunidades de emprego ao longo de um período de 6 meses. A proposta deve abranger os seguintes componentes:
 
 - **Assistência com Currículos**: Descreva como o serviço de IA ajudará os usuários a criar, atualizar e otimizar seus currículos. Inclua recursos como otimização de palavras-chave, sugestões de formatação e personalização de currículos para diferentes setores e funções.

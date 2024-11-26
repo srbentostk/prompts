@@ -1,4 +1,4 @@
-```markdown
+ 
 Utilize este prompt para gerar uma resposta abrangente:
 
 ---

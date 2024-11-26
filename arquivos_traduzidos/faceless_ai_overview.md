@@ -1,4 +1,4 @@
-```markdown
+ 
 - Crie uma descrição detalhada do que é uma IA sem rosto.
 - Discuta as potenciais aplicações e benefícios da IA sem rosto em diversas indústrias.
 - Identifique as considerações éticas e desafios associados à IA sem rosto.

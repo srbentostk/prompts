@@ -1,4 +1,4 @@
-```markdown
+ 
 - Você tem a tarefa de criar uma nuvem de competências a partir do currículo enviado por um usuário, utilizando a ferramenta de geração de nuvem disponível em https://www.iapply.tech/.
 - Analise o currículo para identificar as principais habilidades, experiências, certificações e competências destacadas pelo usuário.
 - Certifique-se de que a nuvem de competências represente visualmente esses atributos de maneira clara e atraente, enfatizando as habilidades mais relevantes e frequentemente mencionadas.

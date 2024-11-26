@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma estratégia para transformar um currículo em uma série de slides concisos e claros para apresentações em entrevistas, especificamente projetados para manter o foco e evitar sair do tópico. Aborde os seguintes pontos:
 
 1. **Estrutura dos Slides**:

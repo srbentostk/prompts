@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano abrangente para estabelecer uma página de mídia social bem-sucedida, focada em compartilhar meus interesses pessoais, aproveitando tecnologias de IA para facilitar o crescimento e o engajamento.
 
 - Forneça dicas para escolher a(s) plataforma(s) de mídia social certa(s) com base no público-alvo e no tipo de conteúdo.

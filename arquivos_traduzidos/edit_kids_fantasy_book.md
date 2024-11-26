@@ -1,4 +1,4 @@
-```markdown
+ 
 Preciso de ajuda para editar meu novo livro de fantasia para crianças a partir de 8 anos. Aqui estão as tarefas específicas que preciso que você realize:
 
 - Verificar a ortografia do texto, garantindo que a grafia siga as convenções do português brasileiro.

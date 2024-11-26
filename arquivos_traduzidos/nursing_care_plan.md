@@ -1,4 +1,4 @@
-```markdown
+ 
 ### Prompt do ChatGPT:
 
 - **Contexto:** Você tem como objetivo criar um plano de cuidados de enfermagem abrangente. Este plano deve incluir um diagnóstico de enfermagem específico e seguir a estrutura ADPIE (Avaliação, Diagnóstico, Planejamento, Implementação, Avaliação).

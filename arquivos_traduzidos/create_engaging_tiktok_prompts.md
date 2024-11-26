@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma lista de prompts eficazes, envolventes e criativos para vídeos de produtos no TikTok, com o objetivo de impulsionar a viralidade, considerando os seguintes elementos:
 
 1. **Ganchos que Chamam a Atenção:**

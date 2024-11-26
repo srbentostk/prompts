@@ -1,4 +1,4 @@
-```markdown
+ 
 - Fornecer orientações sobre como solicitar auxílio financeiro para educação em escolas particulares no Brasil.
 - Descrever as etapas típicas envolvidas na solicitação de auxílio financeiro para escolas particulares.
 - Listar e explicar os critérios de elegibilidade comumente exigidos para as aplicações de auxílio financeiro.

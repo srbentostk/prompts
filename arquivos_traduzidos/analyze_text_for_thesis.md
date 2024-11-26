@@ -1,4 +1,4 @@
-```markdown
+ 
 Por favor, edite o seguinte texto para refletir um estilo e linguagem acadêmicos. Garanta que seja envolvente e bem estruturado, pois forma a parte preliminar de uma proposta de tese:
 
 ### Introdução:

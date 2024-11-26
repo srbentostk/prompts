@@ -1,4 +1,4 @@
-```markdown
+ 
 Sou um profissional de mídia imobiliária que oferece fotografia, vídeo, plantas baixas, encenação virtual e serviços de drone. Estou em busca de ideias inovadoras para um produto ou serviço digital que possa oferecer aos corretores de imóveis e que agregue valor aos seus negócios.
 
 Por favor, forneça sugestões abrangentes que:

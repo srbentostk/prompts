@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie clipes de vídeo curtos projetados para atrair proprietários de salões de beleza e incentivá-los a entrar em contato para uma consulta gratuita. Cada clipe deve ter entre 10 e 30 segundos de duração. Certifique-se de incluir:
 
 - **Um título atraente e envolvente** que fale diretamente para os proprietários de salões em busca de serviços de marketing.

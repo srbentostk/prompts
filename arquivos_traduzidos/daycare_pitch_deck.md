@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um pitch deck profissional buscando financiamento para a criação de uma pequena creche/escola independente em São Paulo, Brasil. O pitch deck deve ser elaborado para garantir recursos para os seguintes itens:
 
 - Custos de pesquisa de mercado

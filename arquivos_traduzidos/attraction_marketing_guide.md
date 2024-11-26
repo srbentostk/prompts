@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente sobre como usar o marketing de atração de forma eficaz. Sua resposta deve incluir:
 
 - Uma explicação sobre o que é marketing de atração e como ele se diferencia das abordagens tradicionais de marketing.

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma explicação detalhada dos resultados de exames médicos em um nível de leitura de 5ª série. A explicação deve abranger vários tipos de exames, incluindo:
 
 - Exames de ressonância magnética (RM)

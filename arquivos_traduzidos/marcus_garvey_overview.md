@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um artigo abrangente sobre Marcus Garvey. O artigo deve cobrir os seguintes aspectos principais em detalhe:
 
 - **Informações Biográficas**:

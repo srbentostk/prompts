@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um ensaio discutindo a influência de Marcus Garvey no hip hop. Considere incorporar os seguintes elementos:
 
 - **Contexto Histórico:** Forneça uma breve visão geral da vida de Marcus Garvey, suas filosofias e seu papel no movimento pelos direitos civis dos afro-americanos no início do século 20.

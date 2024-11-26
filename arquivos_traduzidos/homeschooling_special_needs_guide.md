@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para pais no Brasil que desejam educar em casa seus filhos com necessidades especiais. Inclua os seguintes componentes:
 
 - **Requisitos Legais e Registro**: 

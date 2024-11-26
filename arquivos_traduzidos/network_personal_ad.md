@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma versão aprimorada e envolvente de um anúncio pessoal para networking e geração de renda, utilizando as informações fornecidas. O objetivo é torná-lo atraente, profissional e pessoal, destacando habilidades e hobbies de forma eficaz. Considere o seguinte ao redigir o anúncio:
 
 - Destaque as habilidades profissionais em TI e áreas relacionadas: enfatize a vasta experiência em Segurança da Informação, Hospedagem, Design de Infraestrutura de TI, Inteligência Artificial, Internet das Coisas (IoT), Automação Residencial e redes.

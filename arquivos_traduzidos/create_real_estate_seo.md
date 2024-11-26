@@ -1,4 +1,4 @@
-```markdown
+ 
 Gere conteúdo otimizado para SEO para **[Nome da Imobiliária]** para melhorar a visibilidade do seu site e atrair mais potenciais clientes por meio dos motores de busca. Concentre-se em criar conteúdo em torno de palavras-chave importantes do setor imobiliário, incluindo:
 
 1. **Guias Específicos por Região**: Forneça guias detalhados sobre os bairros e regiões atendidos pela imobiliária. Inclua informações sobre comodidades locais, escolas, transporte e eventos comunitários.

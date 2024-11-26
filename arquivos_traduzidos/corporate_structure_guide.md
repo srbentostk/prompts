@@ -1,4 +1,4 @@
-```markdown
+ 
 Claro, aqui está o prompt do ChatGPT baseado na solicitação:
 
 "Me guie pelo processo de criação de estruturas empresariais corporativas especificamente projetadas para construir e proteger ativos enquanto potencialmente geram receita. Aborde os seguintes pontos em detalhes:

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma resposta abrangente que inclua uma descrição genérica, hashtags e palavras-chave para uma série de vídeos no TikTok apresentando 365 citações de Marcus Garvey. Concentre-se em aproveitar as melhores práticas para a criação de conteúdo no TikTok para aumentar o engajamento dos usuários. Sua tarefa é:
 
 - Escrever uma descrição genérica versátil e cativante que encapsule a essência e os temas das citações de Marcus Garvey, como empoderamento, liderança e unidade.

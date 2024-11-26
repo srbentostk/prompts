@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um Método de Operação Diário detalhado para um Curso de Marketing Digital que você comprou recentemente. Utilize os passos abaixo para guiá-lo na elaboração de uma rotina diária estruturada e eficaz que potencialize seu aprendizado e implementação de estratégias de marketing digital:
 
 - **Visão Geral do Curso**: Descreva brevemente os principais tópicos e objetivos do curso de marketing digital. Quais habilidades ou conhecimentos ele pretende transmitir?

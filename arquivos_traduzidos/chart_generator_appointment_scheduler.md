@@ -1,4 +1,4 @@
-```markdown
+ 
 Desenhe um prompt para um Gerador de Gráficos e Assistente de Agendamento de Compromissos, voltado para usuários interessados em construir Agentes de IA, Sistemas e Automação. O prompt deve abordar as seguintes características e funcionalidades:
 
 - **Visualização de Dados:**

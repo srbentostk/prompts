@@ -1,4 +1,4 @@
-```markdown
+ 
 Forneça uma visão abrangente das principais indústrias. Para cada indústria, inclua os seguintes detalhes:
 
 - **Nome da Indústria**

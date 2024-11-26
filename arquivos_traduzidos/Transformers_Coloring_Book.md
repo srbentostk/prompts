@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um prompt detalhado e versátil para o ChatGPT que sirva para o design de um livro de colorir em preto e branco com tema de transformadores, adequado para uso em várias plataformas. Considere os seguintes requisitos:
 
 - **Tema**: Foque em transformadores, que podem incluir várias interpretações, como robôs mecânicos, veículos se transformando em robôs ou conceitos semelhantes da mídia popular.

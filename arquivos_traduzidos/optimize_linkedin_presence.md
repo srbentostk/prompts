@@ -1,4 +1,4 @@
-```markdown
+ 
 Analise o pedido e, em seguida, formule um prompt detalhado:
 
 ---

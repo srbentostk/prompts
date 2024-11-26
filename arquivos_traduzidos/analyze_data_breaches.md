@@ -1,4 +1,4 @@
-```markdown
+ 
 Preciso de assistência com um endereço de e-mail. Por favor, siga estas instruções:
 
 - Verifique se este endereço de e-mail foi mencionado em alguma violação de dados publicamente disponível.

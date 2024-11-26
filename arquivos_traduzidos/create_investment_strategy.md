@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma estratégia de investimento para a aposentadoria abordando os seguintes componentes:
 
 - Determine quando você pode parar de trabalhar com base em seus investimentos totais. Considere sua idade atual, a idade desejada para aposentadoria e a trajetória de crescimento de seus investimentos.

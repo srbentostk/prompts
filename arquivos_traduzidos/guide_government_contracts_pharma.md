@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia para ajudar a identificar de forma eficiente contratos governamentais no setor Farmacêutico e Biotecnológico, com foco em gerenciamento estratégico de projetos, planejamento, serviços de produtos, logística, educação e treinamento. O guia deve incluir:
 
 - Uma visão geral das agências governamentais e portais onde contratos relevantes podem ser encontrados, especificamente no espaço Farmacêutico e Biotecnológico.

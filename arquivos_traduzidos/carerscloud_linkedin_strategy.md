@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma página profissional no LinkedIn para uma nova startup chamada "CarersCloud" com as seguintes características e estratégias:
 
 - **Descrição da Empresa**: Forneça uma visão geral do CarersCloud, destacando seu apoio de uma variedade de clínicos e sua missão de oferecer recursos gratuitos que ajudem cuidadores familiares a viverem sua melhor vida. Mencione o foco em construir resiliência, apoio comunitário entre pares e oferecer coaching individual e em grupo.

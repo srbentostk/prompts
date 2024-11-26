@@ -1,4 +1,4 @@
-```markdown
+ 
 Prompt:
 
 "Ajude-me a analisar concorrentes no YouTube abordando os seguintes aspectos:

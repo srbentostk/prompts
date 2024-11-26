@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado para me ajudar a desenvolver um produto digital na indústria de produtos digitais. Aqui está o que eu preciso:
 
 - **Pesquisa de Mercado**: Explique como realizar uma pesquisa de mercado eficaz para identificar oportunidades potenciais e públicos-alvo.

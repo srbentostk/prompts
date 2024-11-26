@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado sobre como criar conteúdo sem mostrar o rosto para aqueles que não se sentem à vontade diante da câmera. O guia deve abordar os seguintes tópicos:
 
 - **Introdução**: Explique o que é conteúdo sem rosto e por que alguém poderia optar por criá-lo.

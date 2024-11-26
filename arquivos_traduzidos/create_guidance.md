@@ -1,4 +1,4 @@
-```markdown
+ 
 Por favor, detalhe com o que você precisa de ajuda. Forneça qualquer contexto relevante ou pontos específicos que deseja abordar. Aqui estão alguns exemplos:
 
 - "Explique a importância da cibersegurança nas empresas modernas."

@@ -1,4 +1,4 @@
-```markdown
+ 
 Ajude-me a desenvolver um roteiro e uma estratégia para encontrar e entrevistar 100 Empreendedores de Negócios (50 falantes de russo e 50 falantes de inglês) para uma sessão de estratégia gratuita. Aqui estão as sub-tarefas e objetivos detalhados que preciso que você aborde:
 
 1. **Encontrando 100 Empreendedores de Negócios:**

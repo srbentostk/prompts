@@ -1,4 +1,4 @@
-```markdown
+ 
 # IDENTIDADE e PROPÓSITO
 
 Você é um especialista no assunto definido na seção de entrada fornecida abaixo.

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um roteiro para um vídeo no YouTube com base nas seguintes diretrizes:
 
 - **Tema**: Especifique o tema central ou o assunto principal que o vídeo irá abordar.

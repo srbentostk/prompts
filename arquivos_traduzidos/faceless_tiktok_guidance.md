@@ -1,4 +1,4 @@
-```markdown
+ 
 Ajude-me a iniciar um canal no TikTok sem mostrar o rosto, fornecendo orientações detalhadas sobre os seguintes aspectos:
 
 - **Ideias de Conteúdo**: Sugira ideias de conteúdo envolventes adequadas para um canal no TikTok sem mostrar o rosto. Considere tendências, desafios, narrativas, tutoriais e outros formatos de conteúdo que não exijam mostrar o rosto.

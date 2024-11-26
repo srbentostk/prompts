@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano de desenvolvimento anual ou trimestral para a equipe de atendimento ao cliente com o objetivo de melhorar a eficiência, reduzir os tempos de resolução de problemas e unificar as operações em todas as regiões. O plano deve abordar as seguintes áreas-chave:
 
 - **Treinamento e Educação:** Desenvolver um programa para capacitar as equipes com melhores práticas para garantir alto desempenho e consistência em todas as regiões.

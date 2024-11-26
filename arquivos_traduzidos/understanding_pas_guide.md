@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia para entender a condição PAS (Sequelas Pós-Acutas). Sua resposta deve abordar os seguintes aspectos em detalhes:
 
 - Defina PAS (Sequelas Pós-Acutas) e explique sua relevância para a saúde.

@@ -1,4 +1,4 @@
-```markdown
+ 
 # Escreva um Post com 3 Dicas
 
 ## Entrada Necessária:

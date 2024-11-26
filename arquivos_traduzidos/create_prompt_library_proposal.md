@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma proposta para um sistema orientado pela comunidade que permita a coleta e expansão de uma biblioteca de prompts online. O sistema deve permitir que os usuários enviem prompts baseados em frameworks e tópicos específicos, com as seguintes características:
 
 - **Plataforma de Submissão**: Esboce uma plataforma onde os usuários possam enviar seus prompts. Considere diretrizes de submissão e acessibilidade para os usuários.

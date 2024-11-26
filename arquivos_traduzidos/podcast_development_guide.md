@@ -1,4 +1,4 @@
-```markdown
+ 
 Você está encarregado de ajudar a desenvolver um novo empreendimento centrado em podcasts. Por favor, forneça um guia abrangente focando nos seguintes aspectos:
 
 - **Desenvolvimento de Conceito:**

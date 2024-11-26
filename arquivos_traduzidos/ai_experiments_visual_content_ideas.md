@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma resposta informativa e envolvente para as seguintes atividades, que serão utilizadas em várias plataformas, incluindo YouTube, projetos de trabalho, redes sociais e experimentos de IA envolvendo imagens e vídeos:
 
 1. YouTube:

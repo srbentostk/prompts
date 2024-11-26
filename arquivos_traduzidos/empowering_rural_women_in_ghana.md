@@ -1,4 +1,4 @@
-```markdown
+ 
 Escreva uma pesquisa abrangente sobre o seguinte tema: "Enfrentando a Desigualdade Econômica e as Lacunas Educacionais: Capacitando Mulheres Rurais no Brasil por meio do Desenvolvimento de Habilidades, Acesso à Educação de Qualidade e Iniciativas de Criação de Empregos."
 
 Sua pesquisa deve abordar os seguintes subtemas em detalhes:

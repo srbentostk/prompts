@@ -1,4 +1,4 @@
-```markdown
+ 
 - Crie um esboço abrangente para histórias bíblicas animadas sem rostos, adequadas para um canal no YouTube. Considere como tornar as histórias envolventes mesmo sem expressões faciais.
 - Identifique histórias bíblicas-chave que seriam bem adequadas para animação e liste-as.
 - Descreva o estilo de animação que transmitiria efetivamente emoções e ações sem usar características faciais. Considere elementos como linguagem corporal, movimento, cor e fundo.

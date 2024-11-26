@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para apoiar alguém que deseja fazer a transição de uma carreira como comissário de bordo para uma nova empreitada envolvendo construção de comunidade, podcasting e criação de produtos digitais. Considere os seguintes aspectos em sua resposta:
 
 - **Transição Emocional**: Forneça estratégias para gerenciar o burnout e encontrar satisfação pessoal após uma longa carreira em uma indústria exigente. Discuta como refletir sobre forças e paixões pessoais para facilitar essa transição.

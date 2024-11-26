@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano detalhado para todas as tarefas de marketing de uma empresa, focando nas seguintes áreas:
 
 - **Publicidade:** 

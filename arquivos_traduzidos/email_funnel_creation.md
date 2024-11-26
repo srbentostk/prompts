@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma série de 7 e-mails para o funil do Healthy🌼Happy🌼Families, um grupo no Facebook para mães que desejam melhorar a saúde e o bem-estar de suas famílias. O objetivo é converter os membros do grupo em clientes do Juice Plus+, com a meta de adquirir 44 clientes em 2 meses. Considere o seguinte em sua resposta:
 
 - **Compreensão do Público**: Os membros são mães ocupadas que buscam maneiras simples e acessíveis de melhorar a saúde de suas famílias.

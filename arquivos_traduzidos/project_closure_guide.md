@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para o encerramento de um projeto. Sua resposta deve cobrir os seguintes aspectos principais:
 
 - **Objetivo do Encerramento do Projeto**: Explique por que o encerramento de um projeto é importante e quais benefícios ele traz para a organização e para a equipe do projeto.

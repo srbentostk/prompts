@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano detalhado para um livro de colorir com o tema harmonia floral. Seu plano deve incluir:
 
 - **Tamanho e Formato:**

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia para redação de propostas de financiamento do NIH que descreva os componentes essenciais e as melhores práticas para escrever uma proposta bem-sucedida. O guia deve abordar os seguintes aspectos em detalhes:
 
 - Visão geral dos financiamentos do NIH e seu propósito

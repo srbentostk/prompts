@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma análise abrangente sobre as vendas de cartas de Pokémon, com foco nas Elite Trainer Boxes (ETBs) e cartas individuais:
 
 - Identifique tendências nas ETBs, com ênfase na versão do "Chilling Reign" disponível no Pokémon Center. Verifique especificamente se seu preço caiu 25% nos últimos dois meses. Utilize sites como TCGplayer, eBay e Poledata.io como referência, seja através de coleta de dados direta (verificando quaisquer termos e condições) ou acessando essas informações manualmente.

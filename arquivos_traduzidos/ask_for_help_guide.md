@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado sobre como pedir ajuda com tarefas escolares da universidade e como desmembrar um problema para resolvê-lo de forma eficaz. Certifique-se de incluir o seguinte:
 
 - **Identificando o Problema**: Como definir e entender claramente a tarefa ou o problema em questão.

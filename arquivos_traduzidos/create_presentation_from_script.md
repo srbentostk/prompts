@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um prompt detalhado do ChatGPT com base na solicitação fornecida.
 
 ---

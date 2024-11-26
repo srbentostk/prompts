@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma ideia de livro fictício com base nos elementos e temas proeminentes que você descrever. Siga estas instruções específicas para garantir uma resposta abrangente:
 
 - **Gênero e Temas:** Especifique o gênero ou os temas que você está interessado em explorar (por exemplo, mistério, fantasia, romance, aventura, crescimento pessoal).

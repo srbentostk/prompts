@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma página de Termos e Condições (T&C) abrangente e detalhada para um novo site, completando as seguintes subtarefas:
 
 - **Introdução:**

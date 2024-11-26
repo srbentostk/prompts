@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma estratégia de automação detalhada para minha empresa usando o ChatGPT. Considere os seguintes componentes:
 
 - **Análise das Operações Atuais**: Delimite os processos atuais em vários departamentos que poderiam se beneficiar da automação. Identifique tarefas repetitivas e áreas onde a eficiência poderia ser melhorada.

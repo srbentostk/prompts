@@ -1,4 +1,4 @@
-```markdown
+ 
 Construa um questionário abrangente para triagem de inquilinos que a [Empresa de Gestão de Imóveis] utilizará durante o processo de solicitação de aluguel. O questionário deve ser dividido nas seguintes seções:
 
 1. **Histórico de Aluguel**

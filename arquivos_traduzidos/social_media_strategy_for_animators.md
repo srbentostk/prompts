@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma estratégia abrangente para ajudar um animador especializado em videoclipes a atrair mais músicos e potenciais clientes para suas plataformas de mídia social, particularmente Instagram e TikTok. Inclua os seguintes elementos em sua resposta:
 
 - **Estratégia de Conteúdo**: Sugira tipos de conteúdo que atraiam músicos e mostrem as habilidades de animação de forma eficaz. Considere incorporar bastidores, animações em timelapse e depoimentos de clientes.

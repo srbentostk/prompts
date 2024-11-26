@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma descrição detalhada para uma imagem que retrate uma reforma de banheiro de luxo para um cliente de uma agência de marketing especializada em reformas de Cozinhas e Banheiros. A imagem deve:
 
 - Ilustrar uma atmosfera semelhante a um spa, utilizando elementos de alto padrão.

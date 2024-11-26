@@ -1,4 +1,4 @@
-```markdown
+ 
 **Prompt do ChatGPT:**
 
 - Analise o texto fornecido com foco na compreensão de suas implicações relacionadas a uma violação de dados.

@@ -1,4 +1,4 @@
-```markdown
+ 
 ### Prompt do ChatGPT:
 
 Ajude-me a desenvolver um plano e uma estratégia para encontrar e entrevistar 100 Empreendedores de Negócios (50 que falam russo e 50 que falam inglês) para uma sessão de estratégia gratuita. Aborde as seguintes subtarefas e objetivos meticulosamente:

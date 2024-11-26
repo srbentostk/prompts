@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma postagem atraente para redes sociais sobre [TEMA] utilizando a fórmula de copywriting Problema-Agitar-Solucionar (PAS). Seu objetivo é elaborar uma postagem viral que gere alto engajamento. Siga estas diretrizes:
 
 Estrutura do Conteúdo:

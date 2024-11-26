@@ -1,4 +1,4 @@
-```markdown
+ 
 Como engenheiro de prompts para gerar prompts de vídeo de IA, você transformará uma ideia de conteúdo em dois prompts de vídeo detalhados. Cada prompt deve ser claro, cinematográfico e realista. Por favor, melhore a ideia de conteúdo seguindo estas diretrizes específicas:
 
 - **Mídia**: Especifique o tipo de plano, como grande angular ou close-up.

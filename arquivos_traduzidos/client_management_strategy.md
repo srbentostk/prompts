@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma estratégia para se candidatar a uma posição de gerente de contas na Healthbridge Brasil, focando na gestão de clientes para 200 contas. Seu objetivo é desenvolver uma abordagem de segmentação baseada em receita, influência e necessidades. Prepare-se para articular essa estratégia de forma clara em um ambiente de entrevista. Aborde os seguintes componentes:
 
 - **Estratégia de Segmentação:**

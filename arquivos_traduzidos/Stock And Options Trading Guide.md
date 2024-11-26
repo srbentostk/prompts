@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente sobre como pesquisar ações lucrativas e utilizar o trading de opções de forma eficaz:
 
 - **Introdução à Pesquisa de Ações:**

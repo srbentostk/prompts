@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um resumo de pesquisa abrangente sobre o tema de IA na manufatura para um contexto de marketing de conteúdo. Sua resposta deve incluir:
 
 - **Introdução à IA na Manufatura**: Explique brevemente o que a IA na manufatura abrange, incluindo sua importância e relevância nas tendências industriais atuais.

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma descrição de trabalho abrangente para um Designer Gráfico Sênior com as seguintes especificações:
 
 - **Responsabilidades Principais**:

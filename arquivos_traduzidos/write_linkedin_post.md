@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado sobre como construir liderança de pensamento no LinkedIn por meio de postagens virais. Certifique-se de que os conselhos sejam práticos e adaptados para maximizar o engajamento e o alcance. Aborde os seguintes componentes:
 
 - **Entendendo Seu Público:**

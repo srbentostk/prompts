@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para auxiliar em uma liga de futebol americano fictício, especificamente uma liga dynasty Superflex PPR (pontos por recepção). Aborde as seguintes tarefas e diretrizes:
 
 - Forneça estratégias para gerenciar drafts semanais e aquisições de jogadores.

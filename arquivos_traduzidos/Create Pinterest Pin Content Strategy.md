@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma estratégia de conteúdo para pins no Pinterest voltada para marketing digital no nicho de e-learning. Sua tarefa envolve elaborar textos para pins que sejam cativantes, incluindo um gancho atraente, um corpo conciso e um call-to-action (CTA) claro. Incorpore as melhores práticas de SEO ao longo do processo. Apresente seu resultado final em um formato tabulado com colunas separadas para cada componente. Certifique-se de cobrir os seguintes detalhes:
 
 - **Gancho**: Elabore uma afirmação ou pergunta que chame a atenção e seja concisa, capturando imediatamente o interesse dos usuários do Pinterest no espaço de e-learning.

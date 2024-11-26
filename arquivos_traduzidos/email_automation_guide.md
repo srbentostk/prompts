@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia sobre como integrar um sistema de e-mail para enviar respostas automatizadas. O guia deve abranger o seguinte:
 
 - **Visão Geral da Integração de E-mail**:

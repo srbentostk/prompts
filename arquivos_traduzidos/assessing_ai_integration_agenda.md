@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma pauta para uma reunião inicial a fim de avaliar a viabilidade de integrar IA em um fluxo de trabalho atual dentro de uma empresa de serviços profissionais. Sua resposta deve abordar os seguintes pontos:
 
 - Identifique o fluxo de trabalho atual e destaque os principais processos e desafios dentro dele.

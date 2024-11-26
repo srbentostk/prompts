@@ -1,4 +1,4 @@
-```markdown
+ 
 Estou em busca de orientação sobre como contratar um Gerente de Negócios Online (GNO) para me ajudar a iniciar meu primeiro negócio online que se concentra na criação e oferta de cursos. Por favor, forneça uma estratégia detalhada que aborde os seguintes aspectos:
 
 - **Definição de Responsabilidades**: Defina claramente os papéis e responsabilidades do GNO no contexto da criação de um negócio online para cursos.

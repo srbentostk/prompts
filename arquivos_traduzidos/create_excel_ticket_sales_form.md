@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado e abrangente sobre como criar um formulário no Excel 2016 para inserir e pesquisar dados para acompanhar as vendas de ingressos para o jantar de carne assada anual de um corpo de bombeiros voluntário. Seu guia deve abordar o seguinte:
 
 - Configuração da planilha inicial com colunas apropriadas (por exemplo, ID do Ingresso, Nome do Comprador, Informações de Contato, Número de Ingressos, Valor Total).

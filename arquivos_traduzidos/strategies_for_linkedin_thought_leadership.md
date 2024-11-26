@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um rascunho de relatório abrangente sobre estratégias para aprimorar a liderança de pensamento no LinkedIn em 2025. O relatório deve aproveitar insights de:
 
 - Sua análise das tendências de conteúdo entre seus cinco clientes atuais.

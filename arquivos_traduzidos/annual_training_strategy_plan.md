@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano anual para a Diretoria de uma Estratégia de Capacitação com base em um plano de cinco anos. O objetivo é desenvolver um plano claro e fácil de seguir especificamente para um ambiente universitário. O plano deve conter:
 
 - Objetivos Específicos, Mensuráveis, Atingíveis, Relevantes e com Prazo definido (SMART).

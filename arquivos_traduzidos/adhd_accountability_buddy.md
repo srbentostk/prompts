@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um tema centrado em TDAH que atue como um amigo de responsabilidade e inclua um sistema de acompanhamento diário. Siga estes passos para garantir que todos os componentes necessários sejam abordados:
 
 1. **Desenvolvimento do Tema:**

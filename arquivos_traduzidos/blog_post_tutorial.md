@@ -1,4 +1,4 @@
-```markdown
+ 
 Dada uma transcrição de vídeo do YouTube contendo um tutorial passo a passo, crie um post de blog abrangente de 1500 palavras que guie os leitores pelo processo. Siga estas diretrizes:
 
 • Estrutura:

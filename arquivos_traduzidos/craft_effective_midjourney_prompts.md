@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente sobre como elaborar prompts eficazes para o Midjourney. O guia deve incluir as seguintes seções:
 
 - **Introdução aos Prompts do Midjourney**

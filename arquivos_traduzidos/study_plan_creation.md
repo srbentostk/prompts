@@ -1,4 +1,4 @@
-```markdown
+ 
 Ajude-me a criar um plano de estudos para me preparar para o exame de residência médica. Inclua estratégias detalhadas para manter a disciplina e permanecer no caminho certo. Preciso que o plano:
 
 1. Esboce um cronograma semanal com horários específicos de estudo e intervalos.

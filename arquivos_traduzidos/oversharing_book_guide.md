@@ -1,4 +1,4 @@
-```markdown
+ 
 Ajude-me a criar um livro para o Natal baseado na minha bem-sucedida série do Instagram "Exagerando com Estranhos." Preciso de assistência com o seguinte:
 
 - **Organização do Conteúdo:**

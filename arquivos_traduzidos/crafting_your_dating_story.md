@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para me ajudar a elaborar uma história sobre minha jornada no mundo dos relacionamentos, focando nas lições que aprendi. Especificamente, gostaria que a orientação incluísse:
 
 - **Estrutura da História**: Ofereça sugestões sobre como estruturar a história de forma eficaz, incluindo uma introdução cativante, desenvolvimento e conclusão. Inclua dicas sobre como entrelaçar experiências pessoais e lições aprendidas.

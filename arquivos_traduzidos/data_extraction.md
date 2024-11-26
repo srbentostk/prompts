@@ -1,4 +1,4 @@
-```markdown
+ 
 Aqui está o prompt do ChatGPT:
 
 "Por favor, realize as seguintes tarefas:

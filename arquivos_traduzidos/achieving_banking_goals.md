@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma estratégia detalhada para estabelecer e alcançar metas bancárias eficazes. Inclua os seguintes componentes:
 
 - Defina metas bancárias de curto, médio e longo prazo e dê exemplos de cada uma.

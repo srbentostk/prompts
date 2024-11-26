@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para encontrar subsídios para um novo negócio que envolva natureza, camping, glamping, agricultura e agropecuária. Seu conteúdo deve incluir:
 
 - **Tipos de Subsídios:**

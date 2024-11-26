@@ -1,4 +1,4 @@
-```markdown
+ 
 - Comece o resumo com a citação completa do artigo da revista científica.
 - Forneça um esboço resumido do artigo, focando nas principais descobertas, metodologia e conclusões.
 - Inclua comentários críticos destacando:

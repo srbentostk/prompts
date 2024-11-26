@@ -1,4 +1,4 @@
-```markdown
+ 
 Estou buscando melhorar meu entendimento e utilização de IA, especificamente para criar postagens eficazes no Instagram. Atualmente, invisto dinheiro em anúncios online, mas sinto que estou fora da minha zona de conforto com a tecnologia de IA e estratégias de redes sociais. Por favor, desenvolva um guia abrangente para gerar prompts envolventes e eficazes para postagens no Instagram voltadas à profissão jurídica. O guia deve incluir:
 
 - Elementos-chave necessários em uma postagem eficaz no Instagram para um advogado.

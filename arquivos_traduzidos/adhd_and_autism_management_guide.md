@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado e empático abordando a transição de dificuldades para a gestão eficaz do TDAH e do autismo, enfatizando o progresso positivo e o empoderamento pessoal. O guia deve ser estruturado como um livro e incluir os seguintes componentes:
 
 - **Introdução**: Explique o TDAH e o autismo, focando em suas características, desafios e a jornada de se sentir sobrecarregado até encontrar luz e esperança.

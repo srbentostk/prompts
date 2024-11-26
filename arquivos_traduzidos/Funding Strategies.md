@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano detalhado para um empreendedor solo que busca apoio financeiro, preservando os ativos existentes. Aborde os seguintes componentes:
 
 - Explore várias opções de financiamento disponíveis para empreendedores, focando em soluções de curto a médio prazo:

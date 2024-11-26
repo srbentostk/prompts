@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um conceito detalhado para um livro de colorir inspirado em "O Estranho Mundo de Jack". O livro de colorir deve incluir as seguintes especificações:
 
 - **Tema & Estilo**:

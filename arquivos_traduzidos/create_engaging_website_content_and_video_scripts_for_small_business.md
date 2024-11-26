@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie conteúdos e roteiros para vídeos sem rosto que sejam envolventes, informativos e profissionais para uma pequena empresa no Brasil que oferece os seguintes serviços: Consultoria em Processos Empresariais, Soluções de Gestão de Documentos Eletrônicos, Políticas e Procedimentos, Gestão de Registros, Políticas e Processos de Saúde e Segurança, Treinamento de Funcionários e Planos de Continuidade de Negócios (PCN). O objetivo é construir a marca e a reputação como uma autoridade, enquanto aumenta o engajamento dos clientes e expande o negócio. O conteúdo deve ser adequado para empresas em todo o país e adaptável para plataformas como Facebook, LinkedIn e Instagram. Além disso, gere 10 perguntas frequentes (FAQs) para cada um dos serviços oferecidos. Certifique-se de que o conteúdo esteja alinhado com o tom profissional e visa atrair empresas como clientes.
 
 Para o conteúdo do site:

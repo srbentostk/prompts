@@ -1,4 +1,4 @@
-```markdown
+ 
 - Explique os fundamentos da IA para iniciantes.
 - Recomende alguns cursos essenciais para começar uma jornada em IA.
 - Forneça dicas para se tornar proficiente em IA.

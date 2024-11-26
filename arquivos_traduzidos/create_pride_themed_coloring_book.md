@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um livro de colorir que celebre o orgulho com foco em esportes em equipe. Siga estas etapas para completar a tarefa:
 
 - Desenhe seis páginas, cada uma dedicada a um esporte diferente: futebol, softball, pickleball, golfe, dardos e xadrez.

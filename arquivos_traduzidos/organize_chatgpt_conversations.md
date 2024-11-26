@@ -1,4 +1,4 @@
-```markdown
+ 
 - Explique métodos para manter as conversas com o ChatGPT organizadas.
 - Discuta alternativas ao uso da lista de chats exibida no lado esquerdo da tela.
 - Forneça ferramentas digitais ou práticas que possam melhorar a organização das conversas com modelos de IA.

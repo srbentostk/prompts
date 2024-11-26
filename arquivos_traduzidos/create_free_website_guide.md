@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado sobre como criar um site gratuito. Inclua as seguintes subtarefas em sua resposta:
 
 - Visão geral das plataformas de criação de sites gratuitos.

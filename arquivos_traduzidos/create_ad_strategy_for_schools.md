@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma estratégia de anúncios detalhada para o programa "Renove Nossas Escolas" da Resource Central, direcionada especificamente para professores no Colorado. Aqui estão os requisitos e parâmetros a serem considerados:
 
 - **Descrição do Programa:** 

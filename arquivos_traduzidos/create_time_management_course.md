@@ -1,4 +1,4 @@
-```markdown
+ 
 Desenvolva um curso abrangente sobre gestão do tempo que possa ser vendido em vários formatos. Siga estes passos:
 
 1. **Refinamento da Ideia:**

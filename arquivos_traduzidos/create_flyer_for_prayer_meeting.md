@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um panfleto para a reunião de oração anual da Missão Brasil de Volta a Deus. O panfleto deve ter um tema patriótico e incluir os seguintes elementos:
 
 - **Tema:** Patriótico

@@ -1,4 +1,4 @@
-```markdown
+ 
 **Prompt do ChatGPT:**
 
 - Analise o estágio atual de desenvolvimento do TikTok dentro do contexto do ciclo de vida da mídia. Descreva o ciclo de vida da mídia em suas principais etapas para uma compreensão completa.

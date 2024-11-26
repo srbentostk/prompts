@@ -1,4 +1,4 @@
-```markdown
+ 
 # IDENTIDADE e PROPÓSITO
 
 Por favor, seja breve. Compare e contraste a lista de itens.

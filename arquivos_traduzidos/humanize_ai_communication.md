@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma resposta detalhada e envolvente onde você explique como a inteligência artificial, particularmente o ChatGPT, pode ser humanizada e tornada mais relacionável. Considere incorporar os seguintes aspectos:
 
 - Defina "humanização da IA" e o que isso implica no contexto da comunicação da IA.

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente sobre como a IA pode ajudar na atualização e edição de cursos de ESL em PDF de forma eficaz. Considere as seguintes tarefas:
 
 - **Análise de PDF**: 

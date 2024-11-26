@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para aprender modelagem estatística com exemplos, abordando os seguintes componentes:
 
 - **Introdução à Modelagem Estatística:**

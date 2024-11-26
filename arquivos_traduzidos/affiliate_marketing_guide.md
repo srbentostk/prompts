@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente sobre como configurar marketing de afiliados para produtos de bem-estar. Certifique-se de abordar os seguintes pontos principais:
 
 - Explique as etapas envolvidas na configuração de uma estratégia de marketing de afiliados especificamente para produtos de bem-estar.

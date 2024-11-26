@@ -1,4 +1,4 @@
-```markdown
+ 
 - Descreva o que são automações e seu propósito geral.
 - Explique os vários tipos de automações e forneça exemplos para cada um.
 - Discuta os benefícios de usar automações em diferentes setores, como marketing, manufatura e atendimento ao cliente.

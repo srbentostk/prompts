@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente sobre como encontrar cursos gratuitos de IA online. Sua resposta deve incluir:
 
 - Uma visão geral de plataformas e sites respeitáveis que oferecem cursos gratuitos de IA.

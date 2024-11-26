@@ -1,4 +1,4 @@
-```markdown
+ 
 Descreva um dia típico para alguém com TDAH, incluindo as tarefas e afazeres que geralmente precisam gerenciar. Seja o mais abrangente possível, abordando vários aspectos do dia, como:
 
 - Rotinas matinais

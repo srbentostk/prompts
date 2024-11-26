@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano de ação abrangente e uma estratégia de marketing para um DJ/produtor que busca revitalizar sua carreira. Considere os seguintes objetivos:
 
 - **Plano de Ação para Mídias Sociais**: Desenvolva uma estratégia para utilizar efetivamente as plataformas de mídias sociais, aumentando a visibilidade e o engajamento. Inclua plataformas específicas, tipos de conteúdo, frequência de postagens e dicas para aumentar a interação e visibilidade.

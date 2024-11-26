@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um esboço detalhado para um livro de colorir com tema de Ação de Graças, consistindo em 48 páginas. Os seguintes componentes devem ser abordados:
 
 - **Tema e Conceito**: Desenvolva um tema coeso para o livro de colorir que una vários aspectos da Ação de Graças. Considere símbolos tradicionais, elementos culturais e atividades associadas ao feriado.

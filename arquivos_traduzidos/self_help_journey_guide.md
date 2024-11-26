@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia de autoajuda e trabalho interior para uma jornada de seis meses. O guia deve incluir uma lista de verificação detalhada com tarefas semanais ou diárias que inspirem reflexão, promovam a estimulação mental e incentivem períodos de introspecção pacífica. Essas tarefas devem estar relacionadas à autodescoberta, exploração de limites pessoais, compreensão de inseguranças, avaliação de crenças sobre si mesmo e análise de respostas emocionais. Estruture o guia para ajudar a alcançar marcos de crescimento pessoal, envolvendo:
 
 - **Tarefas Inquisitivas & Estímulo Mental**:

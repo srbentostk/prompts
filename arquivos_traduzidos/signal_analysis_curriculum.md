@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um currículo abrangente para um curso completo de análise de sinais que progrida do nível iniciante ao nível especialista. Sua tarefa é projetar o esboço do curso, fornecendo detalhes para cada seção conforme segue:
 
 - **Introdução à Análise de Sinais:**

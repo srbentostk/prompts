@@ -1,4 +1,4 @@
-```markdown
+ 
 Parece que a solicitação fornecida é simplesmente a letra "d", o que provavelmente é um erro ou está incompleto. Como não há sub-tarefas identificáveis ou informações relevantes na solicitação, não é possível criar um prompt significativo para o ChatGPT sem mais contexto ou detalhes.
 
 Portanto, para avançar, aqui está um prompt geral que pede mais informações:

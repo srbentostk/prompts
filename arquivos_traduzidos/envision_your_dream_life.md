@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um prompt detalhado e envolvente que incentive o usuário a imaginar a vida dos seus sonhos, focando em vários aspectos, como metas pessoais, profissionais e de estilo de vida. Considere os seguintes componentes e faça perguntas para elicitar uma visão abrangente:
 
 - **Aspirações Pessoais**: 

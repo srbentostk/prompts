@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano de consultoria detalhado para um cenário de consultoria de franquias, especificamente voltado para ajudar franqueadores a expandir sua presença abrindo mais unidades. Inclua os seguintes componentes:
 
 1. **Análise de Mercado:**

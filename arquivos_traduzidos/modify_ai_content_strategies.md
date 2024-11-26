@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado e abrangente sobre estratégias para evitar a detecção por IA e prevenir plágio em conteúdos escritos. Sua resposta deve incluir:
 
 - Uma explicação completa sobre os algoritmos e métodos comuns de detecção de IA utilizados para identificar conteúdos gerados por inteligência artificial.

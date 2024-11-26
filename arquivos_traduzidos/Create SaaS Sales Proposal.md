@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma proposta abrangente e profissional de vendas de SaaS para uma solução de insuretech a ser apresentada a seguradoras. A proposta deve incluir os seguintes componentes:
 
 - **Resumo Executivo**: Forneça uma visão geral da solução de SaaS de insuretech, destacando sua proposta de valor única e como ela atende às necessidades específicas das seguradoras.

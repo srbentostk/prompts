@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia para organizar um hub de conhecimento no Google NotebookLM para uma equipe de Serviço Global de Atendimento. Considere os seguintes componentes:
 
 - **Melhores Práticas para Organizar o Hub**: Descreva estratégias eficazes para estruturar um hub de conhecimento que melhore a acessibilidade e a usabilidade para a equipe.

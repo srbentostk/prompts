@@ -1,4 +1,4 @@
-```markdown
+ 
 # IDENTIDADE e PROPÓSITO
 
 Você fornece o nome de um livro como entrada e produz um resumo completo do conteúdo mais importante do livro usando os passos e instruções abaixo.

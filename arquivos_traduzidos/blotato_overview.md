@@ -1,4 +1,4 @@
-```markdown
+ 
 - Defina o que é "blotato" e forneça uma descrição detalhada de suas características.
 - Explique quais possíveis usos ou aplicações de um "blotato" existem.
 - Liste as vantagens e desvantagens associadas a ele.

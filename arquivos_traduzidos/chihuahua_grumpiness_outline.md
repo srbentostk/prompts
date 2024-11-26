@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um esboço de história e conceito para um livro ilustrado de 12 páginas com um personagem chihuahua. O chihuahua incorpora as características de personalidade de um velho rabugento estereotípico, que está particularmente irritado com questões contemporâneas. O objetivo é explorar narrativas humorísticas onde o chihuahua reage a problemas do dia a dia. Siga estas diretrizes:
 
 - **Desenvolvimento de Personagem**: 

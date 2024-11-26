@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um curso online que se dirija a empreendedores que buscam adicionar criatividade e inovação em seus negócios.
 
 Considere os seguintes aspectos:

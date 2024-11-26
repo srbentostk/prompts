@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma explicação detalhada do conceito de um "Aplicativo de Vídeo Sem Rosto". Sua resposta deve abranger os seguintes pontos:
 
 - Defina o que é um aplicativo de vídeo sem rosto.

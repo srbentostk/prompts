@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um prompt para o ChatGPT que ajude a gerar um roteiro envolvente para um reel curto no Instagram, focado em promover um curso online para tornar os bebês mais inteligentes.
 
 Aqui está o prompt:

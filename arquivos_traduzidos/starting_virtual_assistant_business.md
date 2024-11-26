@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para iniciar um negócio de assistente virtual, adaptado para alguém com o seguinte histórico e necessidades:
 
 - Ampla experiência administrativa e graduação em administração de empresas.

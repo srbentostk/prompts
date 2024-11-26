@@ -1,4 +1,4 @@
-```markdown
+ 
 Transforme o seguinte conteúdo de aprendizado em um inglês simplificado, adequado para pessoas com deficiência intelectual. O objetivo é garantir que a mensagem seja clara e fácil de entender, mantendo o significado original. Consulte o exemplo de recurso fornecido [https://goodthingsaustralia.org/learn-resource/video-what-is-a-scam-email/] para orientação.
 
 Pontos-chave a considerar:

@@ -1,4 +1,4 @@
-```markdown
+ 
 **Prompt do ChatGPT:**
 
 Você recebeu a tarefa de desenvolver uma solução para analisar de forma eficiente o conteúdo das redes sociais, a fim de identificar inconsistências ou problemas relevantes para casos legais, especificamente para casos de lesões pessoais. Aqui está o que você precisa abordar:

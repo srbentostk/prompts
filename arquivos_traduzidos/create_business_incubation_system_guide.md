@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado para alguém sem experiência prévia em programação sobre como desenvolver um Sistema de Gestão de Incubação de Negócios para um centro de inovação e incubação. O sistema deve:
 
 - Gerenciar e acompanhar programas de apoio a empreendedores e projetos.

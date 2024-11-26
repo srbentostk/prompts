@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano de aula abrangente para tutorar uma criança com dislexia, focando na melhoria das habilidades de leitura por meio de instrução individualizada baseada na ciência da leitura. Sua resposta deve incluir:
 
 - Uma visão geral da ciência da leitura e como ela se aplica especificamente a alunos com dislexia.

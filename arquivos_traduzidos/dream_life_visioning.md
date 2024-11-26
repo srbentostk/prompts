@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um prompt de versão estendida para ajudar alguém a visualizar a vida dos seus sonhos. O prompt deve ser envolvente, inspirador e incentivar uma reflexão profunda, guiando o indivíduo por vários aspectos da vida a serem considerados. Inclua os seguintes elementos:
 
 - **Valores e Crenças Pessoais**: Incentive o usuário a considerar seus valores fundamentais e como estes moldam sua vida dos sonhos.

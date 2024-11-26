@@ -1,4 +1,4 @@
-```markdown
+ 
 Aqui está o prompt do ChatGPT:
 
 "Preciso que você me ajude a reunir informações de contato do LinkedIn e da internet para empresas, revistas e organizações que possam estar interessadas em meus serviços de redação freelance. Especificamente, foque naquelas que precisam de redação de conteúdo para seu público interessado em um estilo de vida ativo e saudável. Siga estas etapas:

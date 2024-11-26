@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um modelo de relatório detalhado para acompanhar o desempenho de vendas em uma empresa de consultoria de investimentos. Siga estas diretrizes:
 
 - **Objetivo**: Projetar um formato de relatório para rastrear vendas, especificamente para Títulos, Fundos de Investimento e Seguros de Vida.

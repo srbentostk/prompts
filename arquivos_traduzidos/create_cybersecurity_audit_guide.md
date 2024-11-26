@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado para a realização de auditorias de cibersegurança com foco em vários frameworks internacionais. O guia deve abranger as seguintes áreas:
 
 - **Visão Geral das Auditorias de Cibersegurança:**

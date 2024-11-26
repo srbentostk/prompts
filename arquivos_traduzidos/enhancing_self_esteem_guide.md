@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente sobre como melhorar a autoestima e aprimorar escolhas de estilo de vida. Sua resposta deve incluir os seguintes elementos:
 
 - **Técnicas e Exercícios:** Forneça várias técnicas e exercícios que as pessoas podem usar para melhorar sua autoestima. Explique como esses métodos funcionam e forneça exemplos ou guias passo a passo, quando aplicável.

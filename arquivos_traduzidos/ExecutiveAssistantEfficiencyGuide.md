@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado sobre como ser mais eficiente como Assistente Executivo e descreva truques e habilidades que podem ser aprendidas para melhorar nesse papel. A resposta deve abordar os seguintes aspectos:
 
 - **Técnicas de Gestão do Tempo**: Descreva métodos eficazes de gestão do tempo adaptados para Assistentes Executivos, como estratégias de priorização e o uso de ferramentas de agendamento.

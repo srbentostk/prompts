@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um modelo de e-mail para se comunicar com líderes seniores que seja claro, conciso e focado em impulsionar o crescimento dos negócios:
 
 - Comece com um assunto atraente que chame a atenção e esteja relacionado ao aumento de lucros por meio da segmentação de clientes e produtos rentáveis.

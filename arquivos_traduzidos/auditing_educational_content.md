@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie conteúdo educacional detalhado sobre auditoria especificamente para auditores. Aborde as seguintes áreas de forma abrangente:
 
 - **Fundamentos da Auditoria:**

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano detalhado para o projeto de construção de um lar de idosos para aposentados na Universidade Kenyatta, incorporando tanto a Estrutura Analítica do Projeto (EAP) quanto a Estrutura Organizacional do Projeto (EOP). Siga estas diretrizes:
 
 - **Estrutura Analítica do Projeto (EAP):**

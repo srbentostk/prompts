@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano de aula para um centro de creche domiciliar que possa ser adaptado para múltiplas faixas etárias, desde bebês até crianças de 5 anos. Considere os seguintes componentes para o plano de aula:
 
 1. **Temas e Tópicos**  

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado para vídeos sem rosto no TikTok focados em promover a mentalidade ágil dentro da IA. O guia deve abranger ideias de conteúdo, dicas de produção e estratégias de engajamento.
 
 Inclua o seguinte:

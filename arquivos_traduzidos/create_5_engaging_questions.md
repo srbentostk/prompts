@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um conjunto de 5 perguntas instigantes e provocativas adaptadas para [nicho/público específico]. Siga estas diretrizes:
 
 • Certifique-se de que cada pergunta seja concisa (máximo de 10-15 palavras), aberta e projetada para elicitar experiências ou opiniões pessoais.

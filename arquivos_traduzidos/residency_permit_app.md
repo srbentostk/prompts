@@ -1,4 +1,4 @@
-```markdown
+ 
 Desenvolva um aplicativo para potenciais expatriados que determine os requisitos para obter um visto de residência de longo prazo no destino desejado. O aplicativo deve permitir que o usuário escolha um destino e forneça todas as informações necessárias. Aborde os seguintes componentes:
 
 - Verifique se é necessário um visto para entrar inicialmente no país.

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma estratégia de precificação para um novo produto que está entrando no mercado, focando na precificação baseada em valor. Considere os seguintes componentes para gerar uma recomendação de preço específica:
 
 - **Proposta de Valor:** Identifique e descreva o valor único que o produto oferece ao cliente. Quais benefícios ele proporciona que o diferenciam dos concorrentes?

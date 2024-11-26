@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado de otimização de SEO para melhorar o desempenho de uma landing page. Sua resposta deve focar nas seguintes áreas:
 
 - **Estratégia de Palavras-Chave**: 

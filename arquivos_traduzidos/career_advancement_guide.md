@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado para alguém que busca um cargo de alta gestão, abordando as seguintes áreas-chave:
 
 - **Otimização de Currículo e Carta de Apresentação**: Forneça dicas para elaborar um currículo que destaque a experiência em liderança e as principais conquistas em cargos anteriores. Inclua orientações sobre como adaptar uma carta de apresentação para evidenciar habilidades gerenciais e pensamento estratégico.

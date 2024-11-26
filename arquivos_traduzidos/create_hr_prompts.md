@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie prompts que abordem áreas-chave em Recursos Humanos. O objetivo é fornecer insights abrangentes e estratégias para cada subdisciplina. Foque nas seguintes áreas:
 
 - **Estratégias de Recrutamento:**

@@ -1,4 +1,4 @@
-```markdown
+ 
 - Forneça uma visão geral do que é o seguro hipotecário e seus princípios gerais.
 - Explique em quais circunstâncias típicas os pedidos de seguro hipotecário podem ser negados.
 - Descreva o processo usual e os critérios para solicitar a substituição do telhado devido a danos causados por furacões.

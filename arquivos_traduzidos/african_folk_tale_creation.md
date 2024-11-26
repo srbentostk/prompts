@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma história detalhada e cativante de contos populares africanos para acompanhar uma imagem gerada por IA. A história deve ser projetada especificamente para um canal do YouTube, a fim de atrair e entreter os espectadores. Siga estas diretrizes:
 
 - Comece apresentando personagens vibrantes e memoráveis inspirados no folclore africano. Os personagens podem ser animais, seres místicos ou humanos.

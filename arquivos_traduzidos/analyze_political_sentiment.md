@@ -1,4 +1,4 @@
-```markdown
+ 
 Analise as plataformas de mídia social Instagram e Facebook com foco nos arubanos para entender sua percepção sobre os partidos políticos que estão fazendo campanha para as eleições de 2025 em Aruba. Sua tarefa inclui:
 
 1. Monitorar publicações, comentários e quaisquer outros engajamentos relevantes sobre os partidos políticos em ambas as plataformas.

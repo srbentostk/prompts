@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um prompt para o ChatGPT que descreva um vídeo impressionante de um carro muscle, focando no movimento. Certifique-se de usar detalhes específicos e palavras-chave relacionadas ao movimento da câmera, ângulos de câmera e estilos de iluminação. Aqui está uma abordagem estruturada:
 
 - **Tema do Vídeo**: Carro muscle

@@ -1,4 +1,4 @@
-```markdown
+ 
 Forneça uma visão geral detalhada e abrangente dos processos de construção envolvidos na edificação de uma estrutura residencial, desde o início até a conclusão. A resposta deve incluir:
 
 - **Fase de pré-construção:**

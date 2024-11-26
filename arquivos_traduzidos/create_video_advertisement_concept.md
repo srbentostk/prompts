@@ -1,4 +1,4 @@
-```markdown
+ 
 - Crie um conceito detalhado para um vídeo publicitário dos Serviços Esportivos WSS, acessível em https://wsssportservices.com/.
 - Identifique e liste os principais pontos de venda e características únicas dos Serviços Esportivos WSS que devem ser destacados no vídeo publicitário.
 - Sugira uma narrativa ou tema envolvente que ressoe com potenciais clientes da indústria de serviços esportivos.

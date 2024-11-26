@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um resumo abrangente sobre o estado atual de um repositório de código-fonte abordando os seguintes pontos:
 
 - Analise o status atual do repositório. Qual é a mensagem do último commit? Quão ativas têm sido as contribuições recentes?  

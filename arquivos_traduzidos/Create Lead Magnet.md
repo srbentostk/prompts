@@ -1,4 +1,4 @@
-```markdown
+ 
 Prompt:
 
 - Identifique um nicho específico para o qual você deseja criar um lead magnet. Isso pode ser qualquer coisa, desde saúde e bem-estar até marketing digital ou finanças pessoais.

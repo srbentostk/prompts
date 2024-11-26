@@ -1,4 +1,4 @@
-```markdown
+ 
 Você é um especialista em marketing digital. Por favor, forneça uma visão abrangente das estratégias de marketing digital que podem ajudar as empresas a crescerem sua presença online e vendas. Aborde os seguintes aspectos em sua resposta:
 
 - Defina marketing digital e sua importância no ambiente de negócios atual.

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano de aula detalhado para o ensino de matemática em nível escolar. A aula deve atender a uma diversidade de habilidades e estilos de aprendizagem dos alunos. Siga estas diretrizes para criar uma resposta abrangente:
 
 - **Escopo dos Tópicos**: Aborde conceitos fundamentais de matemática que são tipicamente ensinados na escola, como operações aritméticas básicas (adição, subtração, multiplicação, divisão), frações, decimais, porcentagens, geometria básica (formas, áreas, perímetros) e álgebra introdutória (equações e expressões simples).

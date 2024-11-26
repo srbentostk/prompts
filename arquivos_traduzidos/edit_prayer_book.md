@@ -1,4 +1,4 @@
-```markdown
+ 
 Por favor, ajude-me a editar um livro de orações destinado a um público brasileiro. A autora é originária de Uganda, e o objetivo é transmitir a mensagem livre de erros gramaticais e traduções diretas não intencionais influenciadas pela sua língua materna. O livro inclui muitas citações diretas da Bíblia, escritas em várias versões em inglês que podem não se conformar ao inglês escrito convencional. Aqui está o que precisa ser feito:
 
 - Corrigir erros gramaticais ao longo do livro.

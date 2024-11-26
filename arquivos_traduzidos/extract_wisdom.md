@@ -1,4 +1,4 @@
-```markdown
+ 
 Eu exportei uma conversa longa com o ChatGPT em markdown, contendo várias ideias, melhorias e insights relacionados ao desenvolvimento de um plano de negócios. Sua tarefa é analisar este documento markdown e extrair o seguinte:
 
 - **Lista de Ideias**: Identifique todas as ideias de negócios distintas mencionadas ao longo da conversa.

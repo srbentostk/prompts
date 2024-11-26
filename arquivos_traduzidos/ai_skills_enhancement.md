@@ -1,4 +1,4 @@
-```markdown
+ 
 - Eu quero melhorar minhas habilidades em usar IA de forma eficaz. Você poderia fornecer uma visão geral dos conceitos-chave de IA que eu deveria entender?
 - Liste aplicações práticas e ferramentas de IA que são comumente usadas em diferentes áreas.
 - Ofereça algumas melhores práticas para aprender e integrar ferramentas de IA em projetos pessoais ou profissionais.

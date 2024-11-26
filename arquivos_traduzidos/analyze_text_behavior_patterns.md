@@ -1,4 +1,4 @@
-```markdown
+ 
 - Analise aproximadamente 5 anos de mensagens de texto em grupo para identificar casos em que um colega de trabalho possa ter exibido comportamento condescendente, bullying ou discriminação etária.
 - Forneça um método eficiente para processar grandes volumes de dados textuais sem a necessidade de capturar manualmente cada mensagem.
 - Sugira quaisquer recursos ou técnicas na versão paga do ChatGPT que possam ajudar a detectar linguagem específica ou padrões associados à condescendência, bullying ou discriminação etária.

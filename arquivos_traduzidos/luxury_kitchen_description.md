@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma descrição detalhada de uma renovação de cozinha de luxo para um cliente de uma agência de marketing especializada em remodelação de Cozinhas e Banheiros. A imagem deve enfatizar elementos de design modernos e elegantes. Inclua as seguintes características:
 
 - **Bancadas:** Apresente materiais de alto padrão, como mármore ou quartzo.

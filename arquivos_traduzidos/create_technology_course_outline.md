@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um esboço de curso educacional para uma série de 10-15 aulas voltadas para iniciantes em tecnologia, focando nos seguintes componentes:
 
 - **Noções Básicas de Computador:** 

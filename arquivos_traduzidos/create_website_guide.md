@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para determinar páginas essenciais e tópicos de conteúdo para um novo site na área de Psicoterapia, com foco nas melhores práticas de SEO. O objetivo é garantir que o site tenha uma boa classificação nos motores de busca e direcione palavras-chave com alta intenção de compra de forma eficaz. As principais áreas a serem abordadas incluem:
 
 - Identificação das páginas de serviços principais: Liste as páginas de serviços essenciais relacionadas à psicologia e terapia que devem ser incluídas no site.

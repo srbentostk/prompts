@@ -1,4 +1,4 @@
-```markdown
+ 
 Título: Um Guia Completo para Criar Tweets Engajadores com Emojis
 
 Introdução

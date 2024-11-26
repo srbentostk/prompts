@@ -1,4 +1,4 @@
-```markdown
+ 
 Aqui está o prompt do ChatGPT:
 
 "Preciso de assistência com as seguintes tarefas para iniciar e expandir meu negócio:

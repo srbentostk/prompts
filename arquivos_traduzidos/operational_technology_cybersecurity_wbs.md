@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma Estrutura Analítica do Projeto (EAP) detalhada para um projeto de cibersegurança em Tecnologia Operacional (TO). Considere os seguintes elementos para garantir a abrangência:
 
 - **Iniciação do Projeto:**

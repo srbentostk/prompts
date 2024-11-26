@@ -1,4 +1,4 @@
-```markdown
+ 
 - Forneça um esboço detalhado dos custos iniciais associados à criação de uma empresa de bens de consumo.
 - Cubra as seguintes subtarefas:
   - Identifique e liste os custos fixos típicos, como aluguel de escritório/imóvel, instalação de utilidades e taxas de licenciamento.

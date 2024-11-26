@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um livro de colorir de 6 páginas, com cada página temática inspirada em elementos históricos que ressoam com um público amplo interessado em história. Certifique-se de que cada página esteja projetada para ser impressa em papel tamanho A4 (21 x 29,7 cm). Inclua os seguintes componentes no processo de design do livro de colorir:
 
 - **Desenvolvimento do Tema**: Foque em um tema histórico intitulado "Festa da Ressonância" que incorpore símbolos históricos significativos, monumentos ou figuras que tiveram um impacto duradouro.

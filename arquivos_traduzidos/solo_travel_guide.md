@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para viagens solo que ajude um viajante a decidir para onde ir e quando visitar com base em fatores como clima, eventos e popularidade ao longo do ano. Inclua os seguintes elementos:
 
 - **Recomendações de Destinos**: Sugira os principais destinos adequados para viagens solo e explique por que são ideais para visitantes que viajam sozinhos. Considere fatores como segurança, cultura, acessibilidade e experiências locais.

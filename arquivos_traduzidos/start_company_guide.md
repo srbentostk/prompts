@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente passo a passo sobre como iniciar uma ideia de empresa do zero. Inclua instruções detalhadas e conselhos cobrindo as seguintes áreas-chave:
 
 - **Geração e Validação da Ideia:**

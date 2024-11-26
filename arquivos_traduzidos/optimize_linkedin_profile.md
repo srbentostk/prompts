@@ -1,4 +1,4 @@
-```markdown
+ 
 Otimize meu perfil no LinkedIn com as seguintes considerações:
 
 - **Título e Resumo do Perfil**: Forneça orientações sobre como criar um título e um resumo atraentes que mostrem efetivamente minha identidade profissional e aspirações de carreira.

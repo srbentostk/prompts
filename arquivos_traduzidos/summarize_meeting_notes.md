@@ -1,4 +1,4 @@
-```markdown
+ 
 **Prompt do ChatGPT:**
 
 - Por favor, resuma a ata da reunião fornecida e destaque os pontos principais em formato de lista com marcadores. Isso deve incluir quaisquer tópicos importantes discutidos, decisões tomadas e insights significativos compartilhados durante a reunião.

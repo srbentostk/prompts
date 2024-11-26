@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma resposta abrangente sobre as tendências atuais para Currículos de Executivos C-Suite. Sua resposta deve incluir:
 
 - Uma visão geral das tendências de design e formatação mais populares e eficazes para currículos de C-Suite globalmente.

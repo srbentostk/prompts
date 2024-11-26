@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma estratégia abrangente para usar IA na criação de vídeos cativantes para TikTok baseados em artigos interessantes da Wikipédia. Aborde os seguintes aspectos:
 
 - **Ideias de Conteúdo:**

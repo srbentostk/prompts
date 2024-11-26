@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente sobre como construir um produto de Software como Serviço (SaaS). Sua resposta deve incluir explicações detalhadas e instruções passo a passo para cada um dos seguintes componentes:
 
 1. **Pesquisa de Mercado:**

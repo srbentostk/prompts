@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para uma startup no Brasil sobre como engajar fornecedores de forma eficaz no Alibaba para receber amostras de produtos antes de fazer um pedido maior. Inclua os seguintes elementos em sua resposta:
 
 - **Entendendo os Processos do Alibaba:**

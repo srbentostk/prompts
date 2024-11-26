@@ -1,4 +1,4 @@
-```markdown
+ 
 Elabore uma proposta para seus superiores na Healthbridge Brasil para se tornar um parceiro de canal independente, gerenciando os 100 clientes na região da Costa Verde e no estado de São Paulo enquanto você faz a transição do seu papel atual para iniciar seu próprio negócio. Utilize a seguinte estrutura para a proposta:
 
 - **Introdução:** Apresente-se brevemente e descreva seu papel atual na Healthbridge Brasil.

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para alguém que deseja elaborar um currículo profissional. Aborde os seguintes componentes-chave:
 
 - **Introdução à Elaboração de Currículos:**

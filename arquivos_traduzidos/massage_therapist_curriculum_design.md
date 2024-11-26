@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um currículo estruturado para um programa de massoterapia com 144 horas de instrução, dividido em três módulos, cada um com duração de 48 horas. As aulas devem ser agendadas exclusivamente aos sábados e domingos, com 6 horas de instrução por dia, ao longo de um período de 12 semanas. Forneça o seguinte para cada módulo:
 
 - Uma introdução que apresente uma visão geral e contextualize o módulo.

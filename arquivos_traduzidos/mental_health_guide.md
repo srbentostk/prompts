@@ -1,4 +1,4 @@
-```markdown
+ 
 **Prompt do ChatGPT:**
 
 - Crie um guia abrangente sobre como manter a saúde mental. Inclua as seguintes seções:

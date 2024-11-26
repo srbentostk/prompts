@@ -1,4 +1,4 @@
-```markdown
+ 
 Você tem a tarefa de usar o ChatGPT para auxiliar na extração de dados, comparação e geração de relatórios para cotações de seguros a partir de arquivos PDF. Siga estes passos detalhados:
 
 - **Extração de Dados de PDF**: Oriente o ChatGPT a extrair informações relevantes de múltiplos arquivos PDF que contêm cotações de seguros. Certifique-se de que os dados extraídos correspondam às informações necessárias para comparação com base no exemplo de planilha Excel fornecido.

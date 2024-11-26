@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano de apresentação em vídeo para a empresa World Seas Shipping Bahrain, que será utilizado em publicidade nas redes sociais. O objetivo da apresentação é demonstrar sua capacidade de exibir efetivamente a marca e os serviços da empresa para aumentar sua presença nas redes sociais. Considere as seguintes subtarefas para a apresentação:
 
 - **Identificação do Público-Alvo**: Identifique e descreva o público-alvo para o anúncio. Considere fatores demográficos, interesses e plataformas de redes sociais onde eles estão mais ativos.

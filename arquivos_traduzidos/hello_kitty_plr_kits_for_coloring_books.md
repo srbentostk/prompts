@@ -1,4 +1,4 @@
-```markdown
+ 
 - Pesquise e liste kits de PLR (Direitos de Marca) disponíveis que apresentem a Hello Kitty, especificamente para uso em livros de colorir. Foque em kits que ofereçam ilustrações, desenhos e outros materiais adequados para projetos de livros de colorir.
 - Identifique fontes e sites confiáveis onde esses kits de PLR da Hello Kitty podem ser comprados ou baixados. Certifique-se de verificar se esses kits atendem aos requisitos de direitos autorais e licenciamento.
 - Forneça exemplos ou descrições do que um kit de PLR da Hello Kitty pode incluir, enfatizando quaisquer recursos ou variações únicas específicas para uso em livros de colorir.

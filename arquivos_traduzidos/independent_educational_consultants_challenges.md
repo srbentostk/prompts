@@ -1,4 +1,4 @@
-```markdown
+ 
 - Forneça informações detalhadas sobre os maiores desafios enfrentados pelos Consultores Educacionais Independentes (CEIs).
 - Inclua dados ou estatísticas relevantes relacionados a esses desafios.
 - Faça referência a estudos ou relatórios recentes realizados nos últimos 5 anos que se concentrem nesses desafios.

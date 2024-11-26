@@ -1,4 +1,4 @@
-```markdown
+ 
 Forneça uma história curta criativa, envolvente e perspicaz sobre qualquer tema de sua escolha. Certifique-se de que a história inclua:
 
 - Um início, meio e fim claros.

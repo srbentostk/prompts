@@ -1,4 +1,4 @@
-```markdown
+ 
 Sou esteticista especializada em tratamentos para rejuvenescimento, hiperpigmentação e acne, e gostaria de aumentar minha clientela.
 
 Crie uma estratégia abrangente para aumentar meu número de clientes. A estratégia deve incluir:

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie anotações de estudo detalhadas para preparação de exames, testes e revisão. Considere as seguintes instruções:
 
 - **Identifique Tópicos Chave**: Liste todos os tópicos e sub-tópicos significativos que precisam ser abordados para os testes ou exames. Foque nos conceitos centrais e assegure que estejam alinhados com o currículo ou programa fornecido.

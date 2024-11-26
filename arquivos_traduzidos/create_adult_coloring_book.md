@@ -1,4 +1,4 @@
-```markdown
+ 
 - Crie um conceito para um livro de colorir voltado para o público adulto, com foco em alívio do estresse e relaxamento.
 - Sem violar direitos de propriedade intelectual, desenvolva um personagem ou tema único que evoca um senso de fantasia e nostalgia semelhante ao da Hello Kitty. Considere usar designs abstratos, elementos da natureza ou citações afirmativas como alternativas.
 - Sugira estilos de design e ideias que atraiam um público adulto, garantindo que as páginas para colorir não sejam nem muito simples nem muito complexas, proporcionando uma experiência criativa satisfatória.

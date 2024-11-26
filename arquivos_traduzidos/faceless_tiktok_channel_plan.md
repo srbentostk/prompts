@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano detalhado para construir um canal de TikTok bem-sucedido e anônimo, focado em [TEMA]. Aborde os seguintes aspectos:
 
 - **Estratégia de Conteúdo**

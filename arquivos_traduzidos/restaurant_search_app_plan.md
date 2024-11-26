@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um plano detalhado para o desenvolvimento de um aplicativo móvel que permita aos usuários buscar restaurantes por cidade. O aplicativo deve incluir as seguintes características e funcionalidades:
 
 - **Funcionalidade de Busca:**

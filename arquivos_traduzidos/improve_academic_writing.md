@@ -1,4 +1,4 @@
-```markdown
+ 
 ### Prompt do ChatGPT:
 
 Preciso de ajuda para editar meus ensaios e revisões de literatura. Por favor, realize as seguintes tarefas:

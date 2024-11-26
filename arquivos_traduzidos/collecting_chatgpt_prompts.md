@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado sobre como baixar prompts do ChatGPT em um único documento que possa ser salvo. Inclua os seguintes elementos em sua resposta:
 
 - **Métodos para coletar prompts do ChatGPT:**

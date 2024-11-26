@@ -1,4 +1,4 @@
-```markdown
+ 
 - Examine os impactos econômicos das práticas de construção inseguras no Brasil.
 - Discuta as repercussões financeiras, incluindo perdas financeiras diretas e indiretas, que resultam de tais práticas.
 - Analise como práticas inseguras podem afetar os cronogramas dos projetos, levando a atrasos e aumento de custos.

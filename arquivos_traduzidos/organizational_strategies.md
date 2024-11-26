@@ -1,4 +1,4 @@
-```markdown
+ 
 - Forneça uma visão abrangente sobre estratégias organizacionais que podem melhorar a eficiência e a produtividade dentro de uma equipe ou empresa.
 - Discuta várias ferramentas e técnicas que podem ajudar na organização de tarefas, projetos e tempo de forma eficaz.
 - Explore métodos para organizar os espaços de trabalho físicos e digitais para aumentar o foco e reduzir a bagunça.

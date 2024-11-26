@@ -1,4 +1,4 @@
-```markdown
+ 
 Prompt:
 
 - Ajude-me a iniciar minha própria empresa de tutoria, orientando-me pelos passos iniciais.

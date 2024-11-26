@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado sobre como elaborar um modelo de ata de reunião e como armazená-lo dentro do ChatGPT. Sua resposta deve incluir o seguinte:
 
 - Explique o propósito e a importância das atas de reunião.

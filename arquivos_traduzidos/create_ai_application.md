@@ -1,4 +1,4 @@
-```markdown
+ 
 ### Prompt do ChatGPT:
 
 Preciso da sua ajuda para criar uma aplicação de inteligência artificial projetada para apoiar um aprendizado interativo e eficiente. A IA deve ter as seguintes características e capacidades:

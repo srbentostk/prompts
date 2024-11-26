@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma descrição detalhada e envolvente para uma camiseta temática na loja WanderGear do eBay. A descrição deve atrair clientes em busca de aventura, especialmente entusiastas de trailers e fãs de designs ousados. A camiseta deve capturar o espírito de aventura e liberdade, focando em temas como vikings, empoderamento feminino e o Velho Oeste. Mantenha um tom divertido e aventureiro ao longo do texto. Certifique-se de:
 
 - Destacar o design único e ousado da camiseta.

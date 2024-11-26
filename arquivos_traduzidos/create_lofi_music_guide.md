@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado sobre como produzir música semelhante à Lofi Girl do YouTube, incluindo recomendações para duração e gráficos acompanhantes. Aborde os seguintes componentes:
 
 - **Composição Musical:**

@@ -1,4 +1,4 @@
-```markdown
+ 
 - Gere uma resposta detalhada fornecendo um prompt de "vida dos sonhos" para o ChatGPT que possa ajudar os usuários a visualizar e trabalhar em direção à sua vida ideal.
 - Inclua elementos que incentivem a autorreflexão e a definição de metas específicas, como:
   - Pergunte ao usuário para descrever seu dia ideal, da manhã à noite.

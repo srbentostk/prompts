@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia de estudos para auxiliar um estudante na compreensão dos conceitos-chave dos seguintes capítulos de "Princípios de Gestão da Cadeia de Suprimentos: Uma Abordagem Equilibrada | 5ª Edição" de Joel D. Wisner, PhD, Keah-Choon Tan, PhD, e G. Keong Leong, PhD:
 
 ### Capítulo 6: Sistemas de Planejamento de Recursos

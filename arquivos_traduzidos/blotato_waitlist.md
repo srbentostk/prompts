@@ -1,4 +1,4 @@
-```markdown
+ 
 - Por favor, explique o que significa "lista de espera para Blotato".
 - Descreva possíveis razões pelas quais alguém poderia querer entrar na lista de espera para Blotato.
 - Forneça um guia passo a passo sobre como se inscrever na lista de espera para Blotato.

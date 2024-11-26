@@ -1,4 +1,4 @@
-```markdown
+ 
 ### Prompt do ChatGPT
 
 Tenho um pedido sobre como melhorar um site. Você poderia, por favor:

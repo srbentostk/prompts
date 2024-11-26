@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para otimizar Anúncios no LinkedIn com o objetivo de melhorar o desempenho e as taxas de conversão especificamente para Anúncios de Link de Texto (TLAs) e Anúncios de Mensagem. Inclua os seguintes elementos:
 
 - **Estratégias e Técnicas:** Identifique e explique estratégias para maximizar a eficácia das Campanhas de Anúncios no LinkedIn, alcançando um alto Retorno sobre Investimento (ROI).

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma peça de anúncio abrangente para o Facebook, focando nos seguintes componentes:
 
 - **Títulos Chamativos**: Gere múltiplos títulos cativantes que sejam projetados para chamar a atenção rapidamente e de forma atraente. Esses títulos devem ser relevantes e podem incluir diferentes variações para testar qual ressoa melhor com seu público.

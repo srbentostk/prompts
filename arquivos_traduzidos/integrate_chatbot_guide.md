@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado e abrangente para integrar um chatbot personalizado semelhante ao GPT em um site. Sua resposta deve incluir:
 
 - Uma lista de ferramentas e plataformas adequadas para criar um GPT personalizado que possa ser incorporado em um site. Explique os prós e contras de cada ferramenta.

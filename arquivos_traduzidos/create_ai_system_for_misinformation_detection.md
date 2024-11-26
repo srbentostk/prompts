@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um sistema de IA que possa detectar de forma eficaz deepfakes e notícias falsas, protegendo contra o impacto prejudicial da desinformação. Sua resposta deve abranger todos os aspectos necessários para criar uma ferramenta de detecção robusta. A resposta deve:
 
 - Descrever os principais componentes e funcionalidades do sistema de IA.

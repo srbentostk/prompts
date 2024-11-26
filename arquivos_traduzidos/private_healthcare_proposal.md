@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma proposta de negócios abrangente para alguém na África do Sul que trabalhe na área de Saúde Privada. A proposta deve incluir as seguintes seções:
 
 - **Resumo Executivo**: Forneça uma breve visão geral da proposta, incluindo os principais objetivos e os pontos-chave que serão discutidos.

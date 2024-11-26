@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para ajudar alguém a aprender sobre automação de IA e alcançar a liberdade financeira. Aborde as seguintes áreas-chave:
 
 - **Automação de IA:**

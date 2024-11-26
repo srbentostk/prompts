@@ -1,4 +1,4 @@
-```markdown
+ 
 Analise o seguinte relatório de projeto sobre o Projeto de Conservação, Comunidade e Biodiversidade (CCB) e forneça um resumo detalhado e uma avaliação. Foque nas seguintes áreas-chave:
 
 - **Estratégias de Conservação**: Identifique e avalie as estratégias de conservação descritas no relatório. Discuta a eficácia delas, quaisquer desafios potenciais e sugestões para melhoria.

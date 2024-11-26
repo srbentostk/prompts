@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma visão detalhada sobre a automação em Fintech com foco nos sistemas de pagamento no Brasil, abordando especificamente os seguintes pontos:
 
 - Discuta o estado atual dos sistemas de pagamento no Brasil, destacando a dependência de sistemas legados.

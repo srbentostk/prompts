@@ -1,4 +1,4 @@
-```markdown
+ 
 Entendendo a matemática e o código que sustentam a IA e as várias estratégias empregadas pela IA para modelar respostas a solicitações, além da análise preditiva.
 
 Por favor, cubra as seguintes subtarefas:

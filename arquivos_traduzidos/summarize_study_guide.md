@@ -1,4 +1,4 @@
-```markdown
+ 
 - Use as informações ou arquivos fornecidos para extrair detalhes precisos e relevantes necessários para completar um guia de estudos.
 - Se as informações necessárias não forem fornecidas, pesquise utilizando fontes precisas, confiáveis e citadas para reunir os dados exigidos.
 - Organize e preencha todas as seções do guia de estudos com as informações coletadas.

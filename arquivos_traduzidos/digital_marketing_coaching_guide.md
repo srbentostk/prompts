@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para novos treinadores em plataformas de e-learning de marketing digital, com o objetivo de ajudar novos profissionais de marketing digital. Considere incluir os seguintes elementos:
 
 - **Introdução ao E-Learning em Marketing Digital:**

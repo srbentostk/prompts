@@ -1,4 +1,4 @@
-```markdown
+ 
 Encontre e resuma o específico prompt "PAS" mencionado no vídeo do TikTok linkado abaixo:
 
 - URL: https://vm.tiktok.com/ZMh2cjJw3/

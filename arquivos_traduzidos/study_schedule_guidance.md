@@ -1,4 +1,4 @@
-```markdown
+ 
 Ajude-me a manter a disciplina e a programação nos meus estudos para o exame de residência médica. Preciso de orientações para manter um cronograma de estudos estruturado, incluindo:
 
 - Criar um plano de estudos detalhado e realista adaptado ao exame de residência médica.

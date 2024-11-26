@@ -1,4 +1,4 @@
-```markdown
+ 
 - Pegue o seguinte texto gerado por IA.
 - Humanize-o para garantir que não seja detectável por produtos e softwares de IA.
 - Mantenha um tom profissional de negócios.

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um post personalizado para redes sociais usando o prompt/template fornecido, garantindo que esteja alinhado com a voz e o tom da minha marca. Siga estes passos:
 
 1. **Analise o prompt/template de redes sociais fornecido**:

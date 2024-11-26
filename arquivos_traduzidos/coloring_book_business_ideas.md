@@ -1,4 +1,4 @@
-```markdown
+ 
 **Prompt do ChatGPT:**
 
 - Gere pelo menos 5 ideias criativas de nomes para uma empresa que se especializa na criação de livros de colorir.

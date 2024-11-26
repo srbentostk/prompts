@@ -1,4 +1,4 @@
-```markdown
+ 
 Estou aqui para ajudar com sua solicitação. Embora seu pedido tenha sido apenas "tudo", vou criar um prompt detalhado e abrangente do ChatGPT para orientar uma resposta que possa abranger uma ampla gama de tópicos ou tarefas. Aqui está um prompt adaptável:
 
 ---

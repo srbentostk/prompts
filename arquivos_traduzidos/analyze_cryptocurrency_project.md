@@ -1,4 +1,4 @@
-```markdown
+ 
 Forneça uma análise abrangente de um projeto de criptomoeda. Inclua os seguintes detalhes:
 
 - **Resumo do Projeto**:

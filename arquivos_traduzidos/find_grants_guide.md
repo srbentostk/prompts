@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia detalhado para me ajudar a encontrar subsídios para meus projetos empresariais. O guia deve cobrir:
 
 - **Identificação**: Passos para identificar os tipos de subsídios disponíveis que se alinhem com os projetos empresariais específicos que estou perseguindo.

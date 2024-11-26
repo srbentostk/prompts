@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie conteúdo utilizando técnicas focadas em IA com as seguintes diretrizes:
 
 - **Propósito**: Defina claramente o principal propósito ou objetivo do conteúdo. É para informar, entreter, persuadir ou educar?

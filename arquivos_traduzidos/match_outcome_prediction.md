@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma análise abrangente para prever o resultado de uma partida de futebol, considerando os seguintes fatores:
 
 - **Desempenho das Equipes:**

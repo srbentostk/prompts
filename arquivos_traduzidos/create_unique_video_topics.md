@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie uma lista de tópicos únicos e envolventes para vídeos curtos que chamem a atenção imediatamente. Considere estas diretrizes:
 
 - Pense fora da caixa: Gere tópicos de vídeo não convencionais e criativos que se destaquem.

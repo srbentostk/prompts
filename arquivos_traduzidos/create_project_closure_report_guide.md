@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um guia abrangente para a elaboração de um Relatório de Encerramento de Projeto para o seu curso PJM470S de Gerenciamento de Projetos. Inclua os seguintes elementos:
 
 - **Introdução ao Encerramento de Projetos:**

@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um roteiro de blog de 5 minutos apresentando dois personagens, um representando um adulto e o outro um garoto de 15 anos, ambos lidando com TDAH. Por favor, siga estas diretrizes:
 
 - **Cenário & Introdução**: Comece com uma breve introdução aos personagens e ao tema central de como gerenciar o TDAH em suas vidas diárias.

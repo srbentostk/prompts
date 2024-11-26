@@ -1,4 +1,4 @@
-```markdown
+ 
 Crie um parágrafo detalhado destacando a importância da cibersegurança em Tecnologia Operacional (OT) no setor de resíduos industriais e reciclagem, focando em perspectivas de risco de alto nível. Aborde os seguintes componentes em sua resposta:
 
 - Explique a relevância da cibersegurança em OT na proteção de sistemas e infraestruturas industriais na indústria de resíduos e reciclagem.

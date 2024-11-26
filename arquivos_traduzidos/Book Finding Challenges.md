@@ -1,4 +1,4 @@
-```markdown
+ 
 Identifique e discuta os pontos de dor comuns enfrentados por pais e professores na busca por livros para crianças. Certifique-se de abordar os seguintes aspectos:
 
 - Conteúdo adequado para a idade.
