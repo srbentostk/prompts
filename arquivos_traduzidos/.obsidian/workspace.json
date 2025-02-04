@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "87282d8c267791dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "428c4be0bf37d7a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d70962791a7fec4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "achieving_banking_goals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "achieving_banking_goals"
+            }
+          },
+          {
+            "id": "04802ffd1ba41d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Criar_plano_de_negócios_com_redes_sociais.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Criar_plano_de_negócios_com_redes_sociais"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "693c621f515b9121",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a706773212e3e5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bcbbdab1dfc2029",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "e4e9df5be539da29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "1fb0093126c85da4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac8cb3673de8ec88",
+    "type": "split",
+    "children": [
+      {
+        "id": "51372d0545f5926d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e37451ff7061f17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Criar_plano_de_negócios_com_redes_sociais.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Criar_plano_de_negócios_com_redes_sociais"
+            }
+          },
+          {
+            "id": "1c077e3b5b86d7e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Criar_plano_de_negócios_com_redes_sociais.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Criar_plano_de_negócios_com_redes_sociais"
+            }
+          },
+          {
+            "id": "a9edaf93c99163bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "37f6dfbd7de62dae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Criar_plano_de_negócios_com_redes_sociais.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Criar_plano_de_negócios_com_redes_sociais"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "04802ffd1ba41d6c",
+  "lastOpenFiles": [
+    "achieving_banking_goals.md",
+    "Criar_plano_de_negócios_com_redes_sociais.md",
+    "affiliate_marketing_guide.md"
+  ]
+}
